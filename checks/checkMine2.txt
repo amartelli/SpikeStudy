@@ -1,0 +1,393 @@
+24-Apr-2013 14:47:47 CEST  Initiating request to open file file:/afs/cern.ch/user/s/sandhya/scratch0/CMSSW_6_1_2/src/SimCalorimetry/EcalSimProducers/test/test/DYToLLM50_standard_sc1.root
+24-Apr-2013 14:47:49 CEST  Successfully opened file file:/afs/cern.ch/user/s/sandhya/scratch0/CMSSW_6_1_2/src/SimCalorimetry/EcalSimProducers/test/test/DYToLLM50_standard_sc1.root
+Begin processing the 1st record. Run 1, Event 43209403, LumiSection 43515 at 24-Apr-2013 14:47:54.237 CEST
+energy :0.108231 	 time : 15.3695
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 2nd record. Run 1, Event 43209404, LumiSection 43515 at 24-Apr-2013 14:47:54.251 CEST
+energy :0.124429 	 time : 21.7885
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 3rd record. Run 1, Event 43209405, LumiSection 43515 at 24-Apr-2013 14:47:54.252 CEST
+energy :0.0860761 	 time : 13.7172
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.10705 	 time : 14.6332
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 4th record. Run 1, Event 43209406, LumiSection 43515 at 24-Apr-2013 14:47:54.254 CEST
+energy :0.109053 	 time : -30.2369
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.113443 	 time : 12.0683
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 5th record. Run 1, Event 43209407, LumiSection 43515 at 24-Apr-2013 14:47:54.255 CEST
+Begin processing the 6th record. Run 1, Event 43209408, LumiSection 43515 at 24-Apr-2013 14:47:54.256 CEST
+energy :0.0907224 	 time : 35.4758
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.100413 	 time : -1.00954
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0749751 	 time : 32.2132
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0941412 	 time : -4.97223
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.10538 	 time : 14.4014
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0952101 	 time : 5.98528
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 7th record. Run 1, Event 43209409, LumiSection 43515 at 24-Apr-2013 14:47:54.257 CEST
+Begin processing the 8th record. Run 1, Event 43209410, LumiSection 43515 at 24-Apr-2013 14:47:54.259 CEST
+energy :0.0173441 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0263944 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0257846 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.00301061 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0294785 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0172085 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :1.69597 	 time : 0.156527
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.202535 	 time : -5.06999
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0128723 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.161611 	 time : -7.06938
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0751857 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0279836 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0302876 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.022518 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0178088 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.117644 	 time : -11.2828
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 9th record. Run 1, Event 43209411, LumiSection 43515 at 24-Apr-2013 14:47:54.261 CEST
+energy :0.1515 	 time : 10.7705
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0957948 	 time : 7.70274
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 10th record. Run 1, Event 43209412, LumiSection 43515 at 24-Apr-2013 14:47:54.262 CEST
+energy :0.171964 	 time : 10.2748
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.106532 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 11th record. Run 1, Event 43209413, LumiSection 43515 at 24-Apr-2013 14:47:54.264 CEST
+energy :0.108079 	 time : 25.8725
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.143916 	 time : 34.7217
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 12th record. Run 1, Event 43209414, LumiSection 43515 at 24-Apr-2013 14:47:54.266 CEST
+energy :0.0819865 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.151878 	 time : 11.4333
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.102849 	 time : -11.0578
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.153665 	 time : -6.02171
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 13th record. Run 1, Event 43209415, LumiSection 43515 at 24-Apr-2013 14:47:54.268 CEST
+energy :0.123145 	 time : 10.4558
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0844065 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 14th record. Run 1, Event 43209416, LumiSection 43515 at 24-Apr-2013 14:47:54.270 CEST
+energy :0.110298 	 time : 2.10313
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.165331 	 time : 5.8234
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.101503 	 time : 3.47377
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.105912 	 time : 9.02969
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0441562 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0346535 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :1.20018 	 time : -1.65028
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.235409 	 time : 0.497126
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0501744 	 time : 11.6819
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0615286 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0175561 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0351975 	 time : -53.5488
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0106967 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0124961 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0992573 	 time : 6.64205
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 15th record. Run 1, Event 43209417, LumiSection 43515 at 24-Apr-2013 14:47:54.272 CEST
+energy :0.161901 	 time : 16.2302
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.129481 	 time : 14.4702
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0875465 	 time : 5.98528
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.121353 	 time : 20.0278
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 16th record. Run 1, Event 43209418, LumiSection 43515 at 24-Apr-2013 14:47:54.274 CEST
+energy :0.139088 	 time : 13.4585
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0400345 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0427111 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.402821 	 time : -0.570357
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0293367 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.00743619 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0719628 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0930805 	 time : 2.9629
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0420947 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.016378 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0153807 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.13561 	 time : 16.8576
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.496963 	 time : 1.87265
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0506278 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.11529 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0351118 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0136278 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.019268 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0288089 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0269528 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.00404549 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0504255 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0576659 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0760049 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0144994 	 time : 59.9398
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0801899 	 time : -1.00954
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :1.64761 	 time : 0.126523
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0703512 	 time : -96.7068
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.00935938 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0586908 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0303267 	 time : 34.9398
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.180548 	 time : 5.68265
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.64876 	 time : -2.40813
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0951386 	 time : 13.1782
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0492493 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.00361036 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0262653 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0197709 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0593022 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0500387 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0236881 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.115436 	 time : 7.21309
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0531603 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.048254 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0740564 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.00775006 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0308551 	 time : 44.7631
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0136153 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0213628 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.106758 	 time : 13.1401
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :1.25283 	 time : 0.382458
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.114288 	 time : 19.9809
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.00985893 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.18313 	 time : -7.06938
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0126392 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0325074 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0308441 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0389771 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0580267 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.238037 	 time : -0.0581596
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.136661 	 time : 12.1738
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.113914 	 time : -0.602436
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0334842 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0412279 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0251233 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.12326 	 time : 4.99714
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 17th record. Run 1, Event 43209419, LumiSection 43515 at 24-Apr-2013 14:47:54.279 CEST
+energy :0.12149 	 time : 22.3745
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.120396 	 time : 10.2966
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.133557 	 time : 13.9422
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 18th record. Run 1, Event 43209420, LumiSection 43515 at 24-Apr-2013 14:47:54.281 CEST
+energy :0.121951 	 time : 3.42512
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.400375 	 time : 0.935585
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0986971 	 time : 17.5467
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.150607 	 time : -7.01583
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 19th record. Run 1, Event 43209421, LumiSection 43515 at 24-Apr-2013 14:47:54.283 CEST
+energy :0.126043 	 time : 12.3212
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 20th record. Run 1, Event 43209422, LumiSection 43515 at 24-Apr-2013 14:47:54.284 CEST
+energy :0.126058 	 time : 19.2482
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.120125 	 time : 1.22147
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 21st record. Run 1, Event 43209423, LumiSection 43515 at 24-Apr-2013 14:47:54.289 CEST
+energy :0.0853702 	 time : 42.727
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 22nd record. Run 1, Event 43209424, LumiSection 43515 at 24-Apr-2013 14:47:54.291 CEST
+energy :0.112497 	 time : 32.4503
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.128296 	 time : 37.1667
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.120766 	 time : 11.4032
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 23rd record. Run 1, Event 43209425, LumiSection 43515 at 24-Apr-2013 14:47:54.293 CEST
+energy :1.10061 	 time : -0.199582
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.186577 	 time : 13.4644
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0132091 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0540756 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.044684 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :-0.0822434 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0284776 	 time : 44.7631
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.169566 	 time : 10.7705
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0580517 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0327863 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.190244 	 time : 5.45633
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.510496 	 time : 1.24637
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :1.32673 	 time : -0.171779
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0221002 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.307798 	 time : -1.50561
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.125227 	 time : -6.61559
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.105635 	 time : 8.79148
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 24th record. Run 1, Event 43209426, LumiSection 43515 at 24-Apr-2013 14:47:54.295 CEST
+energy :0.115184 	 time : 0.872498
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.101635 	 time : -0.9274
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.118114 	 time : 22.0951
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 25th record. Run 1, Event 43209427, LumiSection 43515 at 24-Apr-2013 14:47:54.297 CEST
+energy :0.116245 	 time : 8.02412
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 26th record. Run 1, Event 43209428, LumiSection 43515 at 24-Apr-2013 14:47:54.299 CEST
+energy :0.112924 	 time : 18.339
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 27th record. Run 1, Event 43209429, LumiSection 43515 at 24-Apr-2013 14:47:54.301 CEST
+energy :0.100576 	 time : 19.2303
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.144818 	 time : 4.08241
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 28th record. Run 1, Event 43209430, LumiSection 43515 at 24-Apr-2013 14:47:54.302 CEST
+energy :0.141829 	 time : 10.4545
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.0973295 	 time : 20.2319
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 29th record. Run 1, Event 43209431, LumiSection 43515 at 24-Apr-2013 14:47:54.303 CEST
+energy :0.0819856 	 time : -30.2369
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.155785 	 time : 7.32998
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.167899 	 time : 16.1723
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 30th record. Run 1, Event 43209432, LumiSection 43515 at 24-Apr-2013 14:47:54.305 CEST
+energy :0.140721 	 time : 12.6107
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.172856 	 time : 5.19235
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :0.151026 	 time : 2.82766
+kWeird:0	 kDiWeird:0	 kOOT:0
+24-Apr-2013 14:47:54 CEST  Closed file file:/afs/cern.ch/user/s/sandhya/scratch0/CMSSW_6_1_2/src/SimCalorimetry/EcalSimProducers/test/test/DYToLLM50_standard_sc1.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3

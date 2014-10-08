@@ -1,0 +1,18 @@
+checkMine.txt : 
+when I changed the global tag as in Arabella's file, I still see different energies and timings for some hits, see the diff of try.txt; checkMine.txt
+< energy :0.0134888	   time : 44.7631
+---
+> energy :0.0284776	 time : 44.7631
+
+
+for 23rd event
+
+
+
+Now I added the missing global tag for linear correction in effective approach, does not make any difference ofcourse, as we 
+are not using the effective approach either. (checkMine1.txt)
+
+
+Now I finally change the way apd hits are being added to digi collection for scintation, the way to Arabella did. 
+(checkMine2.txt)
+and now things seem to match 
