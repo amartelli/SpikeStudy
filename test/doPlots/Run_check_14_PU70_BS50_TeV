@@ -1,0 +1,14 @@
+cp tree_mc.C tree.C
+cp tree_mc.h tree.h
+
+cat tree_mc.C | grep -v  remove > tree.C
+rm -f run_mc_14TeV	
+if ./rootcom tree run_mc_14TeV
+then
+./run_mc_14TeV "/afs/cern.ch/work/a/amartell/Upgrade/SpikesStudies/CMSSW_6_1_2_SLHC4/src/DPGTask/SpikeStudy/test/MinBias_PU70_BS50_14TeV.root" "/afs/cern.ch/work/a/amartell/Upgrade/SpikesStudies/CMSSW_6_1_2_SLHC4/src/DPGTask/SpikeStudy/test/doPlots/MinBias_612_14TeV_MBonly_PU70_BS50_Output.root"
+fi
+
+exit 
+cp tree_data.C tree.C
+cp tree_data.h tree.h
+if ./rootcom tree run_data

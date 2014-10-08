@@ -1,0 +1,53 @@
+
+# DO NOT DELETE
+
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TH2.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TH1.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAxis.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TNamed.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TObject.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/Rtypes.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/RConfig.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/RVersion.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/DllImport.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/Rtypeinfo.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/snprintf.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/strlcpy.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TGenericClassInfo.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TSchemaHelper.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TStorage.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TVersionCheck.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/Riosfwd.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TBuffer.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TString.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TMathBase.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttAxis.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TArrayD.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TArray.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttLine.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttFill.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttMarker.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TArrayC.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TArrayS.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TArrayI.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TArrayF.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/Foption.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TVectorFfwd.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TVectorDfwd.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TFitResultPtr.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TMatrixFBasefwd.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TMatrixDBasefwd.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TStyle.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttText.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TCanvas.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TPad.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TVirtualPad.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttPad.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TVirtualX.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/GuiTypes.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/Buttons.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TQObject.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TAttCanvas.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/TCanvasImp.h
+./tree_mc_C.so: /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/cintdictversion.h /afs/cern.ch/cms/slc5_amd64_gcc472/lcg/root/5.34.03-cms4/include/RVersion.h
+tree_mc_C__ROOTBUILDVERSION= 5.34/03

@@ -1,0 +1,1180 @@
+29-Apr-2013 11:52:53 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective.root
+29-Apr-2013 11:52:55 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective.root
+Begin processing the 1st record. Run 1, Event 43209403, LumiSection 43515 at 29-Apr-2013 11:52:58.477 CEST
+Begin processing the 2nd record. Run 1, Event 43209404, LumiSection 43515 at 29-Apr-2013 11:52:58.487 CEST
+Begin processing the 3rd record. Run 1, Event 43209405, LumiSection 43515 at 29-Apr-2013 11:52:58.487 CEST
+Begin processing the 4th record. Run 1, Event 43209406, LumiSection 43515 at 29-Apr-2013 11:52:58.488 CEST
+Begin processing the 5th record. Run 1, Event 43209407, LumiSection 43515 at 29-Apr-2013 11:52:58.489 CEST
+Begin processing the 6th record. Run 1, Event 43209408, LumiSection 43515 at 29-Apr-2013 11:52:58.489 CEST
+Begin processing the 7th record. Run 1, Event 43209409, LumiSection 43515 at 29-Apr-2013 11:52:58.490 CEST
+Begin processing the 8th record. Run 1, Event 43209410, LumiSection 43515 at 29-Apr-2013 11:52:58.490 CEST
+Begin processing the 9th record. Run 1, Event 43209411, LumiSection 43515 at 29-Apr-2013 11:52:58.491 CEST
+Begin processing the 10th record. Run 1, Event 43209412, LumiSection 43515 at 29-Apr-2013 11:52:58.492 CEST
+Begin processing the 11th record. Run 1, Event 43209413, LumiSection 43515 at 29-Apr-2013 11:52:58.492 CEST
+Begin processing the 12th record. Run 1, Event 43209414, LumiSection 43515 at 29-Apr-2013 11:52:58.493 CEST
+Begin processing the 13th record. Run 1, Event 43209415, LumiSection 43515 at 29-Apr-2013 11:52:58.494 CEST
+Begin processing the 14th record. Run 1, Event 43209416, LumiSection 43515 at 29-Apr-2013 11:52:58.494 CEST
+Begin processing the 15th record. Run 1, Event 43209417, LumiSection 43515 at 29-Apr-2013 11:52:58.495 CEST
+Begin processing the 16th record. Run 1, Event 43209418, LumiSection 43515 at 29-Apr-2013 11:52:58.496 CEST
+Begin processing the 17th record. Run 1, Event 43209419, LumiSection 43515 at 29-Apr-2013 11:52:58.496 CEST
+Begin processing the 18th record. Run 1, Event 43209420, LumiSection 43515 at 29-Apr-2013 11:52:58.497 CEST
+Begin processing the 19th record. Run 1, Event 43209421, LumiSection 43515 at 29-Apr-2013 11:52:58.498 CEST
+Begin processing the 20th record. Run 1, Event 43209422, LumiSection 43515 at 29-Apr-2013 11:52:58.498 CEST
+Begin processing the 21st record. Run 1, Event 43209423, LumiSection 43515 at 29-Apr-2013 11:52:58.501 CEST
+Begin processing the 22nd record. Run 1, Event 43209424, LumiSection 43515 at 29-Apr-2013 11:52:58.538 CEST
+Begin processing the 23rd record. Run 1, Event 43209425, LumiSection 43515 at 29-Apr-2013 11:52:58.539 CEST
+Begin processing the 24th record. Run 1, Event 43209426, LumiSection 43515 at 29-Apr-2013 11:52:58.540 CEST
+Begin processing the 25th record. Run 1, Event 43209427, LumiSection 43515 at 29-Apr-2013 11:52:58.540 CEST
+Begin processing the 26th record. Run 1, Event 43209428, LumiSection 43515 at 29-Apr-2013 11:52:58.541 CEST
+Begin processing the 27th record. Run 1, Event 43209429, LumiSection 43515 at 29-Apr-2013 11:52:58.542 CEST
+Begin processing the 28th record. Run 1, Event 43209430, LumiSection 43515 at 29-Apr-2013 11:52:58.542 CEST
+Begin processing the 29th record. Run 1, Event 43209431, LumiSection 43515 at 29-Apr-2013 11:52:58.543 CEST
+Begin processing the 30th record. Run 1, Event 43209432, LumiSection 43515 at 29-Apr-2013 11:52:58.544 CEST
+Begin processing the 31st record. Run 1, Event 43209433, LumiSection 43515 at 29-Apr-2013 11:52:58.545 CEST
+Begin processing the 32nd record. Run 1, Event 43209434, LumiSection 43515 at 29-Apr-2013 11:52:58.545 CEST
+Begin processing the 33rd record. Run 1, Event 43209435, LumiSection 43515 at 29-Apr-2013 11:52:58.546 CEST
+Begin processing the 34th record. Run 1, Event 43209436, LumiSection 43515 at 29-Apr-2013 11:52:58.546 CEST
+Begin processing the 35th record. Run 1, Event 43209437, LumiSection 43515 at 29-Apr-2013 11:52:58.547 CEST
+Begin processing the 36th record. Run 1, Event 43209438, LumiSection 43515 at 29-Apr-2013 11:52:58.548 CEST
+Begin processing the 37th record. Run 1, Event 43209439, LumiSection 43515 at 29-Apr-2013 11:52:58.548 CEST
+Begin processing the 38th record. Run 1, Event 43209440, LumiSection 43515 at 29-Apr-2013 11:52:58.549 CEST
+Begin processing the 39th record. Run 1, Event 43209441, LumiSection 43515 at 29-Apr-2013 11:52:58.550 CEST
+Begin processing the 40th record. Run 1, Event 43209442, LumiSection 43515 at 29-Apr-2013 11:52:58.550 CEST
+Begin processing the 41st record. Run 1, Event 43209443, LumiSection 43515 at 29-Apr-2013 11:52:58.551 CEST
+Begin processing the 42nd record. Run 1, Event 43209444, LumiSection 43515 at 29-Apr-2013 11:52:58.552 CEST
+Begin processing the 43rd record. Run 1, Event 43209445, LumiSection 43515 at 29-Apr-2013 11:52:58.552 CEST
+Begin processing the 44th record. Run 1, Event 43209446, LumiSection 43515 at 29-Apr-2013 11:52:58.553 CEST
+Begin processing the 45th record. Run 1, Event 43209447, LumiSection 43515 at 29-Apr-2013 11:52:58.553 CEST
+Begin processing the 46th record. Run 1, Event 43209448, LumiSection 43515 at 29-Apr-2013 11:52:58.554 CEST
+Begin processing the 47th record. Run 1, Event 43209449, LumiSection 43515 at 29-Apr-2013 11:52:58.555 CEST
+Begin processing the 48th record. Run 1, Event 43209450, LumiSection 43515 at 29-Apr-2013 11:52:58.555 CEST
+Begin processing the 49th record. Run 1, Event 43209451, LumiSection 43515 at 29-Apr-2013 11:52:58.556 CEST
+Begin processing the 50th record. Run 1, Event 43209452, LumiSection 43515 at 29-Apr-2013 11:52:58.557 CEST
+Begin processing the 51st record. Run 1, Event 43209453, LumiSection 43515 at 29-Apr-2013 11:52:58.557 CEST
+Begin processing the 52nd record. Run 1, Event 43209454, LumiSection 43515 at 29-Apr-2013 11:52:58.558 CEST
+Begin processing the 53rd record. Run 1, Event 43209455, LumiSection 43515 at 29-Apr-2013 11:52:58.559 CEST
+Begin processing the 54th record. Run 1, Event 43209456, LumiSection 43515 at 29-Apr-2013 11:52:58.559 CEST
+Begin processing the 55th record. Run 1, Event 43209457, LumiSection 43515 at 29-Apr-2013 11:52:58.560 CEST
+Begin processing the 56th record. Run 1, Event 43209458, LumiSection 43515 at 29-Apr-2013 11:52:58.564 CEST
+Begin processing the 57th record. Run 1, Event 43209459, LumiSection 43515 at 29-Apr-2013 11:52:58.564 CEST
+Begin processing the 58th record. Run 1, Event 43209460, LumiSection 43515 at 29-Apr-2013 11:52:58.565 CEST
+Begin processing the 59th record. Run 1, Event 43209461, LumiSection 43515 at 29-Apr-2013 11:52:58.566 CEST
+Begin processing the 60th record. Run 1, Event 43209462, LumiSection 43515 at 29-Apr-2013 11:52:58.566 CEST
+Begin processing the 61st record. Run 1, Event 43209463, LumiSection 43515 at 29-Apr-2013 11:52:58.567 CEST
+Begin processing the 62nd record. Run 1, Event 43209464, LumiSection 43515 at 29-Apr-2013 11:52:58.567 CEST
+Begin processing the 63rd record. Run 1, Event 43209465, LumiSection 43515 at 29-Apr-2013 11:52:58.568 CEST
+Begin processing the 64th record. Run 1, Event 43209466, LumiSection 43515 at 29-Apr-2013 11:52:58.568 CEST
+Begin processing the 65th record. Run 1, Event 43209467, LumiSection 43515 at 29-Apr-2013 11:52:58.569 CEST
+Begin processing the 66th record. Run 1, Event 43209468, LumiSection 43515 at 29-Apr-2013 11:52:58.570 CEST
+Begin processing the 67th record. Run 1, Event 43209469, LumiSection 43515 at 29-Apr-2013 11:52:58.570 CEST
+Begin processing the 68th record. Run 1, Event 43209470, LumiSection 43515 at 29-Apr-2013 11:52:58.571 CEST
+Begin processing the 69th record. Run 1, Event 43209471, LumiSection 43515 at 29-Apr-2013 11:52:58.571 CEST
+Begin processing the 70th record. Run 1, Event 43209472, LumiSection 43515 at 29-Apr-2013 11:52:58.572 CEST
+Begin processing the 71st record. Run 1, Event 43209473, LumiSection 43515 at 29-Apr-2013 11:52:58.572 CEST
+Begin processing the 72nd record. Run 1, Event 43209474, LumiSection 43515 at 29-Apr-2013 11:52:58.573 CEST
+Begin processing the 73rd record. Run 1, Event 43209475, LumiSection 43515 at 29-Apr-2013 11:52:58.574 CEST
+Begin processing the 74th record. Run 1, Event 43209476, LumiSection 43515 at 29-Apr-2013 11:52:58.574 CEST
+Begin processing the 75th record. Run 1, Event 43209477, LumiSection 43515 at 29-Apr-2013 11:52:58.575 CEST
+Begin processing the 76th record. Run 1, Event 43209478, LumiSection 43515 at 29-Apr-2013 11:52:58.575 CEST
+Begin processing the 77th record. Run 1, Event 43209479, LumiSection 43515 at 29-Apr-2013 11:52:58.576 CEST
+Begin processing the 78th record. Run 1, Event 43209480, LumiSection 43515 at 29-Apr-2013 11:52:58.576 CEST
+Begin processing the 79th record. Run 1, Event 43209481, LumiSection 43515 at 29-Apr-2013 11:52:58.577 CEST
+Begin processing the 80th record. Run 1, Event 43209482, LumiSection 43515 at 29-Apr-2013 11:52:58.578 CEST
+Begin processing the 81st record. Run 1, Event 43209483, LumiSection 43515 at 29-Apr-2013 11:52:58.578 CEST
+Begin processing the 82nd record. Run 1, Event 43209484, LumiSection 43515 at 29-Apr-2013 11:52:58.579 CEST
+Begin processing the 83rd record. Run 1, Event 43209485, LumiSection 43515 at 29-Apr-2013 11:52:58.579 CEST
+Begin processing the 84th record. Run 1, Event 43209486, LumiSection 43515 at 29-Apr-2013 11:52:58.580 CEST
+Begin processing the 85th record. Run 1, Event 43209487, LumiSection 43515 at 29-Apr-2013 11:52:58.580 CEST
+Begin processing the 86th record. Run 1, Event 43209488, LumiSection 43515 at 29-Apr-2013 11:52:58.581 CEST
+Begin processing the 87th record. Run 1, Event 43209489, LumiSection 43515 at 29-Apr-2013 11:52:58.582 CEST
+Begin processing the 88th record. Run 1, Event 43209490, LumiSection 43515 at 29-Apr-2013 11:52:58.583 CEST
+Begin processing the 89th record. Run 1, Event 43209491, LumiSection 43515 at 29-Apr-2013 11:52:58.583 CEST
+Begin processing the 90th record. Run 1, Event 43209492, LumiSection 43515 at 29-Apr-2013 11:52:58.584 CEST
+Begin processing the 91st record. Run 1, Event 43209493, LumiSection 43515 at 29-Apr-2013 11:52:58.585 CEST
+Begin processing the 92nd record. Run 1, Event 43209494, LumiSection 43515 at 29-Apr-2013 11:52:58.586 CEST
+Begin processing the 93rd record. Run 1, Event 43209495, LumiSection 43515 at 29-Apr-2013 11:52:58.586 CEST
+Begin processing the 94th record. Run 1, Event 43209496, LumiSection 43515 at 29-Apr-2013 11:52:58.587 CEST
+Begin processing the 95th record. Run 1, Event 43209497, LumiSection 43515 at 29-Apr-2013 11:52:58.588 CEST
+Begin processing the 96th record. Run 1, Event 43209498, LumiSection 43515 at 29-Apr-2013 11:52:58.589 CEST
+Begin processing the 97th record. Run 1, Event 43209499, LumiSection 43515 at 29-Apr-2013 11:52:58.589 CEST
+Begin processing the 98th record. Run 1, Event 43209500, LumiSection 43515 at 29-Apr-2013 11:52:58.590 CEST
+Begin processing the 99th record. Run 1, Event 43209501, LumiSection 43515 at 29-Apr-2013 11:52:58.591 CEST
+Begin processing the 100th record. Run 1, Event 43209502, LumiSection 43515 at 29-Apr-2013 11:52:58.591 CEST
+Begin processing the 101st record. Run 1, Event 43209503, LumiSection 43515 at 29-Apr-2013 11:52:58.592 CEST
+Begin processing the 102nd record. Run 1, Event 43209504, LumiSection 43515 at 29-Apr-2013 11:52:58.593 CEST
+Begin processing the 103rd record. Run 1, Event 43209505, LumiSection 43515 at 29-Apr-2013 11:52:58.593 CEST
+Begin processing the 104th record. Run 1, Event 43209506, LumiSection 43515 at 29-Apr-2013 11:52:58.594 CEST
+Begin processing the 105th record. Run 1, Event 43209507, LumiSection 43515 at 29-Apr-2013 11:52:58.595 CEST
+Begin processing the 106th record. Run 1, Event 43209508, LumiSection 43515 at 29-Apr-2013 11:52:58.596 CEST
+Begin processing the 107th record. Run 1, Event 43209509, LumiSection 43515 at 29-Apr-2013 11:52:58.597 CEST
+Begin processing the 108th record. Run 1, Event 43209510, LumiSection 43515 at 29-Apr-2013 11:52:58.597 CEST
+Begin processing the 109th record. Run 1, Event 43209511, LumiSection 43515 at 29-Apr-2013 11:52:58.598 CEST
+Begin processing the 110th record. Run 1, Event 43209512, LumiSection 43515 at 29-Apr-2013 11:52:58.603 CEST
+Begin processing the 111th record. Run 1, Event 43209513, LumiSection 43515 at 29-Apr-2013 11:52:58.604 CEST
+Begin processing the 112th record. Run 1, Event 43209514, LumiSection 43515 at 29-Apr-2013 11:52:58.604 CEST
+Begin processing the 113th record. Run 1, Event 43209515, LumiSection 43515 at 29-Apr-2013 11:52:58.605 CEST
+Begin processing the 114th record. Run 1, Event 43209516, LumiSection 43515 at 29-Apr-2013 11:52:58.606 CEST
+Begin processing the 115th record. Run 1, Event 43209517, LumiSection 43515 at 29-Apr-2013 11:52:58.607 CEST
+energy :3.22376 	 time : 0.295151
+ieta:-6	 iphi: 151
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 116th record. Run 1, Event 43209518, LumiSection 43515 at 29-Apr-2013 11:52:58.607 CEST
+Begin processing the 117th record. Run 1, Event 43209519, LumiSection 43515 at 29-Apr-2013 11:52:58.608 CEST
+Begin processing the 118th record. Run 1, Event 43209520, LumiSection 43515 at 29-Apr-2013 11:52:58.609 CEST
+Begin processing the 119th record. Run 1, Event 43209521, LumiSection 43515 at 29-Apr-2013 11:52:58.609 CEST
+Begin processing the 120th record. Run 1, Event 43209522, LumiSection 43515 at 29-Apr-2013 11:52:58.610 CEST
+Begin processing the 121st record. Run 1, Event 43209523, LumiSection 43515 at 29-Apr-2013 11:52:58.611 CEST
+Begin processing the 122nd record. Run 1, Event 43209524, LumiSection 43515 at 29-Apr-2013 11:52:58.612 CEST
+Begin processing the 123rd record. Run 1, Event 43209525, LumiSection 43515 at 29-Apr-2013 11:52:58.613 CEST
+Begin processing the 124th record. Run 1, Event 43209526, LumiSection 43515 at 29-Apr-2013 11:52:58.613 CEST
+Begin processing the 125th record. Run 1, Event 43209527, LumiSection 43515 at 29-Apr-2013 11:52:58.614 CEST
+Begin processing the 126th record. Run 1, Event 43209528, LumiSection 43515 at 29-Apr-2013 11:52:58.615 CEST
+Begin processing the 127th record. Run 1, Event 43209529, LumiSection 43515 at 29-Apr-2013 11:52:58.616 CEST
+Begin processing the 128th record. Run 1, Event 43209530, LumiSection 43515 at 29-Apr-2013 11:52:58.616 CEST
+Begin processing the 129th record. Run 1, Event 43209531, LumiSection 43515 at 29-Apr-2013 11:52:58.617 CEST
+Begin processing the 130th record. Run 1, Event 43209532, LumiSection 43515 at 29-Apr-2013 11:52:58.617 CEST
+Begin processing the 131st record. Run 1, Event 43209533, LumiSection 43515 at 29-Apr-2013 11:52:58.618 CEST
+Begin processing the 132nd record. Run 1, Event 43209534, LumiSection 43515 at 29-Apr-2013 11:52:58.619 CEST
+Begin processing the 133rd record. Run 1, Event 43209535, LumiSection 43515 at 29-Apr-2013 11:52:58.620 CEST
+Begin processing the 134th record. Run 1, Event 43209536, LumiSection 43515 at 29-Apr-2013 11:52:58.620 CEST
+Begin processing the 135th record. Run 1, Event 43209537, LumiSection 43515 at 29-Apr-2013 11:52:58.621 CEST
+Begin processing the 136th record. Run 1, Event 43209538, LumiSection 43515 at 29-Apr-2013 11:52:58.622 CEST
+Begin processing the 137th record. Run 1, Event 43209539, LumiSection 43515 at 29-Apr-2013 11:52:58.622 CEST
+Begin processing the 138th record. Run 1, Event 43209540, LumiSection 43515 at 29-Apr-2013 11:52:58.623 CEST
+Begin processing the 139th record. Run 1, Event 43209541, LumiSection 43515 at 29-Apr-2013 11:52:58.624 CEST
+Begin processing the 140th record. Run 1, Event 43209542, LumiSection 43515 at 29-Apr-2013 11:52:58.624 CEST
+Begin processing the 141st record. Run 1, Event 43209543, LumiSection 43515 at 29-Apr-2013 11:52:58.625 CEST
+Begin processing the 142nd record. Run 1, Event 43209544, LumiSection 43515 at 29-Apr-2013 11:52:58.626 CEST
+Begin processing the 143rd record. Run 1, Event 43209545, LumiSection 43515 at 29-Apr-2013 11:52:58.626 CEST
+Begin processing the 144th record. Run 1, Event 43209546, LumiSection 43515 at 29-Apr-2013 11:52:58.627 CEST
+Begin processing the 145th record. Run 1, Event 43209547, LumiSection 43515 at 29-Apr-2013 11:52:58.628 CEST
+Begin processing the 146th record. Run 1, Event 43209548, LumiSection 43515 at 29-Apr-2013 11:52:58.629 CEST
+Begin processing the 147th record. Run 1, Event 43209549, LumiSection 43515 at 29-Apr-2013 11:52:58.629 CEST
+Begin processing the 148th record. Run 1, Event 43209550, LumiSection 43515 at 29-Apr-2013 11:52:58.630 CEST
+Begin processing the 149th record. Run 1, Event 43209551, LumiSection 43515 at 29-Apr-2013 11:52:58.631 CEST
+Begin processing the 150th record. Run 1, Event 43209552, LumiSection 43515 at 29-Apr-2013 11:52:58.631 CEST
+Begin processing the 151st record. Run 1, Event 43209553, LumiSection 43515 at 29-Apr-2013 11:52:58.632 CEST
+Begin processing the 152nd record. Run 1, Event 43209554, LumiSection 43515 at 29-Apr-2013 11:52:58.633 CEST
+Begin processing the 153rd record. Run 1, Event 43209555, LumiSection 43515 at 29-Apr-2013 11:52:58.633 CEST
+Begin processing the 154th record. Run 1, Event 43209556, LumiSection 43515 at 29-Apr-2013 11:52:58.634 CEST
+energy :7.30944 	 time : -13.5002
+ieta:-34	 iphi: 153
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	237	1
+4	369	1
+5	371	1
+6	336	1
+7	297	1
+8	265	1
+9	242	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	199	1
+3	233	1
+4	370	1
+5	372	1
+6	337	1
+7	299	1
+8	265	1
+9	242	1
+Begin processing the 155th record. Run 1, Event 43209557, LumiSection 43515 at 29-Apr-2013 11:52:58.635 CEST
+Begin processing the 156th record. Run 1, Event 43209558, LumiSection 43515 at 29-Apr-2013 11:52:58.636 CEST
+energy :5.10435 	 time : 0.0944651
+ieta:-32	 iphi: 223
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.48955 	 time : 0.230726
+ieta:-37	 iphi: 16
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 157th record. Run 1, Event 43209559, LumiSection 43515 at 29-Apr-2013 11:52:58.637 CEST
+Begin processing the 158th record. Run 1, Event 43209560, LumiSection 43515 at 29-Apr-2013 11:52:58.637 CEST
+Begin processing the 159th record. Run 1, Event 43209561, LumiSection 43515 at 29-Apr-2013 11:52:58.638 CEST
+Begin processing the 160th record. Run 1, Event 43209562, LumiSection 43515 at 29-Apr-2013 11:52:58.639 CEST
+Begin processing the 161st record. Run 1, Event 43209563, LumiSection 43515 at 29-Apr-2013 11:52:58.639 CEST
+Begin processing the 162nd record. Run 1, Event 43209564, LumiSection 43515 at 29-Apr-2013 11:52:58.640 CEST
+Begin processing the 163rd record. Run 1, Event 43209565, LumiSection 43515 at 29-Apr-2013 11:52:58.641 CEST
+Begin processing the 164th record. Run 1, Event 43209566, LumiSection 43515 at 29-Apr-2013 11:52:58.645 CEST
+Begin processing the 165th record. Run 1, Event 43209567, LumiSection 43515 at 29-Apr-2013 11:52:58.646 CEST
+Begin processing the 166th record. Run 1, Event 43209568, LumiSection 43515 at 29-Apr-2013 11:52:58.647 CEST
+Begin processing the 167th record. Run 1, Event 43209569, LumiSection 43515 at 29-Apr-2013 11:52:58.647 CEST
+Begin processing the 168th record. Run 1, Event 43209570, LumiSection 43515 at 29-Apr-2013 11:52:58.648 CEST
+Begin processing the 169th record. Run 1, Event 43209571, LumiSection 43515 at 29-Apr-2013 11:52:58.649 CEST
+Begin processing the 170th record. Run 1, Event 43209572, LumiSection 43515 at 29-Apr-2013 11:52:58.649 CEST
+Begin processing the 171st record. Run 1, Event 43209573, LumiSection 43515 at 29-Apr-2013 11:52:58.650 CEST
+Begin processing the 172nd record. Run 1, Event 43209574, LumiSection 43515 at 29-Apr-2013 11:52:58.651 CEST
+Begin processing the 173rd record. Run 1, Event 43209575, LumiSection 43515 at 29-Apr-2013 11:52:58.651 CEST
+Begin processing the 174th record. Run 1, Event 43209576, LumiSection 43515 at 29-Apr-2013 11:52:58.652 CEST
+Begin processing the 175th record. Run 1, Event 43209577, LumiSection 43515 at 29-Apr-2013 11:52:58.653 CEST
+Begin processing the 176th record. Run 1, Event 43209578, LumiSection 43515 at 29-Apr-2013 11:52:58.653 CEST
+Begin processing the 177th record. Run 1, Event 43209579, LumiSection 43515 at 29-Apr-2013 11:52:58.654 CEST
+Begin processing the 178th record. Run 1, Event 43209580, LumiSection 43515 at 29-Apr-2013 11:52:58.655 CEST
+Begin processing the 179th record. Run 1, Event 43209581, LumiSection 43515 at 29-Apr-2013 11:52:58.655 CEST
+Begin processing the 180th record. Run 1, Event 43209582, LumiSection 43515 at 29-Apr-2013 11:52:58.656 CEST
+Begin processing the 181st record. Run 1, Event 43209583, LumiSection 43515 at 29-Apr-2013 11:52:58.657 CEST
+Begin processing the 182nd record. Run 1, Event 43209584, LumiSection 43515 at 29-Apr-2013 11:52:58.658 CEST
+Begin processing the 183rd record. Run 1, Event 43209585, LumiSection 43515 at 29-Apr-2013 11:52:58.659 CEST
+Begin processing the 184th record. Run 1, Event 43209586, LumiSection 43515 at 29-Apr-2013 11:52:58.659 CEST
+Begin processing the 185th record. Run 1, Event 43209587, LumiSection 43515 at 29-Apr-2013 11:52:58.660 CEST
+Begin processing the 186th record. Run 1, Event 43209588, LumiSection 43515 at 29-Apr-2013 11:52:58.661 CEST
+Begin processing the 187th record. Run 1, Event 43209589, LumiSection 43515 at 29-Apr-2013 11:52:58.661 CEST
+Begin processing the 188th record. Run 1, Event 43209590, LumiSection 43515 at 29-Apr-2013 11:52:58.662 CEST
+Begin processing the 189th record. Run 1, Event 43209591, LumiSection 43515 at 29-Apr-2013 11:52:58.663 CEST
+Begin processing the 190th record. Run 1, Event 43209592, LumiSection 43515 at 29-Apr-2013 11:52:58.664 CEST
+Begin processing the 191st record. Run 1, Event 43209593, LumiSection 43515 at 29-Apr-2013 11:52:58.665 CEST
+Begin processing the 192nd record. Run 1, Event 43209594, LumiSection 43515 at 29-Apr-2013 11:52:58.666 CEST
+Begin processing the 193rd record. Run 1, Event 43209595, LumiSection 43515 at 29-Apr-2013 11:52:58.667 CEST
+Begin processing the 194th record. Run 1, Event 43209596, LumiSection 43515 at 29-Apr-2013 11:52:58.667 CEST
+Begin processing the 195th record. Run 1, Event 43209597, LumiSection 43515 at 29-Apr-2013 11:52:58.668 CEST
+Begin processing the 196th record. Run 1, Event 43209598, LumiSection 43515 at 29-Apr-2013 11:52:58.669 CEST
+Begin processing the 197th record. Run 1, Event 43209599, LumiSection 43515 at 29-Apr-2013 11:52:58.670 CEST
+Begin processing the 198th record. Run 1, Event 43209600, LumiSection 43515 at 29-Apr-2013 11:52:58.670 CEST
+Begin processing the 199th record. Run 1, Event 43209601, LumiSection 43515 at 29-Apr-2013 11:52:58.671 CEST
+Begin processing the 200th record. Run 1, Event 43209602, LumiSection 43515 at 29-Apr-2013 11:52:58.672 CEST
+Begin processing the 201st record. Run 1, Event 43209603, LumiSection 43515 at 29-Apr-2013 11:52:58.672 CEST
+Begin processing the 202nd record. Run 1, Event 43209604, LumiSection 43515 at 29-Apr-2013 11:52:58.673 CEST
+Begin processing the 203rd record. Run 1, Event 43209605, LumiSection 43515 at 29-Apr-2013 11:52:58.674 CEST
+Begin processing the 204th record. Run 1, Event 43209606, LumiSection 43515 at 29-Apr-2013 11:52:58.674 CEST
+Begin processing the 205th record. Run 1, Event 43209607, LumiSection 43515 at 29-Apr-2013 11:52:58.675 CEST
+Begin processing the 206th record. Run 1, Event 43209608, LumiSection 43515 at 29-Apr-2013 11:52:58.676 CEST
+Begin processing the 207th record. Run 1, Event 43209609, LumiSection 43515 at 29-Apr-2013 11:52:58.676 CEST
+Begin processing the 208th record. Run 1, Event 43209610, LumiSection 43515 at 29-Apr-2013 11:52:58.677 CEST
+Begin processing the 209th record. Run 1, Event 43209611, LumiSection 43515 at 29-Apr-2013 11:52:58.687 CEST
+Begin processing the 210th record. Run 1, Event 43209612, LumiSection 43515 at 29-Apr-2013 11:52:58.687 CEST
+Begin processing the 211th record. Run 1, Event 43209613, LumiSection 43515 at 29-Apr-2013 11:52:58.688 CEST
+Begin processing the 212th record. Run 1, Event 43209614, LumiSection 43515 at 29-Apr-2013 11:52:58.689 CEST
+Begin processing the 213th record. Run 1, Event 43209615, LumiSection 43515 at 29-Apr-2013 11:52:58.689 CEST
+Begin processing the 214th record. Run 1, Event 43209616, LumiSection 43515 at 29-Apr-2013 11:52:58.690 CEST
+Begin processing the 215th record. Run 1, Event 43209617, LumiSection 43515 at 29-Apr-2013 11:52:58.691 CEST
+Begin processing the 216th record. Run 1, Event 43209618, LumiSection 43515 at 29-Apr-2013 11:52:58.691 CEST
+Begin processing the 217th record. Run 1, Event 43209619, LumiSection 43515 at 29-Apr-2013 11:52:58.692 CEST
+Begin processing the 218th record. Run 1, Event 43209620, LumiSection 43515 at 29-Apr-2013 11:52:58.697 CEST
+Begin processing the 219th record. Run 1, Event 43209621, LumiSection 43515 at 29-Apr-2013 11:52:58.698 CEST
+Begin processing the 220th record. Run 1, Event 43209622, LumiSection 43515 at 29-Apr-2013 11:52:58.699 CEST
+Begin processing the 221st record. Run 1, Event 43209623, LumiSection 43515 at 29-Apr-2013 11:52:58.700 CEST
+Begin processing the 222nd record. Run 1, Event 43209624, LumiSection 43515 at 29-Apr-2013 11:52:58.700 CEST
+Begin processing the 223rd record. Run 1, Event 43209625, LumiSection 43515 at 29-Apr-2013 11:52:58.701 CEST
+energy :3.20743 	 time : -5.58947
+ieta:-63	 iphi: 313
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	206	1
+4	232	1
+5	233	1
+6	226	1
+7	219	1
+8	212	1
+9	208	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	200	1
+3	209	1
+4	261	1
+5	270	1
+6	260	1
+7	243	1
+8	229	1
+9	219	1
+Begin processing the 224th record. Run 1, Event 43209626, LumiSection 43515 at 29-Apr-2013 11:52:58.702 CEST
+Begin processing the 225th record. Run 1, Event 43209627, LumiSection 43515 at 29-Apr-2013 11:52:58.703 CEST
+Begin processing the 226th record. Run 1, Event 43209628, LumiSection 43515 at 29-Apr-2013 11:52:58.704 CEST
+Begin processing the 227th record. Run 1, Event 43209629, LumiSection 43515 at 29-Apr-2013 11:52:58.705 CEST
+Begin processing the 228th record. Run 1, Event 43209630, LumiSection 43515 at 29-Apr-2013 11:52:58.705 CEST
+Begin processing the 229th record. Run 1, Event 43209631, LumiSection 43515 at 29-Apr-2013 11:52:58.706 CEST
+Begin processing the 230th record. Run 1, Event 43209632, LumiSection 43515 at 29-Apr-2013 11:52:58.707 CEST
+Begin processing the 231st record. Run 1, Event 43209633, LumiSection 43515 at 29-Apr-2013 11:52:58.707 CEST
+Begin processing the 232nd record. Run 1, Event 43209634, LumiSection 43515 at 29-Apr-2013 11:52:58.708 CEST
+Begin processing the 233rd record. Run 1, Event 43209635, LumiSection 43515 at 29-Apr-2013 11:52:58.708 CEST
+Begin processing the 234th record. Run 1, Event 43209636, LumiSection 43515 at 29-Apr-2013 11:52:58.709 CEST
+Begin processing the 235th record. Run 1, Event 43209637, LumiSection 43515 at 29-Apr-2013 11:52:58.710 CEST
+Begin processing the 236th record. Run 1, Event 43209638, LumiSection 43515 at 29-Apr-2013 11:52:58.711 CEST
+Begin processing the 237th record. Run 1, Event 43209639, LumiSection 43515 at 29-Apr-2013 11:52:58.711 CEST
+Begin processing the 238th record. Run 1, Event 43209640, LumiSection 43515 at 29-Apr-2013 11:52:58.712 CEST
+Begin processing the 239th record. Run 1, Event 43209641, LumiSection 43515 at 29-Apr-2013 11:52:58.713 CEST
+Begin processing the 240th record. Run 1, Event 43209642, LumiSection 43515 at 29-Apr-2013 11:52:58.714 CEST
+Begin processing the 241st record. Run 1, Event 43209643, LumiSection 43515 at 29-Apr-2013 11:52:58.714 CEST
+Begin processing the 242nd record. Run 1, Event 43209644, LumiSection 43515 at 29-Apr-2013 11:52:58.715 CEST
+Begin processing the 243rd record. Run 1, Event 43209645, LumiSection 43515 at 29-Apr-2013 11:52:58.716 CEST
+Begin processing the 244th record. Run 1, Event 43209646, LumiSection 43515 at 29-Apr-2013 11:52:58.716 CEST
+Begin processing the 245th record. Run 1, Event 43209647, LumiSection 43515 at 29-Apr-2013 11:52:58.717 CEST
+Begin processing the 246th record. Run 1, Event 43209648, LumiSection 43515 at 29-Apr-2013 11:52:58.718 CEST
+Begin processing the 247th record. Run 1, Event 43209649, LumiSection 43515 at 29-Apr-2013 11:52:58.718 CEST
+Begin processing the 248th record. Run 1, Event 43209650, LumiSection 43515 at 29-Apr-2013 11:52:58.719 CEST
+Begin processing the 249th record. Run 1, Event 43209651, LumiSection 43515 at 29-Apr-2013 11:52:58.720 CEST
+Begin processing the 250th record. Run 1, Event 43209652, LumiSection 43515 at 29-Apr-2013 11:52:58.720 CEST
+Begin processing the 251st record. Run 1, Event 43209653, LumiSection 43515 at 29-Apr-2013 11:52:58.721 CEST
+Begin processing the 252nd record. Run 1, Event 43209654, LumiSection 43515 at 29-Apr-2013 11:52:58.722 CEST
+Begin processing the 253rd record. Run 1, Event 43209655, LumiSection 43515 at 29-Apr-2013 11:52:58.723 CEST
+Begin processing the 254th record. Run 1, Event 43209656, LumiSection 43515 at 29-Apr-2013 11:52:58.723 CEST
+Begin processing the 255th record. Run 1, Event 43209657, LumiSection 43515 at 29-Apr-2013 11:52:58.724 CEST
+Begin processing the 256th record. Run 1, Event 43209658, LumiSection 43515 at 29-Apr-2013 11:52:58.725 CEST
+Begin processing the 257th record. Run 1, Event 43209659, LumiSection 43515 at 29-Apr-2013 11:52:58.725 CEST
+Begin processing the 258th record. Run 1, Event 43209660, LumiSection 43515 at 29-Apr-2013 11:52:58.726 CEST
+Begin processing the 259th record. Run 1, Event 43209661, LumiSection 43515 at 29-Apr-2013 11:52:58.727 CEST
+energy :3.71573 	 time : 0.243587
+ieta:-17	 iphi: 281
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 260th record. Run 1, Event 43209662, LumiSection 43515 at 29-Apr-2013 11:52:58.727 CEST
+Begin processing the 261st record. Run 1, Event 43209663, LumiSection 43515 at 29-Apr-2013 11:52:58.728 CEST
+Begin processing the 262nd record. Run 1, Event 43209664, LumiSection 43515 at 29-Apr-2013 11:52:58.729 CEST
+Begin processing the 263rd record. Run 1, Event 43209665, LumiSection 43515 at 29-Apr-2013 11:52:58.729 CEST
+Begin processing the 264th record. Run 1, Event 43209666, LumiSection 43515 at 29-Apr-2013 11:52:58.730 CEST
+Begin processing the 265th record. Run 1, Event 43209667, LumiSection 43515 at 29-Apr-2013 11:52:58.731 CEST
+Begin processing the 266th record. Run 1, Event 43209668, LumiSection 43515 at 29-Apr-2013 11:52:58.731 CEST
+Begin processing the 267th record. Run 1, Event 43209669, LumiSection 43515 at 29-Apr-2013 11:52:58.732 CEST
+Begin processing the 268th record. Run 1, Event 43209670, LumiSection 43515 at 29-Apr-2013 11:52:58.733 CEST
+Begin processing the 269th record. Run 1, Event 43209671, LumiSection 43515 at 29-Apr-2013 11:52:58.733 CEST
+Begin processing the 270th record. Run 1, Event 43209672, LumiSection 43515 at 29-Apr-2013 11:52:58.734 CEST
+Begin processing the 271st record. Run 1, Event 43209673, LumiSection 43515 at 29-Apr-2013 11:52:58.735 CEST
+energy :6.71726 	 time : 6.65188
+ieta:77	 iphi: 174
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	276	1
+5	364	1
+6	354	1
+7	319	1
+8	283	1
+9	255	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	201	1
+3	201	1
+4	288	1
+5	367	1
+6	355	1
+7	319	1
+8	283	1
+9	255	1
+Begin processing the 272nd record. Run 1, Event 43209674, LumiSection 43515 at 29-Apr-2013 11:52:58.739 CEST
+Begin processing the 273rd record. Run 1, Event 43209675, LumiSection 43515 at 29-Apr-2013 11:52:58.740 CEST
+Begin processing the 274th record. Run 1, Event 43209676, LumiSection 43515 at 29-Apr-2013 11:52:58.741 CEST
+Begin processing the 275th record. Run 1, Event 43209677, LumiSection 43515 at 29-Apr-2013 11:52:58.741 CEST
+Begin processing the 276th record. Run 1, Event 43209678, LumiSection 43515 at 29-Apr-2013 11:52:58.742 CEST
+Begin processing the 277th record. Run 1, Event 43209679, LumiSection 43515 at 29-Apr-2013 11:52:58.743 CEST
+Begin processing the 278th record. Run 1, Event 43209680, LumiSection 43515 at 29-Apr-2013 11:52:58.743 CEST
+Begin processing the 279th record. Run 1, Event 43209681, LumiSection 43515 at 29-Apr-2013 11:52:58.744 CEST
+Begin processing the 280th record. Run 1, Event 43209682, LumiSection 43515 at 29-Apr-2013 11:52:58.745 CEST
+Begin processing the 281st record. Run 1, Event 43209683, LumiSection 43515 at 29-Apr-2013 11:52:58.745 CEST
+Begin processing the 282nd record. Run 1, Event 43209684, LumiSection 43515 at 29-Apr-2013 11:52:58.746 CEST
+Begin processing the 283rd record. Run 1, Event 43209685, LumiSection 43515 at 29-Apr-2013 11:52:58.747 CEST
+Begin processing the 284th record. Run 1, Event 43209686, LumiSection 43515 at 29-Apr-2013 11:52:58.748 CEST
+Begin processing the 285th record. Run 1, Event 43209687, LumiSection 43515 at 29-Apr-2013 11:52:58.748 CEST
+Begin processing the 286th record. Run 1, Event 43209688, LumiSection 43515 at 29-Apr-2013 11:52:58.749 CEST
+Begin processing the 287th record. Run 1, Event 43209689, LumiSection 43515 at 29-Apr-2013 11:52:58.751 CEST
+Begin processing the 288th record. Run 1, Event 43209690, LumiSection 43515 at 29-Apr-2013 11:52:58.752 CEST
+Begin processing the 289th record. Run 1, Event 43209691, LumiSection 43515 at 29-Apr-2013 11:52:58.752 CEST
+Begin processing the 290th record. Run 1, Event 43209692, LumiSection 43515 at 29-Apr-2013 11:52:58.753 CEST
+Begin processing the 291st record. Run 1, Event 43209693, LumiSection 43515 at 29-Apr-2013 11:52:58.754 CEST
+Begin processing the 292nd record. Run 1, Event 43209694, LumiSection 43515 at 29-Apr-2013 11:52:58.754 CEST
+Begin processing the 293rd record. Run 1, Event 43209695, LumiSection 43515 at 29-Apr-2013 11:52:58.755 CEST
+Begin processing the 294th record. Run 1, Event 43209696, LumiSection 43515 at 29-Apr-2013 11:52:58.756 CEST
+Begin processing the 295th record. Run 1, Event 43209697, LumiSection 43515 at 29-Apr-2013 11:52:58.756 CEST
+Begin processing the 296th record. Run 1, Event 43209698, LumiSection 43515 at 29-Apr-2013 11:52:58.757 CEST
+Begin processing the 297th record. Run 1, Event 43209699, LumiSection 43515 at 29-Apr-2013 11:52:58.757 CEST
+Begin processing the 298th record. Run 1, Event 43209700, LumiSection 43515 at 29-Apr-2013 11:52:58.758 CEST
+Begin processing the 299th record. Run 1, Event 43209701, LumiSection 43515 at 29-Apr-2013 11:52:58.759 CEST
+Begin processing the 300th record. Run 1, Event 43209702, LumiSection 43515 at 29-Apr-2013 11:52:58.760 CEST
+Begin processing the 301st record. Run 1, Event 43209703, LumiSection 43515 at 29-Apr-2013 11:52:58.760 CEST
+Begin processing the 302nd record. Run 1, Event 43209704, LumiSection 43515 at 29-Apr-2013 11:52:58.761 CEST
+Begin processing the 303rd record. Run 1, Event 43209705, LumiSection 43515 at 29-Apr-2013 11:52:58.761 CEST
+Begin processing the 304th record. Run 1, Event 43209706, LumiSection 43515 at 29-Apr-2013 11:52:58.762 CEST
+Begin processing the 305th record. Run 1, Event 43209707, LumiSection 43515 at 29-Apr-2013 11:52:58.763 CEST
+Begin processing the 306th record. Run 1, Event 43209708, LumiSection 43515 at 29-Apr-2013 11:52:58.763 CEST
+Begin processing the 307th record. Run 1, Event 43209709, LumiSection 43515 at 29-Apr-2013 11:52:58.764 CEST
+Begin processing the 308th record. Run 1, Event 43209710, LumiSection 43515 at 29-Apr-2013 11:52:58.764 CEST
+Begin processing the 309th record. Run 1, Event 43209711, LumiSection 43515 at 29-Apr-2013 11:52:58.765 CEST
+Begin processing the 310th record. Run 1, Event 43209712, LumiSection 43515 at 29-Apr-2013 11:52:58.766 CEST
+Begin processing the 311th record. Run 1, Event 43209713, LumiSection 43515 at 29-Apr-2013 11:52:58.766 CEST
+Begin processing the 312th record. Run 1, Event 43209714, LumiSection 43515 at 29-Apr-2013 11:52:58.767 CEST
+Begin processing the 313th record. Run 1, Event 43209715, LumiSection 43515 at 29-Apr-2013 11:52:58.767 CEST
+Begin processing the 314th record. Run 1, Event 43209716, LumiSection 43515 at 29-Apr-2013 11:52:58.768 CEST
+Begin processing the 315th record. Run 1, Event 43209717, LumiSection 43515 at 29-Apr-2013 11:52:58.769 CEST
+Begin processing the 316th record. Run 1, Event 43209718, LumiSection 43515 at 29-Apr-2013 11:52:58.769 CEST
+Begin processing the 317th record. Run 1, Event 43209719, LumiSection 43515 at 29-Apr-2013 11:52:58.770 CEST
+Begin processing the 318th record. Run 1, Event 43209720, LumiSection 43515 at 29-Apr-2013 11:52:58.771 CEST
+Begin processing the 319th record. Run 1, Event 43209721, LumiSection 43515 at 29-Apr-2013 11:52:58.771 CEST
+Begin processing the 320th record. Run 1, Event 43209722, LumiSection 43515 at 29-Apr-2013 11:52:58.772 CEST
+Begin processing the 321st record. Run 1, Event 43209723, LumiSection 43515 at 29-Apr-2013 11:52:58.772 CEST
+Begin processing the 322nd record. Run 1, Event 43209724, LumiSection 43515 at 29-Apr-2013 11:52:58.773 CEST
+Begin processing the 323rd record. Run 1, Event 43209725, LumiSection 43515 at 29-Apr-2013 11:52:58.773 CEST
+Begin processing the 324th record. Run 1, Event 43209726, LumiSection 43515 at 29-Apr-2013 11:52:58.774 CEST
+Begin processing the 325th record. Run 1, Event 43209727, LumiSection 43515 at 29-Apr-2013 11:52:58.775 CEST
+Begin processing the 326th record. Run 1, Event 43209728, LumiSection 43515 at 29-Apr-2013 11:52:58.779 CEST
+Begin processing the 327th record. Run 1, Event 43209729, LumiSection 43515 at 29-Apr-2013 11:52:58.779 CEST
+Begin processing the 328th record. Run 1, Event 43209730, LumiSection 43515 at 29-Apr-2013 11:52:58.780 CEST
+Begin processing the 329th record. Run 1, Event 43209731, LumiSection 43515 at 29-Apr-2013 11:52:58.781 CEST
+Begin processing the 330th record. Run 1, Event 43209732, LumiSection 43515 at 29-Apr-2013 11:52:58.781 CEST
+Begin processing the 331st record. Run 1, Event 43209733, LumiSection 43515 at 29-Apr-2013 11:52:58.782 CEST
+Begin processing the 332nd record. Run 1, Event 43209734, LumiSection 43515 at 29-Apr-2013 11:52:58.782 CEST
+Begin processing the 333rd record. Run 1, Event 43209735, LumiSection 43515 at 29-Apr-2013 11:52:58.783 CEST
+Begin processing the 334th record. Run 1, Event 43209736, LumiSection 43515 at 29-Apr-2013 11:52:58.784 CEST
+Begin processing the 335th record. Run 1, Event 43209737, LumiSection 43515 at 29-Apr-2013 11:52:58.784 CEST
+Begin processing the 336th record. Run 1, Event 43209738, LumiSection 43515 at 29-Apr-2013 11:52:58.785 CEST
+Begin processing the 337th record. Run 1, Event 43209739, LumiSection 43515 at 29-Apr-2013 11:52:58.785 CEST
+Begin processing the 338th record. Run 1, Event 43209740, LumiSection 43515 at 29-Apr-2013 11:52:58.786 CEST
+Begin processing the 339th record. Run 1, Event 43209741, LumiSection 43515 at 29-Apr-2013 11:52:58.786 CEST
+Begin processing the 340th record. Run 1, Event 43209742, LumiSection 43515 at 29-Apr-2013 11:52:58.787 CEST
+Begin processing the 341st record. Run 1, Event 43209743, LumiSection 43515 at 29-Apr-2013 11:52:58.788 CEST
+Begin processing the 342nd record. Run 1, Event 43209744, LumiSection 43515 at 29-Apr-2013 11:52:58.788 CEST
+Begin processing the 343rd record. Run 1, Event 43209745, LumiSection 43515 at 29-Apr-2013 11:52:58.789 CEST
+Begin processing the 344th record. Run 1, Event 43209746, LumiSection 43515 at 29-Apr-2013 11:52:58.789 CEST
+energy :3.28663 	 time : -11.4358
+ieta:-25	 iphi: 343
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	206	1
+4	285	1
+5	290	1
+6	272	1
+7	252	1
+8	235	1
+9	222	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	198	1
+2	199	1
+3	210	1
+4	285	1
+5	289	1
+6	270	1
+7	249	1
+8	232	1
+9	219	1
+Begin processing the 345th record. Run 1, Event 43209747, LumiSection 43515 at 29-Apr-2013 11:52:58.790 CEST
+Begin processing the 346th record. Run 1, Event 43209748, LumiSection 43515 at 29-Apr-2013 11:52:58.791 CEST
+Begin processing the 347th record. Run 1, Event 43209749, LumiSection 43515 at 29-Apr-2013 11:52:58.792 CEST
+Begin processing the 348th record. Run 1, Event 43209750, LumiSection 43515 at 29-Apr-2013 11:52:58.792 CEST
+Begin processing the 349th record. Run 1, Event 43209751, LumiSection 43515 at 29-Apr-2013 11:52:58.793 CEST
+Begin processing the 350th record. Run 1, Event 43209752, LumiSection 43515 at 29-Apr-2013 11:52:58.794 CEST
+Begin processing the 351st record. Run 1, Event 43209753, LumiSection 43515 at 29-Apr-2013 11:52:58.794 CEST
+Begin processing the 352nd record. Run 1, Event 43209754, LumiSection 43515 at 29-Apr-2013 11:52:58.795 CEST
+Begin processing the 353rd record. Run 1, Event 43209755, LumiSection 43515 at 29-Apr-2013 11:52:58.795 CEST
+Begin processing the 354th record. Run 1, Event 43209756, LumiSection 43515 at 29-Apr-2013 11:52:58.796 CEST
+Begin processing the 355th record. Run 1, Event 43209757, LumiSection 43515 at 29-Apr-2013 11:52:58.797 CEST
+Begin processing the 356th record. Run 1, Event 43209758, LumiSection 43515 at 29-Apr-2013 11:52:58.797 CEST
+Begin processing the 357th record. Run 1, Event 43209759, LumiSection 43515 at 29-Apr-2013 11:52:58.798 CEST
+Begin processing the 358th record. Run 1, Event 43209760, LumiSection 43515 at 29-Apr-2013 11:52:58.798 CEST
+Begin processing the 359th record. Run 1, Event 43209761, LumiSection 43515 at 29-Apr-2013 11:52:58.799 CEST
+Begin processing the 360th record. Run 1, Event 43209762, LumiSection 43515 at 29-Apr-2013 11:52:58.800 CEST
+Begin processing the 361st record. Run 1, Event 43209763, LumiSection 43515 at 29-Apr-2013 11:52:58.800 CEST
+Begin processing the 362nd record. Run 1, Event 43209764, LumiSection 43515 at 29-Apr-2013 11:52:58.801 CEST
+Begin processing the 363rd record. Run 1, Event 43209765, LumiSection 43515 at 29-Apr-2013 11:52:58.802 CEST
+Begin processing the 364th record. Run 1, Event 43209766, LumiSection 43515 at 29-Apr-2013 11:52:58.802 CEST
+Begin processing the 365th record. Run 1, Event 43209767, LumiSection 43515 at 29-Apr-2013 11:52:58.803 CEST
+Begin processing the 366th record. Run 1, Event 43209768, LumiSection 43515 at 29-Apr-2013 11:52:58.804 CEST
+Begin processing the 367th record. Run 1, Event 43209769, LumiSection 43515 at 29-Apr-2013 11:52:58.804 CEST
+Begin processing the 368th record. Run 1, Event 43209770, LumiSection 43515 at 29-Apr-2013 11:52:58.805 CEST
+Begin processing the 369th record. Run 1, Event 43209771, LumiSection 43515 at 29-Apr-2013 11:52:58.805 CEST
+Begin processing the 370th record. Run 1, Event 43209772, LumiSection 43515 at 29-Apr-2013 11:52:58.806 CEST
+Begin processing the 371st record. Run 1, Event 43209773, LumiSection 43515 at 29-Apr-2013 11:52:58.807 CEST
+Begin processing the 372nd record. Run 1, Event 43209774, LumiSection 43515 at 29-Apr-2013 11:52:58.807 CEST
+Begin processing the 373rd record. Run 1, Event 43209775, LumiSection 43515 at 29-Apr-2013 11:52:58.808 CEST
+Begin processing the 374th record. Run 1, Event 43209776, LumiSection 43515 at 29-Apr-2013 11:52:58.808 CEST
+Begin processing the 375th record. Run 1, Event 43209777, LumiSection 43515 at 29-Apr-2013 11:52:58.809 CEST
+Begin processing the 376th record. Run 1, Event 43209778, LumiSection 43515 at 29-Apr-2013 11:52:58.810 CEST
+Begin processing the 377th record. Run 1, Event 43209779, LumiSection 43515 at 29-Apr-2013 11:52:58.810 CEST
+Begin processing the 378th record. Run 1, Event 43209780, LumiSection 43515 at 29-Apr-2013 11:52:58.811 CEST
+Begin processing the 379th record. Run 1, Event 43209781, LumiSection 43515 at 29-Apr-2013 11:52:58.812 CEST
+Begin processing the 380th record. Run 1, Event 43209782, LumiSection 43515 at 29-Apr-2013 11:52:58.815 CEST
+Begin processing the 381st record. Run 1, Event 43209783, LumiSection 43515 at 29-Apr-2013 11:52:58.816 CEST
+Begin processing the 382nd record. Run 1, Event 43209784, LumiSection 43515 at 29-Apr-2013 11:52:58.817 CEST
+Begin processing the 383rd record. Run 1, Event 43209785, LumiSection 43515 at 29-Apr-2013 11:52:58.817 CEST
+Begin processing the 384th record. Run 1, Event 43209786, LumiSection 43515 at 29-Apr-2013 11:52:58.818 CEST
+Begin processing the 385th record. Run 1, Event 43209787, LumiSection 43515 at 29-Apr-2013 11:52:58.818 CEST
+Begin processing the 386th record. Run 1, Event 43209788, LumiSection 43515 at 29-Apr-2013 11:52:58.819 CEST
+Begin processing the 387th record. Run 1, Event 43209789, LumiSection 43515 at 29-Apr-2013 11:52:58.820 CEST
+Begin processing the 388th record. Run 1, Event 43209790, LumiSection 43515 at 29-Apr-2013 11:52:58.820 CEST
+Begin processing the 389th record. Run 1, Event 43209791, LumiSection 43515 at 29-Apr-2013 11:52:58.821 CEST
+Begin processing the 390th record. Run 1, Event 43209792, LumiSection 43515 at 29-Apr-2013 11:52:58.822 CEST
+Begin processing the 391st record. Run 1, Event 43209793, LumiSection 43515 at 29-Apr-2013 11:52:58.822 CEST
+Begin processing the 392nd record. Run 1, Event 43209794, LumiSection 43515 at 29-Apr-2013 11:52:58.823 CEST
+Begin processing the 393rd record. Run 1, Event 43209795, LumiSection 43515 at 29-Apr-2013 11:52:58.823 CEST
+Begin processing the 394th record. Run 1, Event 43209796, LumiSection 43515 at 29-Apr-2013 11:52:58.824 CEST
+Begin processing the 395th record. Run 1, Event 43209797, LumiSection 43515 at 29-Apr-2013 11:52:58.825 CEST
+Begin processing the 396th record. Run 1, Event 43209798, LumiSection 43515 at 29-Apr-2013 11:52:58.825 CEST
+Begin processing the 397th record. Run 1, Event 43209799, LumiSection 43515 at 29-Apr-2013 11:52:58.826 CEST
+Begin processing the 398th record. Run 1, Event 43209800, LumiSection 43515 at 29-Apr-2013 11:52:58.826 CEST
+Begin processing the 399th record. Run 1, Event 43209801, LumiSection 43515 at 29-Apr-2013 11:52:58.827 CEST
+Begin processing the 400th record. Run 1, Event 43209802, LumiSection 43515 at 29-Apr-2013 11:52:58.828 CEST
+Begin processing the 401st record. Run 1, Event 43209803, LumiSection 43515 at 29-Apr-2013 11:52:58.828 CEST
+Begin processing the 402nd record. Run 1, Event 43209804, LumiSection 43515 at 29-Apr-2013 11:52:58.829 CEST
+Begin processing the 403rd record. Run 1, Event 43209805, LumiSection 43515 at 29-Apr-2013 11:52:58.830 CEST
+Begin processing the 404th record. Run 1, Event 43209806, LumiSection 43515 at 29-Apr-2013 11:52:58.830 CEST
+Begin processing the 405th record. Run 1, Event 43209807, LumiSection 43515 at 29-Apr-2013 11:52:58.831 CEST
+Begin processing the 406th record. Run 1, Event 43209808, LumiSection 43515 at 29-Apr-2013 11:52:58.831 CEST
+Begin processing the 407th record. Run 1, Event 43209809, LumiSection 43515 at 29-Apr-2013 11:52:58.832 CEST
+Begin processing the 408th record. Run 1, Event 43209810, LumiSection 43515 at 29-Apr-2013 11:52:58.833 CEST
+Begin processing the 409th record. Run 1, Event 43209811, LumiSection 43515 at 29-Apr-2013 11:52:58.833 CEST
+Begin processing the 410th record. Run 1, Event 43209812, LumiSection 43515 at 29-Apr-2013 11:52:58.834 CEST
+Begin processing the 411th record. Run 1, Event 43209813, LumiSection 43515 at 29-Apr-2013 11:52:58.834 CEST
+Begin processing the 412th record. Run 1, Event 43209814, LumiSection 43515 at 29-Apr-2013 11:52:58.835 CEST
+Begin processing the 413th record. Run 1, Event 43209815, LumiSection 43515 at 29-Apr-2013 11:52:58.836 CEST
+Begin processing the 414th record. Run 1, Event 43209816, LumiSection 43515 at 29-Apr-2013 11:52:58.836 CEST
+Begin processing the 415th record. Run 1, Event 43209817, LumiSection 43515 at 29-Apr-2013 11:52:58.837 CEST
+Begin processing the 416th record. Run 1, Event 43209818, LumiSection 43515 at 29-Apr-2013 11:52:58.838 CEST
+Begin processing the 417th record. Run 1, Event 43209819, LumiSection 43515 at 29-Apr-2013 11:52:58.838 CEST
+Begin processing the 418th record. Run 1, Event 43209820, LumiSection 43515 at 29-Apr-2013 11:52:58.839 CEST
+Begin processing the 419th record. Run 1, Event 43209821, LumiSection 43515 at 29-Apr-2013 11:52:58.839 CEST
+Begin processing the 420th record. Run 1, Event 43209822, LumiSection 43515 at 29-Apr-2013 11:52:58.840 CEST
+Begin processing the 421st record. Run 1, Event 43209823, LumiSection 43515 at 29-Apr-2013 11:52:58.841 CEST
+Begin processing the 422nd record. Run 1, Event 43209824, LumiSection 43515 at 29-Apr-2013 11:52:58.841 CEST
+Begin processing the 423rd record. Run 1, Event 43209825, LumiSection 43515 at 29-Apr-2013 11:52:58.842 CEST
+Begin processing the 424th record. Run 1, Event 43209826, LumiSection 43515 at 29-Apr-2013 11:52:58.842 CEST
+Begin processing the 425th record. Run 1, Event 43209827, LumiSection 43515 at 29-Apr-2013 11:52:58.843 CEST
+Begin processing the 426th record. Run 1, Event 43209828, LumiSection 43515 at 29-Apr-2013 11:52:58.844 CEST
+Begin processing the 427th record. Run 1, Event 43209829, LumiSection 43515 at 29-Apr-2013 11:52:58.844 CEST
+Begin processing the 428th record. Run 1, Event 43209830, LumiSection 43515 at 29-Apr-2013 11:52:58.845 CEST
+Begin processing the 429th record. Run 1, Event 43209831, LumiSection 43515 at 29-Apr-2013 11:52:58.846 CEST
+Begin processing the 430th record. Run 1, Event 43209832, LumiSection 43515 at 29-Apr-2013 11:52:58.846 CEST
+Begin processing the 431st record. Run 1, Event 43209833, LumiSection 43515 at 29-Apr-2013 11:52:58.847 CEST
+Begin processing the 432nd record. Run 1, Event 43209834, LumiSection 43515 at 29-Apr-2013 11:52:58.847 CEST
+Begin processing the 433rd record. Run 1, Event 43209835, LumiSection 43515 at 29-Apr-2013 11:52:58.848 CEST
+Begin processing the 434th record. Run 1, Event 43209836, LumiSection 43515 at 29-Apr-2013 11:52:58.852 CEST
+Begin processing the 435th record. Run 1, Event 43209837, LumiSection 43515 at 29-Apr-2013 11:52:58.853 CEST
+Begin processing the 436th record. Run 1, Event 43209838, LumiSection 43515 at 29-Apr-2013 11:52:58.853 CEST
+Begin processing the 437th record. Run 1, Event 43209839, LumiSection 43515 at 29-Apr-2013 11:52:58.854 CEST
+Begin processing the 438th record. Run 1, Event 43209840, LumiSection 43515 at 29-Apr-2013 11:52:58.855 CEST
+Begin processing the 439th record. Run 1, Event 43209841, LumiSection 43515 at 29-Apr-2013 11:52:58.855 CEST
+Begin processing the 440th record. Run 1, Event 43209842, LumiSection 43515 at 29-Apr-2013 11:52:58.858 CEST
+Begin processing the 441st record. Run 1, Event 43209843, LumiSection 43515 at 29-Apr-2013 11:52:58.859 CEST
+Begin processing the 442nd record. Run 1, Event 43209844, LumiSection 43515 at 29-Apr-2013 11:52:58.859 CEST
+Begin processing the 443rd record. Run 1, Event 43209845, LumiSection 43515 at 29-Apr-2013 11:52:58.860 CEST
+Begin processing the 444th record. Run 1, Event 43209846, LumiSection 43515 at 29-Apr-2013 11:52:58.860 CEST
+Begin processing the 445th record. Run 1, Event 43209847, LumiSection 43515 at 29-Apr-2013 11:52:58.861 CEST
+Begin processing the 446th record. Run 1, Event 43209848, LumiSection 43515 at 29-Apr-2013 11:52:58.862 CEST
+Begin processing the 447th record. Run 1, Event 43209849, LumiSection 43515 at 29-Apr-2013 11:52:58.862 CEST
+Begin processing the 448th record. Run 1, Event 43209850, LumiSection 43515 at 29-Apr-2013 11:52:58.863 CEST
+Begin processing the 449th record. Run 1, Event 43209851, LumiSection 43515 at 29-Apr-2013 11:52:58.864 CEST
+Begin processing the 450th record. Run 1, Event 43209852, LumiSection 43515 at 29-Apr-2013 11:52:58.864 CEST
+Begin processing the 451st record. Run 1, Event 43209853, LumiSection 43515 at 29-Apr-2013 11:52:58.865 CEST
+Begin processing the 452nd record. Run 1, Event 43209854, LumiSection 43515 at 29-Apr-2013 11:52:58.866 CEST
+Begin processing the 453rd record. Run 1, Event 43209855, LumiSection 43515 at 29-Apr-2013 11:52:58.866 CEST
+Begin processing the 454th record. Run 1, Event 43209856, LumiSection 43515 at 29-Apr-2013 11:52:58.867 CEST
+Begin processing the 455th record. Run 1, Event 43209857, LumiSection 43515 at 29-Apr-2013 11:52:58.867 CEST
+Begin processing the 456th record. Run 1, Event 43209858, LumiSection 43515 at 29-Apr-2013 11:52:58.868 CEST
+Begin processing the 457th record. Run 1, Event 43209859, LumiSection 43515 at 29-Apr-2013 11:52:58.869 CEST
+Begin processing the 458th record. Run 1, Event 43209860, LumiSection 43515 at 29-Apr-2013 11:52:58.869 CEST
+Begin processing the 459th record. Run 1, Event 43209861, LumiSection 43515 at 29-Apr-2013 11:52:58.870 CEST
+Begin processing the 460th record. Run 1, Event 43209862, LumiSection 43515 at 29-Apr-2013 11:52:58.870 CEST
+Begin processing the 461st record. Run 1, Event 43209863, LumiSection 43515 at 29-Apr-2013 11:52:58.871 CEST
+Begin processing the 462nd record. Run 1, Event 43209864, LumiSection 43515 at 29-Apr-2013 11:52:58.872 CEST
+Begin processing the 463rd record. Run 1, Event 43209865, LumiSection 43515 at 29-Apr-2013 11:52:58.872 CEST
+Begin processing the 464th record. Run 1, Event 43209866, LumiSection 43515 at 29-Apr-2013 11:52:58.873 CEST
+Begin processing the 465th record. Run 1, Event 43209867, LumiSection 43515 at 29-Apr-2013 11:52:58.874 CEST
+Begin processing the 466th record. Run 1, Event 43209868, LumiSection 43515 at 29-Apr-2013 11:52:58.874 CEST
+Begin processing the 467th record. Run 1, Event 43209869, LumiSection 43515 at 29-Apr-2013 11:52:58.875 CEST
+Begin processing the 468th record. Run 1, Event 43209870, LumiSection 43515 at 29-Apr-2013 11:52:58.876 CEST
+Begin processing the 469th record. Run 1, Event 43209871, LumiSection 43515 at 29-Apr-2013 11:52:58.876 CEST
+Begin processing the 470th record. Run 1, Event 43209872, LumiSection 43515 at 29-Apr-2013 11:52:58.877 CEST
+Begin processing the 471st record. Run 1, Event 43209873, LumiSection 43515 at 29-Apr-2013 11:52:58.877 CEST
+Begin processing the 472nd record. Run 1, Event 43209874, LumiSection 43515 at 29-Apr-2013 11:52:58.878 CEST
+Begin processing the 473rd record. Run 1, Event 43209875, LumiSection 43515 at 29-Apr-2013 11:52:58.879 CEST
+Begin processing the 474th record. Run 1, Event 43209876, LumiSection 43515 at 29-Apr-2013 11:52:58.879 CEST
+Begin processing the 475th record. Run 1, Event 43209877, LumiSection 43515 at 29-Apr-2013 11:52:58.880 CEST
+Begin processing the 476th record. Run 1, Event 43209878, LumiSection 43515 at 29-Apr-2013 11:52:58.881 CEST
+Begin processing the 477th record. Run 1, Event 43209879, LumiSection 43515 at 29-Apr-2013 11:52:58.881 CEST
+Begin processing the 478th record. Run 1, Event 43209880, LumiSection 43515 at 29-Apr-2013 11:52:58.882 CEST
+Begin processing the 479th record. Run 1, Event 43209881, LumiSection 43515 at 29-Apr-2013 11:52:58.882 CEST
+Begin processing the 480th record. Run 1, Event 43209882, LumiSection 43515 at 29-Apr-2013 11:52:58.883 CEST
+Begin processing the 481st record. Run 1, Event 43209883, LumiSection 43515 at 29-Apr-2013 11:52:58.884 CEST
+Begin processing the 482nd record. Run 1, Event 43209884, LumiSection 43515 at 29-Apr-2013 11:52:58.884 CEST
+Begin processing the 483rd record. Run 1, Event 43209885, LumiSection 43515 at 29-Apr-2013 11:52:58.885 CEST
+Begin processing the 484th record. Run 1, Event 43209886, LumiSection 43515 at 29-Apr-2013 11:52:58.886 CEST
+Begin processing the 485th record. Run 1, Event 43209887, LumiSection 43515 at 29-Apr-2013 11:52:58.886 CEST
+Begin processing the 486th record. Run 1, Event 43209888, LumiSection 43515 at 29-Apr-2013 11:52:58.887 CEST
+Begin processing the 487th record. Run 1, Event 43209889, LumiSection 43515 at 29-Apr-2013 11:52:58.888 CEST
+Begin processing the 488th record. Run 1, Event 43209890, LumiSection 43515 at 29-Apr-2013 11:52:58.891 CEST
+Begin processing the 489th record. Run 1, Event 43209891, LumiSection 43515 at 29-Apr-2013 11:52:58.892 CEST
+Begin processing the 490th record. Run 1, Event 43209892, LumiSection 43515 at 29-Apr-2013 11:52:58.892 CEST
+Begin processing the 491st record. Run 1, Event 43209893, LumiSection 43515 at 29-Apr-2013 11:52:58.893 CEST
+Begin processing the 492nd record. Run 1, Event 43209894, LumiSection 43515 at 29-Apr-2013 11:52:58.894 CEST
+Begin processing the 493rd record. Run 1, Event 43209895, LumiSection 43515 at 29-Apr-2013 11:52:58.894 CEST
+Begin processing the 494th record. Run 1, Event 43209896, LumiSection 43515 at 29-Apr-2013 11:52:58.895 CEST
+Begin processing the 495th record. Run 1, Event 43209897, LumiSection 43515 at 29-Apr-2013 11:52:58.896 CEST
+Begin processing the 496th record. Run 1, Event 43209898, LumiSection 43515 at 29-Apr-2013 11:52:58.896 CEST
+Begin processing the 497th record. Run 1, Event 43209899, LumiSection 43515 at 29-Apr-2013 11:52:58.897 CEST
+Begin processing the 498th record. Run 1, Event 43209900, LumiSection 43515 at 29-Apr-2013 11:52:58.897 CEST
+Begin processing the 499th record. Run 1, Event 43209901, LumiSection 43515 at 29-Apr-2013 11:52:58.898 CEST
+Begin processing the 500th record. Run 1, Event 43209902, LumiSection 43515 at 29-Apr-2013 11:52:58.898 CEST
+Begin processing the 501st record. Run 1, Event 43209903, LumiSection 43515 at 29-Apr-2013 11:52:58.899 CEST
+Begin processing the 502nd record. Run 1, Event 43209904, LumiSection 43515 at 29-Apr-2013 11:52:58.900 CEST
+Begin processing the 503rd record. Run 1, Event 43209905, LumiSection 43515 at 29-Apr-2013 11:52:58.900 CEST
+Begin processing the 504th record. Run 1, Event 43209906, LumiSection 43515 at 29-Apr-2013 11:52:58.901 CEST
+Begin processing the 505th record. Run 1, Event 43209907, LumiSection 43515 at 29-Apr-2013 11:52:58.902 CEST
+Begin processing the 506th record. Run 1, Event 43209908, LumiSection 43515 at 29-Apr-2013 11:52:58.902 CEST
+Begin processing the 507th record. Run 1, Event 43209909, LumiSection 43515 at 29-Apr-2013 11:52:58.903 CEST
+Begin processing the 508th record. Run 1, Event 43209910, LumiSection 43515 at 29-Apr-2013 11:52:58.903 CEST
+Begin processing the 509th record. Run 1, Event 43209911, LumiSection 43515 at 29-Apr-2013 11:52:58.904 CEST
+Begin processing the 510th record. Run 1, Event 43209912, LumiSection 43515 at 29-Apr-2013 11:52:58.905 CEST
+Begin processing the 511th record. Run 1, Event 43209913, LumiSection 43515 at 29-Apr-2013 11:52:58.905 CEST
+Begin processing the 512th record. Run 1, Event 43209914, LumiSection 43515 at 29-Apr-2013 11:52:58.906 CEST
+Begin processing the 513th record. Run 1, Event 43209915, LumiSection 43515 at 29-Apr-2013 11:52:58.906 CEST
+Begin processing the 514th record. Run 1, Event 43209916, LumiSection 43515 at 29-Apr-2013 11:52:58.907 CEST
+Begin processing the 515th record. Run 1, Event 43209917, LumiSection 43515 at 29-Apr-2013 11:52:58.908 CEST
+Begin processing the 516th record. Run 1, Event 43209918, LumiSection 43515 at 29-Apr-2013 11:52:58.908 CEST
+Begin processing the 517th record. Run 1, Event 43209919, LumiSection 43515 at 29-Apr-2013 11:52:58.909 CEST
+Begin processing the 518th record. Run 1, Event 43209920, LumiSection 43515 at 29-Apr-2013 11:52:58.910 CEST
+Begin processing the 519th record. Run 1, Event 43209921, LumiSection 43515 at 29-Apr-2013 11:52:58.910 CEST
+Begin processing the 520th record. Run 1, Event 43209922, LumiSection 43515 at 29-Apr-2013 11:52:58.911 CEST
+Begin processing the 521st record. Run 1, Event 43209923, LumiSection 43515 at 29-Apr-2013 11:52:58.911 CEST
+Begin processing the 522nd record. Run 1, Event 43209924, LumiSection 43515 at 29-Apr-2013 11:52:58.912 CEST
+Begin processing the 523rd record. Run 1, Event 43209925, LumiSection 43515 at 29-Apr-2013 11:52:58.913 CEST
+Begin processing the 524th record. Run 1, Event 43209926, LumiSection 43515 at 29-Apr-2013 11:52:58.913 CEST
+Begin processing the 525th record. Run 1, Event 43209927, LumiSection 43515 at 29-Apr-2013 11:52:58.914 CEST
+Begin processing the 526th record. Run 1, Event 43209928, LumiSection 43515 at 29-Apr-2013 11:52:58.914 CEST
+Begin processing the 527th record. Run 1, Event 43209929, LumiSection 43515 at 29-Apr-2013 11:52:58.915 CEST
+Begin processing the 528th record. Run 1, Event 43209930, LumiSection 43515 at 29-Apr-2013 11:52:58.916 CEST
+Begin processing the 529th record. Run 1, Event 43209931, LumiSection 43515 at 29-Apr-2013 11:52:58.917 CEST
+Begin processing the 530th record. Run 1, Event 43209932, LumiSection 43515 at 29-Apr-2013 11:52:58.918 CEST
+Begin processing the 531st record. Run 1, Event 43209933, LumiSection 43515 at 29-Apr-2013 11:52:58.918 CEST
+Begin processing the 532nd record. Run 1, Event 43209934, LumiSection 43515 at 29-Apr-2013 11:52:58.919 CEST
+Begin processing the 533rd record. Run 1, Event 43209935, LumiSection 43515 at 29-Apr-2013 11:52:58.920 CEST
+Begin processing the 534th record. Run 1, Event 43209936, LumiSection 43515 at 29-Apr-2013 11:52:58.921 CEST
+Begin processing the 535th record. Run 1, Event 43209937, LumiSection 43515 at 29-Apr-2013 11:52:58.921 CEST
+Begin processing the 536th record. Run 1, Event 43209938, LumiSection 43515 at 29-Apr-2013 11:52:58.922 CEST
+Begin processing the 537th record. Run 1, Event 43209939, LumiSection 43515 at 29-Apr-2013 11:52:58.923 CEST
+Begin processing the 538th record. Run 1, Event 43209940, LumiSection 43515 at 29-Apr-2013 11:52:58.923 CEST
+Begin processing the 539th record. Run 1, Event 43209941, LumiSection 43515 at 29-Apr-2013 11:52:58.924 CEST
+energy :4.57728 	 time : 0.234683
+ieta:-43	 iphi: 180
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 540th record. Run 1, Event 43209942, LumiSection 43515 at 29-Apr-2013 11:52:58.925 CEST
+Begin processing the 541st record. Run 1, Event 43209943, LumiSection 43515 at 29-Apr-2013 11:52:58.926 CEST
+Begin processing the 542nd record. Run 1, Event 43209944, LumiSection 43515 at 29-Apr-2013 11:52:58.930 CEST
+Begin processing the 543rd record. Run 1, Event 43209945, LumiSection 43515 at 29-Apr-2013 11:52:58.931 CEST
+Begin processing the 544th record. Run 1, Event 43209946, LumiSection 43515 at 29-Apr-2013 11:52:58.932 CEST
+Begin processing the 545th record. Run 1, Event 43209947, LumiSection 43515 at 29-Apr-2013 11:52:58.933 CEST
+Begin processing the 546th record. Run 1, Event 43209948, LumiSection 43515 at 29-Apr-2013 11:52:58.933 CEST
+Begin processing the 547th record. Run 1, Event 43209949, LumiSection 43515 at 29-Apr-2013 11:52:58.934 CEST
+Begin processing the 548th record. Run 1, Event 43209950, LumiSection 43515 at 29-Apr-2013 11:52:58.935 CEST
+Begin processing the 549th record. Run 1, Event 43209951, LumiSection 43515 at 29-Apr-2013 11:52:58.935 CEST
+Begin processing the 550th record. Run 1, Event 43209952, LumiSection 43515 at 29-Apr-2013 11:52:58.936 CEST
+Begin processing the 551st record. Run 1, Event 43209953, LumiSection 43515 at 29-Apr-2013 11:52:58.937 CEST
+Begin processing the 552nd record. Run 1, Event 43209954, LumiSection 43515 at 29-Apr-2013 11:52:58.937 CEST
+Begin processing the 553rd record. Run 1, Event 43209955, LumiSection 43515 at 29-Apr-2013 11:52:58.938 CEST
+Begin processing the 554th record. Run 1, Event 43209956, LumiSection 43515 at 29-Apr-2013 11:52:58.938 CEST
+Begin processing the 555th record. Run 1, Event 43209957, LumiSection 43515 at 29-Apr-2013 11:52:58.939 CEST
+Begin processing the 556th record. Run 1, Event 43209958, LumiSection 43515 at 29-Apr-2013 11:52:58.940 CEST
+Begin processing the 557th record. Run 1, Event 43209959, LumiSection 43515 at 29-Apr-2013 11:52:58.940 CEST
+Begin processing the 558th record. Run 1, Event 43209960, LumiSection 43515 at 29-Apr-2013 11:52:58.941 CEST
+Begin processing the 559th record. Run 1, Event 43209961, LumiSection 43515 at 29-Apr-2013 11:52:58.941 CEST
+Begin processing the 560th record. Run 1, Event 43209962, LumiSection 43515 at 29-Apr-2013 11:52:58.942 CEST
+Begin processing the 561st record. Run 1, Event 43209963, LumiSection 43515 at 29-Apr-2013 11:52:58.943 CEST
+Begin processing the 562nd record. Run 1, Event 43209964, LumiSection 43515 at 29-Apr-2013 11:52:58.943 CEST
+Begin processing the 563rd record. Run 1, Event 43209965, LumiSection 43515 at 29-Apr-2013 11:52:58.944 CEST
+Begin processing the 564th record. Run 1, Event 43209966, LumiSection 43515 at 29-Apr-2013 11:52:58.945 CEST
+Begin processing the 565th record. Run 1, Event 43209967, LumiSection 43515 at 29-Apr-2013 11:52:58.945 CEST
+Begin processing the 566th record. Run 1, Event 43209968, LumiSection 43515 at 29-Apr-2013 11:52:58.946 CEST
+Begin processing the 567th record. Run 1, Event 43209969, LumiSection 43515 at 29-Apr-2013 11:52:58.947 CEST
+Begin processing the 568th record. Run 1, Event 43209970, LumiSection 43515 at 29-Apr-2013 11:52:58.947 CEST
+Begin processing the 569th record. Run 1, Event 43209971, LumiSection 43515 at 29-Apr-2013 11:52:58.948 CEST
+Begin processing the 570th record. Run 1, Event 43209972, LumiSection 43515 at 29-Apr-2013 11:52:58.948 CEST
+Begin processing the 571st record. Run 1, Event 43209973, LumiSection 43515 at 29-Apr-2013 11:52:58.949 CEST
+Begin processing the 572nd record. Run 1, Event 43209974, LumiSection 43515 at 29-Apr-2013 11:52:58.950 CEST
+Begin processing the 573rd record. Run 1, Event 43209975, LumiSection 43515 at 29-Apr-2013 11:52:58.950 CEST
+Begin processing the 574th record. Run 1, Event 43209976, LumiSection 43515 at 29-Apr-2013 11:52:58.951 CEST
+Begin processing the 575th record. Run 1, Event 43209977, LumiSection 43515 at 29-Apr-2013 11:52:58.951 CEST
+Begin processing the 576th record. Run 1, Event 43209978, LumiSection 43515 at 29-Apr-2013 11:52:58.952 CEST
+Begin processing the 577th record. Run 1, Event 43209979, LumiSection 43515 at 29-Apr-2013 11:52:58.953 CEST
+Begin processing the 578th record. Run 1, Event 43209980, LumiSection 43515 at 29-Apr-2013 11:52:58.953 CEST
+Begin processing the 579th record. Run 1, Event 43209981, LumiSection 43515 at 29-Apr-2013 11:52:58.954 CEST
+Begin processing the 580th record. Run 1, Event 43209982, LumiSection 43515 at 29-Apr-2013 11:52:58.955 CEST
+Begin processing the 581st record. Run 1, Event 43209983, LumiSection 43515 at 29-Apr-2013 11:52:58.956 CEST
+Begin processing the 582nd record. Run 1, Event 43209984, LumiSection 43515 at 29-Apr-2013 11:52:58.956 CEST
+Begin processing the 583rd record. Run 1, Event 43209985, LumiSection 43515 at 29-Apr-2013 11:52:58.957 CEST
+Begin processing the 584th record. Run 1, Event 43209986, LumiSection 43515 at 29-Apr-2013 11:52:58.957 CEST
+Begin processing the 585th record. Run 1, Event 43209987, LumiSection 43515 at 29-Apr-2013 11:52:58.958 CEST
+Begin processing the 586th record. Run 1, Event 43209988, LumiSection 43515 at 29-Apr-2013 11:52:58.959 CEST
+Begin processing the 587th record. Run 1, Event 43209989, LumiSection 43515 at 29-Apr-2013 11:52:58.959 CEST
+Begin processing the 588th record. Run 1, Event 43209990, LumiSection 43515 at 29-Apr-2013 11:52:58.960 CEST
+Begin processing the 589th record. Run 1, Event 43209991, LumiSection 43515 at 29-Apr-2013 11:52:58.960 CEST
+Begin processing the 590th record. Run 1, Event 43209992, LumiSection 43515 at 29-Apr-2013 11:52:58.961 CEST
+Begin processing the 591st record. Run 1, Event 43209993, LumiSection 43515 at 29-Apr-2013 11:52:58.962 CEST
+Begin processing the 592nd record. Run 1, Event 43209994, LumiSection 43515 at 29-Apr-2013 11:52:58.962 CEST
+Begin processing the 593rd record. Run 1, Event 43209995, LumiSection 43515 at 29-Apr-2013 11:52:58.963 CEST
+Begin processing the 594th record. Run 1, Event 43209996, LumiSection 43515 at 29-Apr-2013 11:52:58.964 CEST
+Begin processing the 595th record. Run 1, Event 43209997, LumiSection 43515 at 29-Apr-2013 11:52:58.964 CEST
+Begin processing the 596th record. Run 1, Event 43209998, LumiSection 43515 at 29-Apr-2013 11:52:58.968 CEST
+Begin processing the 597th record. Run 1, Event 43209999, LumiSection 43515 at 29-Apr-2013 11:52:58.969 CEST
+Begin processing the 598th record. Run 1, Event 43210000, LumiSection 43515 at 29-Apr-2013 11:52:58.969 CEST
+Begin processing the 599th record. Run 1, Event 43210001, LumiSection 43515 at 29-Apr-2013 11:52:58.970 CEST
+Begin processing the 600th record. Run 1, Event 43210002, LumiSection 43515 at 29-Apr-2013 11:52:58.971 CEST
+Begin processing the 601st record. Run 1, Event 43210003, LumiSection 43515 at 29-Apr-2013 11:52:58.971 CEST
+Begin processing the 602nd record. Run 1, Event 43210004, LumiSection 43515 at 29-Apr-2013 11:52:58.972 CEST
+Begin processing the 603rd record. Run 1, Event 43210005, LumiSection 43515 at 29-Apr-2013 11:52:58.973 CEST
+Begin processing the 604th record. Run 1, Event 43210006, LumiSection 43515 at 29-Apr-2013 11:52:58.973 CEST
+Begin processing the 605th record. Run 1, Event 43210007, LumiSection 43515 at 29-Apr-2013 11:52:58.974 CEST
+Begin processing the 606th record. Run 1, Event 43210008, LumiSection 43515 at 29-Apr-2013 11:52:58.975 CEST
+Begin processing the 607th record. Run 1, Event 43210009, LumiSection 43515 at 29-Apr-2013 11:52:58.975 CEST
+Begin processing the 608th record. Run 1, Event 43210010, LumiSection 43515 at 29-Apr-2013 11:52:58.976 CEST
+Begin processing the 609th record. Run 1, Event 43210011, LumiSection 43515 at 29-Apr-2013 11:52:58.976 CEST
+Begin processing the 610th record. Run 1, Event 43210012, LumiSection 43515 at 29-Apr-2013 11:52:58.977 CEST
+Begin processing the 611th record. Run 1, Event 43210013, LumiSection 43515 at 29-Apr-2013 11:52:58.978 CEST
+Begin processing the 612th record. Run 1, Event 43210014, LumiSection 43515 at 29-Apr-2013 11:52:58.978 CEST
+Begin processing the 613th record. Run 1, Event 43210015, LumiSection 43515 at 29-Apr-2013 11:52:58.979 CEST
+Begin processing the 614th record. Run 1, Event 43210016, LumiSection 43515 at 29-Apr-2013 11:52:58.979 CEST
+Begin processing the 615th record. Run 1, Event 43210017, LumiSection 43515 at 29-Apr-2013 11:52:58.980 CEST
+Begin processing the 616th record. Run 1, Event 43210018, LumiSection 43515 at 29-Apr-2013 11:52:58.981 CEST
+Begin processing the 617th record. Run 1, Event 43210019, LumiSection 43515 at 29-Apr-2013 11:52:58.981 CEST
+Begin processing the 618th record. Run 1, Event 43210020, LumiSection 43515 at 29-Apr-2013 11:52:58.982 CEST
+Begin processing the 619th record. Run 1, Event 43210021, LumiSection 43515 at 29-Apr-2013 11:52:58.982 CEST
+Begin processing the 620th record. Run 1, Event 43210022, LumiSection 43515 at 29-Apr-2013 11:52:58.983 CEST
+Begin processing the 621st record. Run 1, Event 43210023, LumiSection 43515 at 29-Apr-2013 11:52:58.984 CEST
+Begin processing the 622nd record. Run 1, Event 43210024, LumiSection 43515 at 29-Apr-2013 11:52:58.984 CEST
+Begin processing the 623rd record. Run 1, Event 43210025, LumiSection 43515 at 29-Apr-2013 11:52:58.985 CEST
+Begin processing the 624th record. Run 1, Event 43210026, LumiSection 43515 at 29-Apr-2013 11:52:58.986 CEST
+Begin processing the 625th record. Run 1, Event 43210027, LumiSection 43515 at 29-Apr-2013 11:52:58.986 CEST
+Begin processing the 626th record. Run 1, Event 43210028, LumiSection 43515 at 29-Apr-2013 11:52:58.987 CEST
+Begin processing the 627th record. Run 1, Event 43210029, LumiSection 43515 at 29-Apr-2013 11:52:58.988 CEST
+Begin processing the 628th record. Run 1, Event 43210030, LumiSection 43515 at 29-Apr-2013 11:52:58.988 CEST
+Begin processing the 629th record. Run 1, Event 43210031, LumiSection 43515 at 29-Apr-2013 11:52:58.989 CEST
+Begin processing the 630th record. Run 1, Event 43210032, LumiSection 43515 at 29-Apr-2013 11:52:58.989 CEST
+Begin processing the 631st record. Run 1, Event 43210033, LumiSection 43515 at 29-Apr-2013 11:52:58.990 CEST
+Begin processing the 632nd record. Run 1, Event 43210034, LumiSection 43515 at 29-Apr-2013 11:52:58.990 CEST
+Begin processing the 633rd record. Run 1, Event 43210035, LumiSection 43515 at 29-Apr-2013 11:52:58.991 CEST
+Begin processing the 634th record. Run 1, Event 43210036, LumiSection 43515 at 29-Apr-2013 11:52:58.992 CEST
+Begin processing the 635th record. Run 1, Event 43210037, LumiSection 43515 at 29-Apr-2013 11:52:58.992 CEST
+Begin processing the 636th record. Run 1, Event 43210038, LumiSection 43515 at 29-Apr-2013 11:52:58.993 CEST
+Begin processing the 637th record. Run 1, Event 43210039, LumiSection 43515 at 29-Apr-2013 11:52:58.994 CEST
+Begin processing the 638th record. Run 1, Event 43210040, LumiSection 43515 at 29-Apr-2013 11:52:58.994 CEST
+Begin processing the 639th record. Run 1, Event 43210041, LumiSection 43515 at 29-Apr-2013 11:52:58.995 CEST
+Begin processing the 640th record. Run 1, Event 43210042, LumiSection 43515 at 29-Apr-2013 11:52:58.995 CEST
+Begin processing the 641st record. Run 1, Event 43210043, LumiSection 43515 at 29-Apr-2013 11:52:58.996 CEST
+Begin processing the 642nd record. Run 1, Event 43210044, LumiSection 43515 at 29-Apr-2013 11:52:58.997 CEST
+Begin processing the 643rd record. Run 1, Event 43210045, LumiSection 43515 at 29-Apr-2013 11:52:58.997 CEST
+Begin processing the 644th record. Run 1, Event 43210046, LumiSection 43515 at 29-Apr-2013 11:52:58.998 CEST
+Begin processing the 645th record. Run 1, Event 43210047, LumiSection 43515 at 29-Apr-2013 11:52:58.999 CEST
+Begin processing the 646th record. Run 1, Event 43210048, LumiSection 43515 at 29-Apr-2013 11:52:58.999 CEST
+Begin processing the 647th record. Run 1, Event 43210049, LumiSection 43515 at 29-Apr-2013 11:52:59.000 CEST
+Begin processing the 648th record. Run 1, Event 43210050, LumiSection 43515 at 29-Apr-2013 11:52:59.001 CEST
+Begin processing the 649th record. Run 1, Event 43210051, LumiSection 43515 at 29-Apr-2013 11:52:59.001 CEST
+Begin processing the 650th record. Run 1, Event 43210052, LumiSection 43515 at 29-Apr-2013 11:52:59.005 CEST
+Begin processing the 651st record. Run 1, Event 43210053, LumiSection 43515 at 29-Apr-2013 11:52:59.006 CEST
+Begin processing the 652nd record. Run 1, Event 43210054, LumiSection 43515 at 29-Apr-2013 11:52:59.006 CEST
+Begin processing the 653rd record. Run 1, Event 43210055, LumiSection 43515 at 29-Apr-2013 11:52:59.007 CEST
+Begin processing the 654th record. Run 1, Event 43210056, LumiSection 43515 at 29-Apr-2013 11:52:59.008 CEST
+Begin processing the 655th record. Run 1, Event 43210057, LumiSection 43515 at 29-Apr-2013 11:52:59.008 CEST
+Begin processing the 656th record. Run 1, Event 43210058, LumiSection 43515 at 29-Apr-2013 11:52:59.009 CEST
+Begin processing the 657th record. Run 1, Event 43210059, LumiSection 43515 at 29-Apr-2013 11:52:59.010 CEST
+Begin processing the 658th record. Run 1, Event 43210060, LumiSection 43515 at 29-Apr-2013 11:52:59.010 CEST
+Begin processing the 659th record. Run 1, Event 43210061, LumiSection 43515 at 29-Apr-2013 11:52:59.011 CEST
+energy :4.69808 	 time : -11.4893
+ieta:-17	 iphi: 167
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	207	1
+4	290	1
+5	294	1
+6	276	1
+7	254	1
+8	237	1
+9	224	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	201	1
+2	201	1
+3	214	1
+4	292	1
+5	296	1
+6	277	1
+7	255	1
+8	238	1
+9	224	1
+Begin processing the 660th record. Run 1, Event 43210062, LumiSection 43515 at 29-Apr-2013 11:52:59.011 CEST
+Begin processing the 661st record. Run 1, Event 43210063, LumiSection 43515 at 29-Apr-2013 11:52:59.012 CEST
+Begin processing the 662nd record. Run 1, Event 43210064, LumiSection 43515 at 29-Apr-2013 11:52:59.013 CEST
+Begin processing the 663rd record. Run 1, Event 43210065, LumiSection 43515 at 29-Apr-2013 11:52:59.013 CEST
+Begin processing the 664th record. Run 1, Event 43210066, LumiSection 43515 at 29-Apr-2013 11:52:59.014 CEST
+Begin processing the 665th record. Run 1, Event 43210067, LumiSection 43515 at 29-Apr-2013 11:52:59.015 CEST
+Begin processing the 666th record. Run 1, Event 43210068, LumiSection 43515 at 29-Apr-2013 11:52:59.015 CEST
+Begin processing the 667th record. Run 1, Event 43210069, LumiSection 43515 at 29-Apr-2013 11:52:59.016 CEST
+Begin processing the 668th record. Run 1, Event 43210070, LumiSection 43515 at 29-Apr-2013 11:52:59.017 CEST
+Begin processing the 669th record. Run 1, Event 43210071, LumiSection 43515 at 29-Apr-2013 11:52:59.017 CEST
+Begin processing the 670th record. Run 1, Event 43210072, LumiSection 43515 at 29-Apr-2013 11:52:59.018 CEST
+Begin processing the 671st record. Run 1, Event 43210073, LumiSection 43515 at 29-Apr-2013 11:52:59.018 CEST
+Begin processing the 672nd record. Run 1, Event 43210074, LumiSection 43515 at 29-Apr-2013 11:52:59.019 CEST
+Begin processing the 673rd record. Run 1, Event 43210075, LumiSection 43515 at 29-Apr-2013 11:52:59.020 CEST
+Begin processing the 674th record. Run 1, Event 43210076, LumiSection 43515 at 29-Apr-2013 11:52:59.020 CEST
+Begin processing the 675th record. Run 1, Event 43210077, LumiSection 43515 at 29-Apr-2013 11:52:59.021 CEST
+Begin processing the 676th record. Run 1, Event 43210078, LumiSection 43515 at 29-Apr-2013 11:52:59.021 CEST
+Begin processing the 677th record. Run 1, Event 43210079, LumiSection 43515 at 29-Apr-2013 11:52:59.022 CEST
+Begin processing the 678th record. Run 1, Event 43210080, LumiSection 43515 at 29-Apr-2013 11:52:59.023 CEST
+Begin processing the 679th record. Run 1, Event 43210081, LumiSection 43515 at 29-Apr-2013 11:52:59.023 CEST
+Begin processing the 680th record. Run 1, Event 43210082, LumiSection 43515 at 29-Apr-2013 11:52:59.024 CEST
+Begin processing the 681st record. Run 1, Event 43210083, LumiSection 43515 at 29-Apr-2013 11:52:59.025 CEST
+Begin processing the 682nd record. Run 1, Event 43210084, LumiSection 43515 at 29-Apr-2013 11:52:59.025 CEST
+Begin processing the 683rd record. Run 1, Event 43210085, LumiSection 43515 at 29-Apr-2013 11:52:59.026 CEST
+Begin processing the 684th record. Run 1, Event 43210086, LumiSection 43515 at 29-Apr-2013 11:52:59.026 CEST
+Begin processing the 685th record. Run 1, Event 43210087, LumiSection 43515 at 29-Apr-2013 11:52:59.027 CEST
+Begin processing the 686th record. Run 1, Event 43210088, LumiSection 43515 at 29-Apr-2013 11:52:59.028 CEST
+Begin processing the 687th record. Run 1, Event 43210089, LumiSection 43515 at 29-Apr-2013 11:52:59.028 CEST
+Begin processing the 688th record. Run 1, Event 43210090, LumiSection 43515 at 29-Apr-2013 11:52:59.029 CEST
+Begin processing the 689th record. Run 1, Event 43210091, LumiSection 43515 at 29-Apr-2013 11:52:59.030 CEST
+Begin processing the 690th record. Run 1, Event 43210092, LumiSection 43515 at 29-Apr-2013 11:52:59.030 CEST
+Begin processing the 691st record. Run 1, Event 43210093, LumiSection 43515 at 29-Apr-2013 11:52:59.031 CEST
+Begin processing the 692nd record. Run 1, Event 43210094, LumiSection 43515 at 29-Apr-2013 11:52:59.032 CEST
+Begin processing the 693rd record. Run 1, Event 43210095, LumiSection 43515 at 29-Apr-2013 11:52:59.032 CEST
+Begin processing the 694th record. Run 1, Event 43210096, LumiSection 43515 at 29-Apr-2013 11:52:59.033 CEST
+Begin processing the 695th record. Run 1, Event 43210097, LumiSection 43515 at 29-Apr-2013 11:52:59.034 CEST
+Begin processing the 696th record. Run 1, Event 43210098, LumiSection 43515 at 29-Apr-2013 11:52:59.034 CEST
+Begin processing the 697th record. Run 1, Event 43210099, LumiSection 43515 at 29-Apr-2013 11:52:59.035 CEST
+Begin processing the 698th record. Run 1, Event 43210100, LumiSection 43515 at 29-Apr-2013 11:52:59.035 CEST
+Begin processing the 699th record. Run 1, Event 43210101, LumiSection 43515 at 29-Apr-2013 11:52:59.036 CEST
+Begin processing the 700th record. Run 1, Event 43210102, LumiSection 43515 at 29-Apr-2013 11:52:59.037 CEST
+Begin processing the 701st record. Run 1, Event 43210103, LumiSection 43515 at 29-Apr-2013 11:52:59.037 CEST
+Begin processing the 702nd record. Run 1, Event 43210104, LumiSection 43515 at 29-Apr-2013 11:52:59.038 CEST
+Begin processing the 703rd record. Run 1, Event 43210105, LumiSection 43515 at 29-Apr-2013 11:52:59.039 CEST
+Begin processing the 704th record. Run 1, Event 43210106, LumiSection 43515 at 29-Apr-2013 11:52:59.042 CEST
+Begin processing the 705th record. Run 1, Event 43210107, LumiSection 43515 at 29-Apr-2013 11:52:59.043 CEST
+Begin processing the 706th record. Run 1, Event 43210108, LumiSection 43515 at 29-Apr-2013 11:52:59.044 CEST
+Begin processing the 707th record. Run 1, Event 43210109, LumiSection 43515 at 29-Apr-2013 11:52:59.044 CEST
+Begin processing the 708th record. Run 1, Event 43210110, LumiSection 43515 at 29-Apr-2013 11:52:59.045 CEST
+Begin processing the 709th record. Run 1, Event 43210111, LumiSection 43515 at 29-Apr-2013 11:52:59.046 CEST
+Begin processing the 710th record. Run 1, Event 43210112, LumiSection 43515 at 29-Apr-2013 11:52:59.046 CEST
+Begin processing the 711th record. Run 1, Event 43210113, LumiSection 43515 at 29-Apr-2013 11:52:59.047 CEST
+Begin processing the 712th record. Run 1, Event 43210114, LumiSection 43515 at 29-Apr-2013 11:52:59.047 CEST
+Begin processing the 713th record. Run 1, Event 43210115, LumiSection 43515 at 29-Apr-2013 11:52:59.048 CEST
+Begin processing the 714th record. Run 1, Event 43210116, LumiSection 43515 at 29-Apr-2013 11:52:59.049 CEST
+Begin processing the 715th record. Run 1, Event 43210117, LumiSection 43515 at 29-Apr-2013 11:52:59.050 CEST
+Begin processing the 716th record. Run 1, Event 43210118, LumiSection 43515 at 29-Apr-2013 11:52:59.050 CEST
+Begin processing the 717th record. Run 1, Event 43210119, LumiSection 43515 at 29-Apr-2013 11:52:59.051 CEST
+Begin processing the 718th record. Run 1, Event 43210120, LumiSection 43515 at 29-Apr-2013 11:52:59.052 CEST
+Begin processing the 719th record. Run 1, Event 43210121, LumiSection 43515 at 29-Apr-2013 11:52:59.052 CEST
+Begin processing the 720th record. Run 1, Event 43210122, LumiSection 43515 at 29-Apr-2013 11:52:59.053 CEST
+Begin processing the 721st record. Run 1, Event 43210123, LumiSection 43515 at 29-Apr-2013 11:52:59.053 CEST
+Begin processing the 722nd record. Run 1, Event 43210124, LumiSection 43515 at 29-Apr-2013 11:52:59.054 CEST
+Begin processing the 723rd record. Run 1, Event 43210125, LumiSection 43515 at 29-Apr-2013 11:52:59.055 CEST
+Begin processing the 724th record. Run 1, Event 43210126, LumiSection 43515 at 29-Apr-2013 11:52:59.055 CEST
+Begin processing the 725th record. Run 1, Event 43210127, LumiSection 43515 at 29-Apr-2013 11:52:59.056 CEST
+Begin processing the 726th record. Run 1, Event 43210128, LumiSection 43515 at 29-Apr-2013 11:52:59.056 CEST
+Begin processing the 727th record. Run 1, Event 43210129, LumiSection 43515 at 29-Apr-2013 11:52:59.057 CEST
+Begin processing the 728th record. Run 1, Event 43210130, LumiSection 43515 at 29-Apr-2013 11:52:59.058 CEST
+Begin processing the 729th record. Run 1, Event 43210131, LumiSection 43515 at 29-Apr-2013 11:52:59.058 CEST
+Begin processing the 730th record. Run 1, Event 43210132, LumiSection 43515 at 29-Apr-2013 11:52:59.059 CEST
+Begin processing the 731st record. Run 1, Event 43210133, LumiSection 43515 at 29-Apr-2013 11:52:59.060 CEST
+Begin processing the 732nd record. Run 1, Event 43210134, LumiSection 43515 at 29-Apr-2013 11:52:59.060 CEST
+Begin processing the 733rd record. Run 1, Event 43210135, LumiSection 43515 at 29-Apr-2013 11:52:59.061 CEST
+Begin processing the 734th record. Run 1, Event 43210136, LumiSection 43515 at 29-Apr-2013 11:52:59.061 CEST
+Begin processing the 735th record. Run 1, Event 43210137, LumiSection 43515 at 29-Apr-2013 11:52:59.062 CEST
+Begin processing the 736th record. Run 1, Event 43210138, LumiSection 43515 at 29-Apr-2013 11:52:59.063 CEST
+Begin processing the 737th record. Run 1, Event 43210139, LumiSection 43515 at 29-Apr-2013 11:52:59.063 CEST
+Begin processing the 738th record. Run 1, Event 43210140, LumiSection 43515 at 29-Apr-2013 11:52:59.064 CEST
+Begin processing the 739th record. Run 1, Event 43210141, LumiSection 43515 at 29-Apr-2013 11:52:59.064 CEST
+Begin processing the 740th record. Run 1, Event 43210142, LumiSection 43515 at 29-Apr-2013 11:52:59.065 CEST
+Begin processing the 741st record. Run 1, Event 43210143, LumiSection 43515 at 29-Apr-2013 11:52:59.066 CEST
+Begin processing the 742nd record. Run 1, Event 43210144, LumiSection 43515 at 29-Apr-2013 11:52:59.066 CEST
+Begin processing the 743rd record. Run 1, Event 43210145, LumiSection 43515 at 29-Apr-2013 11:52:59.067 CEST
+Begin processing the 744th record. Run 1, Event 43210146, LumiSection 43515 at 29-Apr-2013 11:52:59.068 CEST
+Begin processing the 745th record. Run 1, Event 43210147, LumiSection 43515 at 29-Apr-2013 11:52:59.068 CEST
+Begin processing the 746th record. Run 1, Event 43210148, LumiSection 43515 at 29-Apr-2013 11:52:59.069 CEST
+Begin processing the 747th record. Run 1, Event 43210149, LumiSection 43515 at 29-Apr-2013 11:52:59.070 CEST
+Begin processing the 748th record. Run 1, Event 43210150, LumiSection 43515 at 29-Apr-2013 11:52:59.070 CEST
+Begin processing the 749th record. Run 1, Event 43210151, LumiSection 43515 at 29-Apr-2013 11:52:59.071 CEST
+Begin processing the 750th record. Run 1, Event 43210152, LumiSection 43515 at 29-Apr-2013 11:52:59.071 CEST
+Begin processing the 751st record. Run 1, Event 43210153, LumiSection 43515 at 29-Apr-2013 11:52:59.072 CEST
+Begin processing the 752nd record. Run 1, Event 43210154, LumiSection 43515 at 29-Apr-2013 11:52:59.073 CEST
+Begin processing the 753rd record. Run 1, Event 43210155, LumiSection 43515 at 29-Apr-2013 11:52:59.073 CEST
+Begin processing the 754th record. Run 1, Event 43210156, LumiSection 43515 at 29-Apr-2013 11:52:59.074 CEST
+Begin processing the 755th record. Run 1, Event 43210157, LumiSection 43515 at 29-Apr-2013 11:52:59.074 CEST
+Begin processing the 756th record. Run 1, Event 43210158, LumiSection 43515 at 29-Apr-2013 11:52:59.075 CEST
+Begin processing the 757th record. Run 1, Event 43210159, LumiSection 43515 at 29-Apr-2013 11:52:59.076 CEST
+Begin processing the 758th record. Run 1, Event 43210160, LumiSection 43515 at 29-Apr-2013 11:52:59.080 CEST
+Begin processing the 759th record. Run 1, Event 43210161, LumiSection 43515 at 29-Apr-2013 11:52:59.080 CEST
+Begin processing the 760th record. Run 1, Event 43210162, LumiSection 43515 at 29-Apr-2013 11:52:59.081 CEST
+Begin processing the 761st record. Run 1, Event 43210163, LumiSection 43515 at 29-Apr-2013 11:52:59.082 CEST
+Begin processing the 762nd record. Run 1, Event 43210164, LumiSection 43515 at 29-Apr-2013 11:52:59.082 CEST
+Begin processing the 763rd record. Run 1, Event 43210165, LumiSection 43515 at 29-Apr-2013 11:52:59.083 CEST
+Begin processing the 764th record. Run 1, Event 43210166, LumiSection 43515 at 29-Apr-2013 11:52:59.083 CEST
+Begin processing the 765th record. Run 1, Event 43210167, LumiSection 43515 at 29-Apr-2013 11:52:59.084 CEST
+Begin processing the 766th record. Run 1, Event 43210168, LumiSection 43515 at 29-Apr-2013 11:52:59.085 CEST
+Begin processing the 767th record. Run 1, Event 43210169, LumiSection 43515 at 29-Apr-2013 11:52:59.085 CEST
+Begin processing the 768th record. Run 1, Event 43210170, LumiSection 43515 at 29-Apr-2013 11:52:59.086 CEST
+Begin processing the 769th record. Run 1, Event 43210171, LumiSection 43515 at 29-Apr-2013 11:52:59.087 CEST
+energy :4.07691 	 time : -10.1114
+ieta:-64	 iphi: 85
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 770th record. Run 1, Event 43210172, LumiSection 43515 at 29-Apr-2013 11:52:59.087 CEST
+Begin processing the 771st record. Run 1, Event 43210173, LumiSection 43515 at 29-Apr-2013 11:52:59.088 CEST
+Begin processing the 772nd record. Run 1, Event 43210174, LumiSection 43515 at 29-Apr-2013 11:52:59.088 CEST
+Begin processing the 773rd record. Run 1, Event 43210175, LumiSection 43515 at 29-Apr-2013 11:52:59.089 CEST
+Begin processing the 774th record. Run 1, Event 43210176, LumiSection 43515 at 29-Apr-2013 11:52:59.090 CEST
+Begin processing the 775th record. Run 1, Event 43210177, LumiSection 43515 at 29-Apr-2013 11:52:59.090 CEST
+Begin processing the 776th record. Run 1, Event 43210178, LumiSection 43515 at 29-Apr-2013 11:52:59.091 CEST
+Begin processing the 777th record. Run 1, Event 43210179, LumiSection 43515 at 29-Apr-2013 11:52:59.091 CEST
+Begin processing the 778th record. Run 1, Event 43210180, LumiSection 43515 at 29-Apr-2013 11:52:59.092 CEST
+Begin processing the 779th record. Run 1, Event 43210181, LumiSection 43515 at 29-Apr-2013 11:52:59.093 CEST
+Begin processing the 780th record. Run 1, Event 43210182, LumiSection 43515 at 29-Apr-2013 11:52:59.093 CEST
+Begin processing the 781st record. Run 1, Event 43210183, LumiSection 43515 at 29-Apr-2013 11:52:59.094 CEST
+Begin processing the 782nd record. Run 1, Event 43210184, LumiSection 43515 at 29-Apr-2013 11:52:59.094 CEST
+Begin processing the 783rd record. Run 1, Event 43210185, LumiSection 43515 at 29-Apr-2013 11:52:59.095 CEST
+Begin processing the 784th record. Run 1, Event 43210186, LumiSection 43515 at 29-Apr-2013 11:52:59.096 CEST
+Begin processing the 785th record. Run 1, Event 43210187, LumiSection 43515 at 29-Apr-2013 11:52:59.096 CEST
+Begin processing the 786th record. Run 1, Event 43210188, LumiSection 43515 at 29-Apr-2013 11:52:59.097 CEST
+Begin processing the 787th record. Run 1, Event 43210189, LumiSection 43515 at 29-Apr-2013 11:52:59.098 CEST
+Begin processing the 788th record. Run 1, Event 43210190, LumiSection 43515 at 29-Apr-2013 11:52:59.098 CEST
+Begin processing the 789th record. Run 1, Event 43210191, LumiSection 43515 at 29-Apr-2013 11:52:59.099 CEST
+Begin processing the 790th record. Run 1, Event 43210192, LumiSection 43515 at 29-Apr-2013 11:52:59.100 CEST
+Begin processing the 791st record. Run 1, Event 43210193, LumiSection 43515 at 29-Apr-2013 11:52:59.100 CEST
+Begin processing the 792nd record. Run 1, Event 43210194, LumiSection 43515 at 29-Apr-2013 11:52:59.101 CEST
+Begin processing the 793rd record. Run 1, Event 43210195, LumiSection 43515 at 29-Apr-2013 11:52:59.101 CEST
+Begin processing the 794th record. Run 1, Event 43210196, LumiSection 43515 at 29-Apr-2013 11:52:59.102 CEST
+Begin processing the 795th record. Run 1, Event 43210197, LumiSection 43515 at 29-Apr-2013 11:52:59.103 CEST
+Begin processing the 796th record. Run 1, Event 43210198, LumiSection 43515 at 29-Apr-2013 11:52:59.103 CEST
+Begin processing the 797th record. Run 1, Event 43210199, LumiSection 43515 at 29-Apr-2013 11:52:59.104 CEST
+Begin processing the 798th record. Run 1, Event 43210200, LumiSection 43515 at 29-Apr-2013 11:52:59.105 CEST
+Begin processing the 799th record. Run 1, Event 43210201, LumiSection 43515 at 29-Apr-2013 11:52:59.105 CEST
+Begin processing the 800th record. Run 1, Event 43210202, LumiSection 43515 at 29-Apr-2013 11:52:59.106 CEST
+Begin processing the 801st record. Run 1, Event 43210203, LumiSection 43515 at 29-Apr-2013 11:52:59.107 CEST
+Begin processing the 802nd record. Run 1, Event 43210204, LumiSection 43515 at 29-Apr-2013 11:52:59.107 CEST
+Begin processing the 803rd record. Run 1, Event 43210205, LumiSection 43515 at 29-Apr-2013 11:52:59.108 CEST
+Begin processing the 804th record. Run 1, Event 43210206, LumiSection 43515 at 29-Apr-2013 11:52:59.109 CEST
+Begin processing the 805th record. Run 1, Event 43210207, LumiSection 43515 at 29-Apr-2013 11:52:59.109 CEST
+Begin processing the 806th record. Run 1, Event 43210208, LumiSection 43515 at 29-Apr-2013 11:52:59.110 CEST
+Begin processing the 807th record. Run 1, Event 43210209, LumiSection 43515 at 29-Apr-2013 11:52:59.110 CEST
+Begin processing the 808th record. Run 1, Event 43210210, LumiSection 43515 at 29-Apr-2013 11:52:59.111 CEST
+Begin processing the 809th record. Run 1, Event 43210211, LumiSection 43515 at 29-Apr-2013 11:52:59.112 CEST
+Begin processing the 810th record. Run 1, Event 43210212, LumiSection 43515 at 29-Apr-2013 11:52:59.112 CEST
+Begin processing the 811th record. Run 1, Event 43210213, LumiSection 43515 at 29-Apr-2013 11:52:59.113 CEST
+Begin processing the 812th record. Run 1, Event 43210214, LumiSection 43515 at 29-Apr-2013 11:52:59.117 CEST
+Begin processing the 813th record. Run 1, Event 43210215, LumiSection 43515 at 29-Apr-2013 11:52:59.118 CEST
+Begin processing the 814th record. Run 1, Event 43210216, LumiSection 43515 at 29-Apr-2013 11:52:59.118 CEST
+Begin processing the 815th record. Run 1, Event 43210217, LumiSection 43515 at 29-Apr-2013 11:52:59.119 CEST
+Begin processing the 816th record. Run 1, Event 43210218, LumiSection 43515 at 29-Apr-2013 11:52:59.119 CEST
+Begin processing the 817th record. Run 1, Event 43210219, LumiSection 43515 at 29-Apr-2013 11:52:59.120 CEST
+Begin processing the 818th record. Run 1, Event 43210220, LumiSection 43515 at 29-Apr-2013 11:52:59.121 CEST
+Begin processing the 819th record. Run 1, Event 43210221, LumiSection 43515 at 29-Apr-2013 11:52:59.121 CEST
+Begin processing the 820th record. Run 1, Event 43210222, LumiSection 43515 at 29-Apr-2013 11:52:59.122 CEST
+Begin processing the 821st record. Run 1, Event 43210223, LumiSection 43515 at 29-Apr-2013 11:52:59.123 CEST
+Begin processing the 822nd record. Run 1, Event 43210224, LumiSection 43515 at 29-Apr-2013 11:52:59.123 CEST
+Begin processing the 823rd record. Run 1, Event 43210225, LumiSection 43515 at 29-Apr-2013 11:52:59.124 CEST
+Begin processing the 824th record. Run 1, Event 43210226, LumiSection 43515 at 29-Apr-2013 11:52:59.124 CEST
+Begin processing the 825th record. Run 1, Event 43210227, LumiSection 43515 at 29-Apr-2013 11:52:59.125 CEST
+Begin processing the 826th record. Run 1, Event 43210228, LumiSection 43515 at 29-Apr-2013 11:52:59.126 CEST
+Begin processing the 827th record. Run 1, Event 43210229, LumiSection 43515 at 29-Apr-2013 11:52:59.126 CEST
+Begin processing the 828th record. Run 1, Event 43210230, LumiSection 43515 at 29-Apr-2013 11:52:59.127 CEST
+Begin processing the 829th record. Run 1, Event 43210231, LumiSection 43515 at 29-Apr-2013 11:52:59.127 CEST
+Begin processing the 830th record. Run 1, Event 43210232, LumiSection 43515 at 29-Apr-2013 11:52:59.128 CEST
+Begin processing the 831st record. Run 1, Event 43210233, LumiSection 43515 at 29-Apr-2013 11:52:59.129 CEST
+Begin processing the 832nd record. Run 1, Event 43210234, LumiSection 43515 at 29-Apr-2013 11:52:59.129 CEST
+Begin processing the 833rd record. Run 1, Event 43210235, LumiSection 43515 at 29-Apr-2013 11:52:59.130 CEST
+Begin processing the 834th record. Run 1, Event 43210236, LumiSection 43515 at 29-Apr-2013 11:52:59.131 CEST
+Begin processing the 835th record. Run 1, Event 43210237, LumiSection 43515 at 29-Apr-2013 11:52:59.131 CEST
+Begin processing the 836th record. Run 1, Event 43210238, LumiSection 43515 at 29-Apr-2013 11:52:59.132 CEST
+Begin processing the 837th record. Run 1, Event 43210239, LumiSection 43515 at 29-Apr-2013 11:52:59.132 CEST
+Begin processing the 838th record. Run 1, Event 43210240, LumiSection 43515 at 29-Apr-2013 11:52:59.133 CEST
+Begin processing the 839th record. Run 1, Event 43210241, LumiSection 43515 at 29-Apr-2013 11:52:59.134 CEST
+Begin processing the 840th record. Run 1, Event 43210242, LumiSection 43515 at 29-Apr-2013 11:52:59.134 CEST
+Begin processing the 841st record. Run 1, Event 43210243, LumiSection 43515 at 29-Apr-2013 11:52:59.135 CEST
+Begin processing the 842nd record. Run 1, Event 43210244, LumiSection 43515 at 29-Apr-2013 11:52:59.135 CEST
+Begin processing the 843rd record. Run 1, Event 43210245, LumiSection 43515 at 29-Apr-2013 11:52:59.136 CEST
+Begin processing the 844th record. Run 1, Event 43210246, LumiSection 43515 at 29-Apr-2013 11:52:59.137 CEST
+Begin processing the 845th record. Run 1, Event 43210247, LumiSection 43515 at 29-Apr-2013 11:52:59.137 CEST
+Begin processing the 846th record. Run 1, Event 43210248, LumiSection 43515 at 29-Apr-2013 11:52:59.138 CEST
+Begin processing the 847th record. Run 1, Event 43210249, LumiSection 43515 at 29-Apr-2013 11:52:59.139 CEST
+Begin processing the 848th record. Run 1, Event 43210250, LumiSection 43515 at 29-Apr-2013 11:52:59.139 CEST
+Begin processing the 849th record. Run 1, Event 43210251, LumiSection 43515 at 29-Apr-2013 11:52:59.140 CEST
+Begin processing the 850th record. Run 1, Event 43210252, LumiSection 43515 at 29-Apr-2013 11:52:59.140 CEST
+Begin processing the 851st record. Run 1, Event 43210253, LumiSection 43515 at 29-Apr-2013 11:52:59.141 CEST
+Begin processing the 852nd record. Run 1, Event 43210254, LumiSection 43515 at 29-Apr-2013 11:52:59.142 CEST
+Begin processing the 853rd record. Run 1, Event 43210255, LumiSection 43515 at 29-Apr-2013 11:52:59.142 CEST
+Begin processing the 854th record. Run 1, Event 43210256, LumiSection 43515 at 29-Apr-2013 11:52:59.143 CEST
+Begin processing the 855th record. Run 1, Event 43210257, LumiSection 43515 at 29-Apr-2013 11:52:59.143 CEST
+Begin processing the 856th record. Run 1, Event 43210258, LumiSection 43515 at 29-Apr-2013 11:52:59.144 CEST
+Begin processing the 857th record. Run 1, Event 43210259, LumiSection 43515 at 29-Apr-2013 11:52:59.145 CEST
+Begin processing the 858th record. Run 1, Event 43210260, LumiSection 43515 at 29-Apr-2013 11:52:59.146 CEST
+Begin processing the 859th record. Run 1, Event 43210261, LumiSection 43515 at 29-Apr-2013 11:52:59.146 CEST
+Begin processing the 860th record. Run 1, Event 43210262, LumiSection 43515 at 29-Apr-2013 11:52:59.147 CEST
+Begin processing the 861st record. Run 1, Event 43210263, LumiSection 43515 at 29-Apr-2013 11:52:59.148 CEST
+Begin processing the 862nd record. Run 1, Event 43210264, LumiSection 43515 at 29-Apr-2013 11:52:59.148 CEST
+Begin processing the 863rd record. Run 1, Event 43210265, LumiSection 43515 at 29-Apr-2013 11:52:59.149 CEST
+Begin processing the 864th record. Run 1, Event 43210266, LumiSection 43515 at 29-Apr-2013 11:52:59.149 CEST
+Begin processing the 865th record. Run 1, Event 43210267, LumiSection 43515 at 29-Apr-2013 11:52:59.150 CEST
+Begin processing the 866th record. Run 1, Event 43210268, LumiSection 43515 at 29-Apr-2013 11:52:59.154 CEST
+Begin processing the 867th record. Run 1, Event 43210269, LumiSection 43515 at 29-Apr-2013 11:52:59.155 CEST
+Begin processing the 868th record. Run 1, Event 43210270, LumiSection 43515 at 29-Apr-2013 11:52:59.155 CEST
+Begin processing the 869th record. Run 1, Event 43210271, LumiSection 43515 at 29-Apr-2013 11:52:59.156 CEST
+Begin processing the 870th record. Run 1, Event 43210272, LumiSection 43515 at 29-Apr-2013 11:52:59.157 CEST
+Begin processing the 871st record. Run 1, Event 43210273, LumiSection 43515 at 29-Apr-2013 11:52:59.157 CEST
+Begin processing the 872nd record. Run 1, Event 43210274, LumiSection 43515 at 29-Apr-2013 11:52:59.158 CEST
+Begin processing the 873rd record. Run 1, Event 43210275, LumiSection 43515 at 29-Apr-2013 11:52:59.158 CEST
+Begin processing the 874th record. Run 1, Event 43210276, LumiSection 43515 at 29-Apr-2013 11:52:59.159 CEST
+Begin processing the 875th record. Run 1, Event 43210277, LumiSection 43515 at 29-Apr-2013 11:52:59.159 CEST
+Begin processing the 876th record. Run 1, Event 43210278, LumiSection 43515 at 29-Apr-2013 11:52:59.160 CEST
+Begin processing the 877th record. Run 1, Event 43210279, LumiSection 43515 at 29-Apr-2013 11:52:59.161 CEST
+Begin processing the 878th record. Run 1, Event 43210280, LumiSection 43515 at 29-Apr-2013 11:52:59.162 CEST
+Begin processing the 879th record. Run 1, Event 43210281, LumiSection 43515 at 29-Apr-2013 11:52:59.162 CEST
+Begin processing the 880th record. Run 1, Event 43210282, LumiSection 43515 at 29-Apr-2013 11:52:59.163 CEST
+Begin processing the 881st record. Run 1, Event 43210283, LumiSection 43515 at 29-Apr-2013 11:52:59.164 CEST
+Begin processing the 882nd record. Run 1, Event 43210284, LumiSection 43515 at 29-Apr-2013 11:52:59.164 CEST
+Begin processing the 883rd record. Run 1, Event 43210285, LumiSection 43515 at 29-Apr-2013 11:52:59.165 CEST
+Begin processing the 884th record. Run 1, Event 43210286, LumiSection 43515 at 29-Apr-2013 11:52:59.165 CEST
+Begin processing the 885th record. Run 1, Event 43210287, LumiSection 43515 at 29-Apr-2013 11:52:59.166 CEST
+Begin processing the 886th record. Run 1, Event 43210288, LumiSection 43515 at 29-Apr-2013 11:52:59.166 CEST
+Begin processing the 887th record. Run 1, Event 43210289, LumiSection 43515 at 29-Apr-2013 11:52:59.167 CEST
+Begin processing the 888th record. Run 1, Event 43210290, LumiSection 43515 at 29-Apr-2013 11:52:59.168 CEST
+Begin processing the 889th record. Run 1, Event 43210291, LumiSection 43515 at 29-Apr-2013 11:52:59.168 CEST
+Begin processing the 890th record. Run 1, Event 43210292, LumiSection 43515 at 29-Apr-2013 11:52:59.169 CEST
+Begin processing the 891st record. Run 1, Event 43210293, LumiSection 43515 at 29-Apr-2013 11:52:59.170 CEST
+Begin processing the 892nd record. Run 1, Event 43210294, LumiSection 43515 at 29-Apr-2013 11:52:59.170 CEST
+Begin processing the 893rd record. Run 1, Event 43210295, LumiSection 43515 at 29-Apr-2013 11:52:59.171 CEST
+Begin processing the 894th record. Run 1, Event 43210296, LumiSection 43515 at 29-Apr-2013 11:52:59.172 CEST
+Begin processing the 895th record. Run 1, Event 43210297, LumiSection 43515 at 29-Apr-2013 11:52:59.172 CEST
+Begin processing the 896th record. Run 1, Event 43210298, LumiSection 43515 at 29-Apr-2013 11:52:59.173 CEST
+Begin processing the 897th record. Run 1, Event 43210299, LumiSection 43515 at 29-Apr-2013 11:52:59.173 CEST
+Begin processing the 898th record. Run 1, Event 43210300, LumiSection 43515 at 29-Apr-2013 11:52:59.174 CEST
+Begin processing the 899th record. Run 1, Event 43210301, LumiSection 43515 at 29-Apr-2013 11:52:59.175 CEST
+Begin processing the 900th record. Run 1, Event 43210302, LumiSection 43515 at 29-Apr-2013 11:52:59.175 CEST
+Begin processing the 901st record. Run 1, Event 43210303, LumiSection 43515 at 29-Apr-2013 11:52:59.176 CEST
+Begin processing the 902nd record. Run 1, Event 43210304, LumiSection 43515 at 29-Apr-2013 11:52:59.177 CEST
+Begin processing the 903rd record. Run 1, Event 43210305, LumiSection 43515 at 29-Apr-2013 11:52:59.177 CEST
+Begin processing the 904th record. Run 1, Event 43210306, LumiSection 43515 at 29-Apr-2013 11:52:59.178 CEST
+Begin processing the 905th record. Run 1, Event 43210307, LumiSection 43515 at 29-Apr-2013 11:52:59.179 CEST
+Begin processing the 906th record. Run 1, Event 43210308, LumiSection 43515 at 29-Apr-2013 11:52:59.179 CEST
+Begin processing the 907th record. Run 1, Event 43210309, LumiSection 43515 at 29-Apr-2013 11:52:59.180 CEST
+Begin processing the 908th record. Run 1, Event 43210310, LumiSection 43515 at 29-Apr-2013 11:52:59.180 CEST
+Begin processing the 909th record. Run 1, Event 43210311, LumiSection 43515 at 29-Apr-2013 11:52:59.181 CEST
+Begin processing the 910th record. Run 1, Event 43210312, LumiSection 43515 at 29-Apr-2013 11:52:59.181 CEST
+Begin processing the 911th record. Run 1, Event 43210313, LumiSection 43515 at 29-Apr-2013 11:52:59.182 CEST
+Begin processing the 912th record. Run 1, Event 43210314, LumiSection 43515 at 29-Apr-2013 11:52:59.183 CEST
+Begin processing the 913th record. Run 1, Event 43210315, LumiSection 43515 at 29-Apr-2013 11:52:59.183 CEST
+Begin processing the 914th record. Run 1, Event 43210316, LumiSection 43515 at 29-Apr-2013 11:52:59.184 CEST
+Begin processing the 915th record. Run 1, Event 43210317, LumiSection 43515 at 29-Apr-2013 11:52:59.185 CEST
+Begin processing the 916th record. Run 1, Event 43210318, LumiSection 43515 at 29-Apr-2013 11:52:59.185 CEST
+Begin processing the 917th record. Run 1, Event 43210319, LumiSection 43515 at 29-Apr-2013 11:52:59.186 CEST
+Begin processing the 918th record. Run 1, Event 43210320, LumiSection 43515 at 29-Apr-2013 11:52:59.187 CEST
+Begin processing the 919th record. Run 1, Event 43210321, LumiSection 43515 at 29-Apr-2013 11:52:59.187 CEST
+Begin processing the 920th record. Run 1, Event 43210322, LumiSection 43515 at 29-Apr-2013 11:52:59.191 CEST
+Begin processing the 921st record. Run 1, Event 43210323, LumiSection 43515 at 29-Apr-2013 11:52:59.192 CEST
+Begin processing the 922nd record. Run 1, Event 43210324, LumiSection 43515 at 29-Apr-2013 11:52:59.193 CEST
+Begin processing the 923rd record. Run 1, Event 43210325, LumiSection 43515 at 29-Apr-2013 11:52:59.193 CEST
+Begin processing the 924th record. Run 1, Event 43210326, LumiSection 43515 at 29-Apr-2013 11:52:59.194 CEST
+Begin processing the 925th record. Run 1, Event 43210327, LumiSection 43515 at 29-Apr-2013 11:52:59.195 CEST
+Begin processing the 926th record. Run 1, Event 43210328, LumiSection 43515 at 29-Apr-2013 11:52:59.195 CEST
+Begin processing the 927th record. Run 1, Event 43210329, LumiSection 43515 at 29-Apr-2013 11:52:59.196 CEST
+Begin processing the 928th record. Run 1, Event 43210330, LumiSection 43515 at 29-Apr-2013 11:52:59.197 CEST
+Begin processing the 929th record. Run 1, Event 43210331, LumiSection 43515 at 29-Apr-2013 11:52:59.197 CEST
+Begin processing the 930th record. Run 1, Event 43210332, LumiSection 43515 at 29-Apr-2013 11:52:59.198 CEST
+Begin processing the 931st record. Run 1, Event 43210333, LumiSection 43515 at 29-Apr-2013 11:52:59.198 CEST
+Begin processing the 932nd record. Run 1, Event 43210334, LumiSection 43515 at 29-Apr-2013 11:52:59.199 CEST
+Begin processing the 933rd record. Run 1, Event 43210335, LumiSection 43515 at 29-Apr-2013 11:52:59.199 CEST
+Begin processing the 934th record. Run 1, Event 43210336, LumiSection 43515 at 29-Apr-2013 11:52:59.200 CEST
+Begin processing the 935th record. Run 1, Event 43210337, LumiSection 43515 at 29-Apr-2013 11:52:59.201 CEST
+Begin processing the 936th record. Run 1, Event 43210338, LumiSection 43515 at 29-Apr-2013 11:52:59.202 CEST
+Begin processing the 937th record. Run 1, Event 43210339, LumiSection 43515 at 29-Apr-2013 11:52:59.202 CEST
+Begin processing the 938th record. Run 1, Event 43210340, LumiSection 43515 at 29-Apr-2013 11:52:59.203 CEST
+Begin processing the 939th record. Run 1, Event 43210341, LumiSection 43515 at 29-Apr-2013 11:52:59.203 CEST
+Begin processing the 940th record. Run 1, Event 43210342, LumiSection 43515 at 29-Apr-2013 11:52:59.204 CEST
+Begin processing the 941st record. Run 1, Event 43210343, LumiSection 43515 at 29-Apr-2013 11:52:59.205 CEST
+Begin processing the 942nd record. Run 1, Event 43210344, LumiSection 43515 at 29-Apr-2013 11:52:59.205 CEST
+Begin processing the 943rd record. Run 1, Event 43210345, LumiSection 43515 at 29-Apr-2013 11:52:59.206 CEST
+Begin processing the 944th record. Run 1, Event 43210346, LumiSection 43515 at 29-Apr-2013 11:52:59.206 CEST
+energy :3.73155 	 time : 0.196458
+ieta:-77	 iphi: 225
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 945th record. Run 1, Event 43210347, LumiSection 43515 at 29-Apr-2013 11:52:59.207 CEST
+Begin processing the 946th record. Run 1, Event 43210348, LumiSection 43515 at 29-Apr-2013 11:52:59.208 CEST
+Begin processing the 947th record. Run 1, Event 43210349, LumiSection 43515 at 29-Apr-2013 11:52:59.208 CEST
+Begin processing the 948th record. Run 1, Event 43210350, LumiSection 43515 at 29-Apr-2013 11:52:59.209 CEST
+Begin processing the 949th record. Run 1, Event 43210351, LumiSection 43515 at 29-Apr-2013 11:52:59.210 CEST
+Begin processing the 950th record. Run 1, Event 43210352, LumiSection 43515 at 29-Apr-2013 11:52:59.210 CEST
+Begin processing the 951st record. Run 1, Event 43210353, LumiSection 43515 at 29-Apr-2013 11:52:59.211 CEST
+Begin processing the 952nd record. Run 1, Event 43210354, LumiSection 43515 at 29-Apr-2013 11:52:59.212 CEST
+Begin processing the 953rd record. Run 1, Event 43210355, LumiSection 43515 at 29-Apr-2013 11:52:59.213 CEST
+Begin processing the 954th record. Run 1, Event 43210356, LumiSection 43515 at 29-Apr-2013 11:52:59.214 CEST
+Begin processing the 955th record. Run 1, Event 43210357, LumiSection 43515 at 29-Apr-2013 11:52:59.215 CEST
+Begin processing the 956th record. Run 1, Event 43210358, LumiSection 43515 at 29-Apr-2013 11:52:59.216 CEST
+Begin processing the 957th record. Run 1, Event 43210359, LumiSection 43515 at 29-Apr-2013 11:52:59.216 CEST
+Begin processing the 958th record. Run 1, Event 43210360, LumiSection 43515 at 29-Apr-2013 11:52:59.217 CEST
+Begin processing the 959th record. Run 1, Event 43210361, LumiSection 43515 at 29-Apr-2013 11:52:59.218 CEST
+Begin processing the 960th record. Run 1, Event 43210362, LumiSection 43515 at 29-Apr-2013 11:52:59.218 CEST
+Begin processing the 961st record. Run 1, Event 43210363, LumiSection 43515 at 29-Apr-2013 11:52:59.219 CEST
+Begin processing the 962nd record. Run 1, Event 43210364, LumiSection 43515 at 29-Apr-2013 11:52:59.220 CEST
+Begin processing the 963rd record. Run 1, Event 43210365, LumiSection 43515 at 29-Apr-2013 11:52:59.220 CEST
+Begin processing the 964th record. Run 1, Event 43210366, LumiSection 43515 at 29-Apr-2013 11:52:59.221 CEST
+Begin processing the 965th record. Run 1, Event 43210367, LumiSection 43515 at 29-Apr-2013 11:52:59.222 CEST
+Begin processing the 966th record. Run 1, Event 43210368, LumiSection 43515 at 29-Apr-2013 11:52:59.222 CEST
+Begin processing the 967th record. Run 1, Event 43210369, LumiSection 43515 at 29-Apr-2013 11:52:59.223 CEST
+Begin processing the 968th record. Run 1, Event 43210370, LumiSection 43515 at 29-Apr-2013 11:52:59.223 CEST
+Begin processing the 969th record. Run 1, Event 43210371, LumiSection 43515 at 29-Apr-2013 11:52:59.224 CEST
+Begin processing the 970th record. Run 1, Event 43210372, LumiSection 43515 at 29-Apr-2013 11:52:59.225 CEST
+Begin processing the 971st record. Run 1, Event 43210373, LumiSection 43515 at 29-Apr-2013 11:52:59.226 CEST
+Begin processing the 972nd record. Run 1, Event 43210374, LumiSection 43515 at 29-Apr-2013 11:52:59.226 CEST
+Begin processing the 973rd record. Run 1, Event 43210375, LumiSection 43515 at 29-Apr-2013 11:52:59.227 CEST
+Begin processing the 974th record. Run 1, Event 43210376, LumiSection 43515 at 29-Apr-2013 11:52:59.229 CEST
+Begin processing the 975th record. Run 1, Event 43210377, LumiSection 43515 at 29-Apr-2013 11:52:59.230 CEST
+Begin processing the 976th record. Run 1, Event 43210378, LumiSection 43515 at 29-Apr-2013 11:52:59.231 CEST
+Begin processing the 977th record. Run 1, Event 43210379, LumiSection 43515 at 29-Apr-2013 11:52:59.231 CEST
+Begin processing the 978th record. Run 1, Event 43210380, LumiSection 43515 at 29-Apr-2013 11:52:59.232 CEST
+Begin processing the 979th record. Run 1, Event 43210381, LumiSection 43515 at 29-Apr-2013 11:52:59.233 CEST
+Begin processing the 980th record. Run 1, Event 43210382, LumiSection 43515 at 29-Apr-2013 11:52:59.233 CEST
+Begin processing the 981st record. Run 1, Event 43210383, LumiSection 43515 at 29-Apr-2013 11:52:59.234 CEST
+Begin processing the 982nd record. Run 1, Event 43210384, LumiSection 43515 at 29-Apr-2013 11:52:59.235 CEST
+Begin processing the 983rd record. Run 1, Event 43210385, LumiSection 43515 at 29-Apr-2013 11:52:59.236 CEST
+Begin processing the 984th record. Run 1, Event 43210386, LumiSection 43515 at 29-Apr-2013 11:52:59.237 CEST
+Begin processing the 985th record. Run 1, Event 43210387, LumiSection 43515 at 29-Apr-2013 11:52:59.238 CEST
+Begin processing the 986th record. Run 1, Event 43210388, LumiSection 43515 at 29-Apr-2013 11:52:59.238 CEST
+Begin processing the 987th record. Run 1, Event 43210389, LumiSection 43515 at 29-Apr-2013 11:52:59.239 CEST
+Begin processing the 988th record. Run 1, Event 43210390, LumiSection 43515 at 29-Apr-2013 11:52:59.240 CEST
+Begin processing the 989th record. Run 1, Event 43210391, LumiSection 43515 at 29-Apr-2013 11:52:59.241 CEST
+Begin processing the 990th record. Run 1, Event 43210392, LumiSection 43515 at 29-Apr-2013 11:52:59.241 CEST
+Begin processing the 991st record. Run 1, Event 43210393, LumiSection 43515 at 29-Apr-2013 11:52:59.242 CEST
+Begin processing the 992nd record. Run 1, Event 43210394, LumiSection 43515 at 29-Apr-2013 11:52:59.243 CEST
+energy :3.51171 	 time : 0.0571256
+ieta:56	 iphi: 190
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 993rd record. Run 1, Event 43210395, LumiSection 43515 at 29-Apr-2013 11:52:59.244 CEST
+Begin processing the 994th record. Run 1, Event 43234228, LumiSection 43540 at 29-Apr-2013 11:52:59.245 CEST
+Begin processing the 995th record. Run 1, Event 43234229, LumiSection 43540 at 29-Apr-2013 11:52:59.246 CEST
+Begin processing the 996th record. Run 1, Event 43234230, LumiSection 43540 at 29-Apr-2013 11:52:59.247 CEST
+Begin processing the 997th record. Run 1, Event 43234231, LumiSection 43540 at 29-Apr-2013 11:52:59.247 CEST
+Begin processing the 998th record. Run 1, Event 43234232, LumiSection 43540 at 29-Apr-2013 11:52:59.248 CEST
+Begin processing the 999th record. Run 1, Event 43234233, LumiSection 43540 at 29-Apr-2013 11:52:59.249 CEST
+Begin processing the 1000th record. Run 1, Event 43234234, LumiSection 43540 at 29-Apr-2013 11:52:59.249 CEST
+29-Apr-2013 11:52:59 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3

@@ -1,0 +1,27 @@
+cp tree_mc_chk.h tree.h
+
+cat tree_mc_chk.C | grep -v  remove > tree.C
+rm -f run_mc_14TeV	
+if ./rootcom tree run_mc_14TeV
+then
+./run_mc_14TeV "/afs/cern.ch/work/s/sandhya/public/Files/MinBias_612_14TeV_check.root" "mc_14TeV_dfTuning.root"
+./run_mc_14TeV "/tmp/amartell/MinBias_noPU_14TeV.root" "chkNoPU.root"
+./run_mc_14TeV "/tmp/amartell/MinBias_PU_14TeV.root" "MB.root"
+fi
+
+cp tree_mc_chk.C tree.C
+cp tree_mc_chk.h tree.h
+
+rm -f run_mc_8TeV
+if ./rootcom tree run_mc_8TeV
+then
+./run_mc_8TeV "/afs/cern.ch/work/s/sandhya/public/Files/MinBias_612_8TeV_sandhya_check.root" "mc_8TeV_newTuning.root"
+./run_mc_8TeV "/afs/cern.ch/work/s/sandhya/public/Files/MinBias_612_8TeV_arabella_check.root" "mc_8TeV_dfTuning.root"
+fi
+
+
+exit 
+
+#cp tree_data.C tree.C
+#cp tree_data.h tree.h
+#if ./rootcom tree run_data

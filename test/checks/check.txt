@@ -1,0 +1,634 @@
+energy :3.32921 	 time : -43.9725
+ieta:35	 iphi: 117
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.76627 	 time : 12.7008
+ieta:79	 iphi: 202
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.2439 	 time : -8.20428
+ieta:39	 iphi: 181
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.51432 	 time : -13.8995
+ieta:73	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.84789 	 time : -9.20147
+ieta:11	 iphi: 218
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.17065 	 time : 48.9585
+ieta:30	 iphi: 205
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.9826 	 time : 5.98672
+ieta:72	 iphi: 107
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.43372 	 time : -11.5852
+ieta:44	 iphi: 356
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.8006 	 time : 25.8849
+ieta:62	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.32114 	 time : -10.9421
+ieta:55	 iphi: 30
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.43663 	 time : 37.0189
+ieta:1	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.65861 	 time : 38.0989
+ieta:34	 iphi: 248
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.36762 	 time : 18.651
+ieta:4	 iphi: 116
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.75702 	 time : 25.736
+ieta:12	 iphi: 296
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.09341 	 time : -1.47978
+ieta:32	 iphi: 53
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :7.74424 	 time : -12.6654
+ieta:48	 iphi: 194
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.07283 	 time : -9.24119
+ieta:75	 iphi: 234
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :10.2047 	 time : -0.617131
+ieta:51	 iphi: 318
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :5.79269 	 time : 0.0404933
+ieta:78	 iphi: 20
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :3.61087 	 time : 12.0073
+ieta:80	 iphi: 282
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :13.9394 	 time : -10.7545
+ieta:82	 iphi: 196
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.84408 	 time : -3.79929
+ieta:25	 iphi: 122
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.42383 	 time : 7.87035
+ieta:70	 iphi: 151
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.18592 	 time : -26.4417
+ieta:49	 iphi: 150
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.07639 	 time : 46.7565
+ieta:67	 iphi: 228
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.29224 	 time : -25.9946
+ieta:75	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :9.07928 	 time : -0.0965878
+ieta:66	 iphi: 222
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :9.00118 	 time : -10.3524
+ieta:45	 iphi: 355
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.94687 	 time : -12.9784
+ieta:13	 iphi: 15
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.88986 	 time : 18.5748
+ieta:5	 iphi: 43
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.74597 	 time : -8.77544
+ieta:68	 iphi: 308
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.96449 	 time : -44.7745
+ieta:58	 iphi: 152
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.64048 	 time : -12.2182
+ieta:31	 iphi: 153
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.64683 	 time : 6.74391
+ieta:77	 iphi: 174
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.09418 	 time : -36.9899
+ieta:83	 iphi: 307
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.67524 	 time : 38.1227
+ieta:57	 iphi: 192
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.98277 	 time : -9.23328
+ieta:69	 iphi: 69
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.21835 	 time : 39.796
+ieta:33	 iphi: 219
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.8477 	 time : -11.489
+ieta:84	 iphi: 10
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.25893 	 time : 40.1119
+ieta:46	 iphi: 201
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.45089 	 time : -10.8819
+ieta:58	 iphi: 203
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :25.1787 	 time : 63.9129
+ieta:85	 iphi: 351
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.66121 	 time : 10.1533
+ieta:55	 iphi: 300
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.59537 	 time : -0.0327501
+ieta:66	 iphi: 30
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :4.59196 	 time : -38.4735
+ieta:85	 iphi: 311
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.81438 	 time : 40.5823
+ieta:43	 iphi: 351
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.1141 	 time : -9.72756
+ieta:72	 iphi: 136
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.22883 	 time : -8.29455
+ieta:24	 iphi: 250
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.49699 	 time : -3.5243
+ieta:21	 iphi: 92
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.0795 	 time : -8.11348
+ieta:85	 iphi: 180
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.17197 	 time : 16.7405
+ieta:64	 iphi: 274
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.0885 	 time : -10.2612
+ieta:10	 iphi: 332
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.77338 	 time : 9.17679
+ieta:77	 iphi: 299
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.61964 	 time : -17.2632
+ieta:56	 iphi: 140
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.03617 	 time : -9.5456
+ieta:79	 iphi: 344
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.68423 	 time : -0.981912
+ieta:48	 iphi: 65
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :3.9877 	 time : -1.72442
+ieta:70	 iphi: 42
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :4.79372 	 time : -11.3327
+ieta:72	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.25122 	 time : 15.6217
+ieta:18	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.34203 	 time : -0.632847
+ieta:55	 iphi: 11
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :7.58929 	 time : -12.2104
+ieta:1	 iphi: 87
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.01744 	 time : 4.35264
+ieta:65	 iphi: 347
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.23708 	 time : 45.5281
+ieta:20	 iphi: 317
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :14.4169 	 time : 38.8392
+ieta:3	 iphi: 300
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.20337 	 time : -12.3618
+ieta:75	 iphi: 302
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.96941 	 time : -47.4788
+ieta:83	 iphi: 179
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.04212 	 time : -3.17865
+ieta:38	 iphi: 224
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :11.933 	 time : -8.08663
+ieta:56	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.44581 	 time : 46.2122
+ieta:66	 iphi: 87
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.88725 	 time : -9.88556
+ieta:85	 iphi: 273
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.52982 	 time : -6.75795
+ieta:1	 iphi: 105
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.01269 	 time : -9.2014
+ieta:31	 iphi: 300
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.05712 	 time : -10.7681
+ieta:30	 iphi: 56
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.14293 	 time : -13.3944
+ieta:68	 iphi: 251
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.8861 	 time : -12.2489
+ieta:35	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.81 	 time : -11.4464
+ieta:79	 iphi: 50
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.57655 	 time : 47.6706
+ieta:78	 iphi: 310
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.23639 	 time : -9.95167
+ieta:69	 iphi: 239
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.40762 	 time : -7.7741
+ieta:80	 iphi: 336
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.29205 	 time : -6.66422
+ieta:68	 iphi: 135
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.15986 	 time : -9.99584
+ieta:57	 iphi: 176
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.93384 	 time : -47.5698
+ieta:69	 iphi: 226
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.38374 	 time : -10.5912
+ieta:66	 iphi: 278
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.30104 	 time : -13.1671
+ieta:41	 iphi: 278
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :13.3649 	 time : 43.077
+ieta:53	 iphi: 243
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.03835 	 time : 43.3579
+ieta:7	 iphi: 212
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.92201 	 time : -9.69895
+ieta:45	 iphi: 247
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :6.84631 	 time : -0.167375
+ieta:83	 iphi: 324
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :3.74543 	 time : -9.91655
+ieta:62	 iphi: 116
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.78244 	 time : -5.6722
+ieta:36	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.16528 	 time : 3.02451
+ieta:79	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :3.11141 	 time : -1.51744
+ieta:75	 iphi: 206
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :5.77988 	 time : -10.3918
+ieta:74	 iphi: 144
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.3425 	 time : -0.321135
+ieta:78	 iphi: 347
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :3.69452 	 time : -10.9945
+ieta:58	 iphi: 56
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.54842 	 time : 0.587524
+ieta:60	 iphi: 280
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :9.76435 	 time : -7.60711
+ieta:4	 iphi: 320
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.75011 	 time : -2.58212
+ieta:15	 iphi: 26
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :4.44968 	 time : -40.7514
+ieta:49	 iphi: 78
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.40232 	 time : 42.619
+ieta:4	 iphi: 320
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.57168 	 time : -2.45332
+ieta:15	 iphi: 26
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :6.77271 	 time : 9.11517
+ieta:49	 iphi: 78
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.03056 	 time : -9.54557
+ieta:5	 iphi: 286
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.98187 	 time : -0.881991
+ieta:70	 iphi: 42
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :4.71232 	 time : -11.4779
+ieta:72	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.12461 	 time : 15.402
+ieta:18	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.23599 	 time : -10.3313
+ieta:52	 iphi: 326
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.06127 	 time : 4.26701
+ieta:65	 iphi: 347
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.13461 	 time : -12.3942
+ieta:40	 iphi: 338
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :14.6777 	 time : 38.6499
+ieta:3	 iphi: 300
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.06024 	 time : -47.6848
+ieta:83	 iphi: 179
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :8.25273 	 time : 13.2092
+ieta:77	 iphi: 82
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.61877 	 time : -2.31669
+ieta:71	 iphi: 330
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+--
+energy :11.9346 	 time : -7.99795
+ieta:56	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.33094 	 time : 45.9182
+ieta:66	 iphi: 87
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.95212 	 time : -9.92807
+ieta:85	 iphi: 273
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.98574 	 time : -8.85245
+ieta:31	 iphi: 300
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.95126 	 time : -10.4545
+ieta:30	 iphi: 56
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.62064 	 time : -9.72097
+ieta:6	 iphi: 179
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :7.86111 	 time : -36.1018
+ieta:48	 iphi: 244
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.22646 	 time : 38.215
+ieta:35	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.86143 	 time : -9.74652
+ieta:23	 iphi: 203
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :4.52994 	 time : -10.7444
+ieta:71	 iphi: 248
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.67752 	 time : -13.324
+ieta:35	 iphi: 238
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.6448 	 time : 47.3924
+ieta:78	 iphi: 310
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :5.11433 	 time : -10.6557
+ieta:57	 iphi: 176
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+--
+energy :3.74788 	 time : -47.9302
+ieta:69	 iphi: 226
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:

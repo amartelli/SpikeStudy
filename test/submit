@@ -1,0 +1,3 @@
+bsub -cwd $PWD -q 1nd $PWD/job.csh
+bsub -cwd $PWD -q 1nd $PWD/job1.csh
+bsub -cwd $PWD -q 1nd $PWD/job2.csh

@@ -1,0 +1,5446 @@
+30-Apr-2013 11:49:48 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C.root
+30-Apr-2013 11:49:52 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C.root
+Begin processing the 1st record. Run 1, Event 43209403, LumiSection 43515 at 30-Apr-2013 11:50:01.968 CEST
+Begin processing the 2nd record. Run 1, Event 43209404, LumiSection 43515 at 30-Apr-2013 11:50:02.176 CEST
+energy :3.32921 	 time : -43.9725
+ieta:35	 iphi: 117
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	297	1
+3	356	1
+4	340	1
+5	306	1
+6	273	1
+7	248	1
+8	231	1
+9	219	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	286	1
+3	356	1
+4	342	1
+5	307	1
+6	277	1
+7	250	1
+8	231	1
+9	218	1
+Begin processing the 3rd record. Run 1, Event 43209405, LumiSection 43515 at 30-Apr-2013 11:50:02.177 CEST
+Begin processing the 4th record. Run 1, Event 43209406, LumiSection 43515 at 30-Apr-2013 11:50:02.178 CEST
+Begin processing the 5th record. Run 1, Event 43209407, LumiSection 43515 at 30-Apr-2013 11:50:02.179 CEST
+Begin processing the 6th record. Run 1, Event 43209408, LumiSection 43515 at 30-Apr-2013 11:50:02.179 CEST
+energy :7.76627 	 time : 12.7008
+ieta:79	 iphi: 202
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	241	1
+5	405	1
+6	409	1
+7	366	1
+8	318	1
+9	279	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	201	1
+4	260	1
+5	408	1
+6	408	1
+7	365	1
+8	316	1
+9	278	1
+Begin processing the 7th record. Run 1, Event 43209409, LumiSection 43515 at 30-Apr-2013 11:50:02.180 CEST
+energy :4.16299 	 time : -0.773541
+ieta:30	 iphi: 216
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.2439 	 time : -8.20428
+ieta:39	 iphi: 181
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	318	1
+5	329	1
+6	305	1
+7	276	1
+8	251	1
+9	233	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	318	1
+5	330	1
+6	306	1
+7	276	1
+8	252	1
+9	234	1
+Begin processing the 8th record. Run 1, Event 43209410, LumiSection 43515 at 30-Apr-2013 11:50:02.181 CEST
+energy :4.51432 	 time : -13.8995
+ieta:73	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	221	1
+4	302	1
+5	304	1
+6	283	1
+7	259	1
+8	239	1
+9	225	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	201	1
+2	203	1
+3	215	1
+4	305	1
+5	310	1
+6	287	1
+7	263	1
+8	243	1
+9	229	1
+Begin processing the 9th record. Run 1, Event 43209411, LumiSection 43515 at 30-Apr-2013 11:50:02.183 CEST
+energy :4.6265 	 time : 0.042917
+ieta:39	 iphi: 4
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 10th record. Run 1, Event 43209412, LumiSection 43515 at 30-Apr-2013 11:50:02.184 CEST
+energy :3.69457 	 time : 0.00820303
+ieta:82	 iphi: 20
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 11th record. Run 1, Event 43209413, LumiSection 43515 at 30-Apr-2013 11:50:02.185 CEST
+Begin processing the 12th record. Run 1, Event 43209414, LumiSection 43515 at 30-Apr-2013 11:50:02.185 CEST
+Begin processing the 13th record. Run 1, Event 43209415, LumiSection 43515 at 30-Apr-2013 11:50:02.186 CEST
+Begin processing the 14th record. Run 1, Event 43209416, LumiSection 43515 at 30-Apr-2013 11:50:02.187 CEST
+Begin processing the 15th record. Run 1, Event 43209417, LumiSection 43515 at 30-Apr-2013 11:50:02.188 CEST
+energy :4.09693 	 time : 0.568908
+ieta:-77	 iphi: 73
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 16th record. Run 1, Event 43209418, LumiSection 43515 at 30-Apr-2013 11:50:02.189 CEST
+energy :5.70165 	 time : -0.753918
+ieta:74	 iphi: 159
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 17th record. Run 1, Event 43209419, LumiSection 43515 at 30-Apr-2013 11:50:02.191 CEST
+energy :4.84789 	 time : -9.20147
+ieta:11	 iphi: 218
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	223	1
+4	303	1
+5	304	1
+6	282	1
+7	259	1
+8	239	1
+9	225	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	199	1
+3	214	1
+4	301	1
+5	309	1
+6	289	1
+7	262	1
+8	243	1
+9	227	1
+Begin processing the 18th record. Run 1, Event 43209420, LumiSection 43515 at 30-Apr-2013 11:50:02.192 CEST
+Begin processing the 19th record. Run 1, Event 43209421, LumiSection 43515 at 30-Apr-2013 11:50:02.192 CEST
+Begin processing the 20th record. Run 1, Event 43209422, LumiSection 43515 at 30-Apr-2013 11:50:02.193 CEST
+Begin processing the 21st record. Run 1, Event 43209423, LumiSection 43515 at 30-Apr-2013 11:50:02.196 CEST
+energy :5.0471 	 time : -12.9954
+ieta:-65	 iphi: 221
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 22nd record. Run 1, Event 43209424, LumiSection 43515 at 30-Apr-2013 11:50:02.338 CEST
+Begin processing the 23rd record. Run 1, Event 43209425, LumiSection 43515 at 30-Apr-2013 11:50:02.339 CEST
+Begin processing the 24th record. Run 1, Event 43209426, LumiSection 43515 at 30-Apr-2013 11:50:02.340 CEST
+energy :4.17065 	 time : 48.9585
+ieta:30	 iphi: 205
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	379	1
+7	428	1
+8	394	1
+9	343	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	202	1
+3	202	1
+4	202	1
+5	202	1
+6	376	1
+7	428	1
+8	396	1
+9	343	1
+energy :5.9826 	 time : 5.98672
+ieta:72	 iphi: 107
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	287	1
+5	356	1
+6	343	1
+7	309	1
+8	276	1
+9	250	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	199	1
+2	199	1
+3	199	1
+4	285	1
+5	354	1
+6	342	1
+7	308	1
+8	273	1
+9	249	1
+Begin processing the 25th record. Run 1, Event 43209427, LumiSection 43515 at 30-Apr-2013 11:50:02.341 CEST
+Begin processing the 26th record. Run 1, Event 43209428, LumiSection 43515 at 30-Apr-2013 11:50:02.342 CEST
+Begin processing the 27th record. Run 1, Event 43209429, LumiSection 43515 at 30-Apr-2013 11:50:02.343 CEST
+energy :3.26388 	 time : 55.1179
+ieta:-57	 iphi: 79
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 28th record. Run 1, Event 43209430, LumiSection 43515 at 30-Apr-2013 11:50:02.349 CEST
+Begin processing the 29th record. Run 1, Event 43209431, LumiSection 43515 at 30-Apr-2013 11:50:02.350 CEST
+energy :3.43372 	 time : -11.5852
+ieta:44	 iphi: 356
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	214	1
+4	270	1
+5	272	1
+6	257	1
+7	241	1
+8	227	1
+9	218	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	200	1
+2	200	1
+3	211	1
+4	274	1
+5	277	1
+6	262	1
+7	245	1
+8	230	1
+9	219	1
+Begin processing the 30th record. Run 1, Event 43209432, LumiSection 43515 at 30-Apr-2013 11:50:02.351 CEST
+Begin processing the 31st record. Run 1, Event 43209433, LumiSection 43515 at 30-Apr-2013 11:50:02.351 CEST
+Begin processing the 32nd record. Run 1, Event 43209434, LumiSection 43515 at 30-Apr-2013 11:50:02.352 CEST
+Begin processing the 33rd record. Run 1, Event 43209435, LumiSection 43515 at 30-Apr-2013 11:50:02.353 CEST
+Begin processing the 34th record. Run 1, Event 43209436, LumiSection 43515 at 30-Apr-2013 11:50:02.353 CEST
+energy :3.11831 	 time : 0.259995
+ieta:78	 iphi: 330
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :6.03077 	 time : 1.12857
+ieta:80	 iphi: 36
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.56436 	 time : -0.875213
+ieta:80	 iphi: 38
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 35th record. Run 1, Event 43209437, LumiSection 43515 at 30-Apr-2013 11:50:02.354 CEST
+Begin processing the 36th record. Run 1, Event 43209438, LumiSection 43515 at 30-Apr-2013 11:50:02.355 CEST
+Begin processing the 37th record. Run 1, Event 43209439, LumiSection 43515 at 30-Apr-2013 11:50:02.355 CEST
+Begin processing the 38th record. Run 1, Event 43209440, LumiSection 43515 at 30-Apr-2013 11:50:02.356 CEST
+Begin processing the 39th record. Run 1, Event 43209441, LumiSection 43515 at 30-Apr-2013 11:50:02.357 CEST
+Begin processing the 40th record. Run 1, Event 43209442, LumiSection 43515 at 30-Apr-2013 11:50:02.357 CEST
+energy :3.84057 	 time : 0.697813
+ieta:63	 iphi: 339
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 41st record. Run 1, Event 43209443, LumiSection 43515 at 30-Apr-2013 11:50:02.358 CEST
+Begin processing the 42nd record. Run 1, Event 43209444, LumiSection 43515 at 30-Apr-2013 11:50:02.359 CEST
+Begin processing the 43rd record. Run 1, Event 43209445, LumiSection 43515 at 30-Apr-2013 11:50:02.359 CEST
+Begin processing the 44th record. Run 1, Event 43209446, LumiSection 43515 at 30-Apr-2013 11:50:02.360 CEST
+Begin processing the 45th record. Run 1, Event 43209447, LumiSection 43515 at 30-Apr-2013 11:50:02.361 CEST
+Begin processing the 46th record. Run 1, Event 43209448, LumiSection 43515 at 30-Apr-2013 11:50:02.361 CEST
+energy :4.02916 	 time : -2.42419
+ieta:66	 iphi: 64
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 47th record. Run 1, Event 43209449, LumiSection 43515 at 30-Apr-2013 11:50:02.362 CEST
+Begin processing the 48th record. Run 1, Event 43209450, LumiSection 43515 at 30-Apr-2013 11:50:02.362 CEST
+energy :3.19513 	 time : -1.16149
+ieta:-33	 iphi: 251
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.33379 	 time : 22.3025
+ieta:-56	 iphi: 213
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 49th record. Run 1, Event 43209451, LumiSection 43515 at 30-Apr-2013 11:50:02.363 CEST
+Begin processing the 50th record. Run 1, Event 43209452, LumiSection 43515 at 30-Apr-2013 11:50:02.364 CEST
+Begin processing the 51st record. Run 1, Event 43209453, LumiSection 43515 at 30-Apr-2013 11:50:02.364 CEST
+Begin processing the 52nd record. Run 1, Event 43209454, LumiSection 43515 at 30-Apr-2013 11:50:02.365 CEST
+energy :9.14235 	 time : 6.18046
+ieta:-71	 iphi: 139
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 53rd record. Run 1, Event 43209455, LumiSection 43515 at 30-Apr-2013 11:50:02.366 CEST
+Begin processing the 54th record. Run 1, Event 43209456, LumiSection 43515 at 30-Apr-2013 11:50:02.373 CEST
+energy :3.63186 	 time : 2.90255
+ieta:-67	 iphi: 192
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.79284 	 time : 0.0708102
+ieta:75	 iphi: 308
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 55th record. Run 1, Event 43209457, LumiSection 43515 at 30-Apr-2013 11:50:02.374 CEST
+energy :3.3438 	 time : -11.3243
+ieta:-27	 iphi: 199
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 56th record. Run 1, Event 43209458, LumiSection 43515 at 30-Apr-2013 11:50:02.374 CEST
+Begin processing the 57th record. Run 1, Event 43209459, LumiSection 43515 at 30-Apr-2013 11:50:02.375 CEST
+energy :3.03178 	 time : 39.0109
+ieta:-26	 iphi: 344
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 58th record. Run 1, Event 43209460, LumiSection 43515 at 30-Apr-2013 11:50:02.375 CEST
+energy :3.0289 	 time : -0.171895
+ieta:-4	 iphi: 76
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 59th record. Run 1, Event 43209461, LumiSection 43515 at 30-Apr-2013 11:50:02.376 CEST
+Begin processing the 60th record. Run 1, Event 43209462, LumiSection 43515 at 30-Apr-2013 11:50:02.377 CEST
+Begin processing the 61st record. Run 1, Event 43209463, LumiSection 43515 at 30-Apr-2013 11:50:02.377 CEST
+Begin processing the 62nd record. Run 1, Event 43209464, LumiSection 43515 at 30-Apr-2013 11:50:02.378 CEST
+Begin processing the 63rd record. Run 1, Event 43209465, LumiSection 43515 at 30-Apr-2013 11:50:02.379 CEST
+Begin processing the 64th record. Run 1, Event 43209466, LumiSection 43515 at 30-Apr-2013 11:50:02.380 CEST
+Begin processing the 65th record. Run 1, Event 43209467, LumiSection 43515 at 30-Apr-2013 11:50:02.381 CEST
+energy :4.18665 	 time : 0.0937437
+ieta:-29	 iphi: 157
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.06032 	 time : -0.803307
+ieta:-73	 iphi: 350
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.38068 	 time : -0.298126
+ieta:66	 iphi: 65
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 66th record. Run 1, Event 43209468, LumiSection 43515 at 30-Apr-2013 11:50:02.382 CEST
+Begin processing the 67th record. Run 1, Event 43209469, LumiSection 43515 at 30-Apr-2013 11:50:02.382 CEST
+Begin processing the 68th record. Run 1, Event 43209470, LumiSection 43515 at 30-Apr-2013 11:50:02.383 CEST
+energy :3.54089 	 time : 0.156957
+ieta:-19	 iphi: 133
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :6.75342 	 time : 59.8699
+ieta:-77	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.8006 	 time : 25.8849
+ieta:62	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	305	1
+6	343	1
+7	324	1
+8	292	1
+9	263	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	199	1
+2	196	1
+3	197	1
+4	199	1
+5	303	1
+6	343	1
+7	325	1
+8	292	1
+9	262	1
+Begin processing the 69th record. Run 1, Event 43209471, LumiSection 43515 at 30-Apr-2013 11:50:02.384 CEST
+Begin processing the 70th record. Run 1, Event 43209472, LumiSection 43515 at 30-Apr-2013 11:50:02.385 CEST
+energy :4.69726 	 time : -44.8167
+ieta:-53	 iphi: 53
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 71st record. Run 1, Event 43209473, LumiSection 43515 at 30-Apr-2013 11:50:02.385 CEST
+Begin processing the 72nd record. Run 1, Event 43209474, LumiSection 43515 at 30-Apr-2013 11:50:02.386 CEST
+energy :8.1697 	 time : 2.5823
+ieta:-64	 iphi: 326
+kWeird:1	 kDiWeird:0	 kOOT:0
+Begin processing the 73rd record. Run 1, Event 43209475, LumiSection 43515 at 30-Apr-2013 11:50:02.387 CEST
+energy :3.98062 	 time : 0.279559
+ieta:-62	 iphi: 306
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 74th record. Run 1, Event 43209476, LumiSection 43515 at 30-Apr-2013 11:50:02.387 CEST
+Begin processing the 75th record. Run 1, Event 43209477, LumiSection 43515 at 30-Apr-2013 11:50:02.388 CEST
+Begin processing the 76th record. Run 1, Event 43209478, LumiSection 43515 at 30-Apr-2013 11:50:02.389 CEST
+Begin processing the 77th record. Run 1, Event 43209479, LumiSection 43515 at 30-Apr-2013 11:50:02.389 CEST
+Begin processing the 78th record. Run 1, Event 43209480, LumiSection 43515 at 30-Apr-2013 11:50:02.390 CEST
+Begin processing the 79th record. Run 1, Event 43209481, LumiSection 43515 at 30-Apr-2013 11:50:02.391 CEST
+Begin processing the 80th record. Run 1, Event 43209482, LumiSection 43515 at 30-Apr-2013 11:50:02.396 CEST
+Begin processing the 81st record. Run 1, Event 43209483, LumiSection 43515 at 30-Apr-2013 11:50:02.397 CEST
+Begin processing the 82nd record. Run 1, Event 43209484, LumiSection 43515 at 30-Apr-2013 11:50:02.398 CEST
+Begin processing the 83rd record. Run 1, Event 43209485, LumiSection 43515 at 30-Apr-2013 11:50:02.398 CEST
+Begin processing the 84th record. Run 1, Event 43209486, LumiSection 43515 at 30-Apr-2013 11:50:02.399 CEST
+Begin processing the 85th record. Run 1, Event 43209487, LumiSection 43515 at 30-Apr-2013 11:50:02.400 CEST
+energy :3.20441 	 time : -0.648808
+ieta:-50	 iphi: 89
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 86th record. Run 1, Event 43209488, LumiSection 43515 at 30-Apr-2013 11:50:02.400 CEST
+Begin processing the 87th record. Run 1, Event 43209489, LumiSection 43515 at 30-Apr-2013 11:50:02.401 CEST
+Begin processing the 88th record. Run 1, Event 43209490, LumiSection 43515 at 30-Apr-2013 11:50:02.401 CEST
+Begin processing the 89th record. Run 1, Event 43209491, LumiSection 43515 at 30-Apr-2013 11:50:02.402 CEST
+Begin processing the 90th record. Run 1, Event 43209492, LumiSection 43515 at 30-Apr-2013 11:50:02.403 CEST
+Begin processing the 91st record. Run 1, Event 43209493, LumiSection 43515 at 30-Apr-2013 11:50:02.403 CEST
+Begin processing the 92nd record. Run 1, Event 43209494, LumiSection 43515 at 30-Apr-2013 11:50:02.404 CEST
+Begin processing the 93rd record. Run 1, Event 43209495, LumiSection 43515 at 30-Apr-2013 11:50:02.405 CEST
+Begin processing the 94th record. Run 1, Event 43209496, LumiSection 43515 at 30-Apr-2013 11:50:02.405 CEST
+energy :3.68985 	 time : 0.460342
+ieta:-74	 iphi: 214
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 95th record. Run 1, Event 43209497, LumiSection 43515 at 30-Apr-2013 11:50:02.406 CEST
+Begin processing the 96th record. Run 1, Event 43209498, LumiSection 43515 at 30-Apr-2013 11:50:02.407 CEST
+Begin processing the 97th record. Run 1, Event 43209499, LumiSection 43515 at 30-Apr-2013 11:50:02.407 CEST
+energy :4.30831 	 time : -9.19481
+ieta:-39	 iphi: 275
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.98035 	 time : -0.397107
+ieta:-75	 iphi: 5
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 98th record. Run 1, Event 43209500, LumiSection 43515 at 30-Apr-2013 11:50:02.408 CEST
+Begin processing the 99th record. Run 1, Event 43209501, LumiSection 43515 at 30-Apr-2013 11:50:02.409 CEST
+energy :5.32114 	 time : -10.9421
+ieta:55	 iphi: 30
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	202	1
+4	340	1
+5	350	1
+6	321	1
+7	287	1
+8	259	1
+9	238	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	215	1
+4	344	1
+5	351	1
+6	323	1
+7	288	1
+8	259	1
+9	239	1
+Begin processing the 100th record. Run 1, Event 43209502, LumiSection 43515 at 30-Apr-2013 11:50:02.409 CEST
+Begin processing the 101st record. Run 1, Event 43209503, LumiSection 43515 at 30-Apr-2013 11:50:02.410 CEST
+energy :4.43663 	 time : 37.0189
+ieta:1	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	241	1
+6	387	1
+7	390	1
+8	350	1
+9	307	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	202	1
+3	201	1
+4	200	1
+5	236	1
+6	387	1
+7	391	1
+8	351	1
+9	307	1
+Begin processing the 102nd record. Run 1, Event 43209504, LumiSection 43515 at 30-Apr-2013 11:50:02.411 CEST
+energy :3.08464 	 time : 0.420461
+ieta:-76	 iphi: 47
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 103rd record. Run 1, Event 43209505, LumiSection 43515 at 30-Apr-2013 11:50:02.411 CEST
+Begin processing the 104th record. Run 1, Event 43209506, LumiSection 43515 at 30-Apr-2013 11:50:02.412 CEST
+energy :3.13044 	 time : -0.353172
+ieta:-16	 iphi: 355
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.70123 	 time : -42.0429
+ieta:-83	 iphi: 79
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 105th record. Run 1, Event 43209507, LumiSection 43515 at 30-Apr-2013 11:50:02.413 CEST
+Begin processing the 106th record. Run 1, Event 43209508, LumiSection 43515 at 30-Apr-2013 11:50:02.419 CEST
+Begin processing the 107th record. Run 1, Event 43209509, LumiSection 43515 at 30-Apr-2013 11:50:02.419 CEST
+Begin processing the 108th record. Run 1, Event 43209510, LumiSection 43515 at 30-Apr-2013 11:50:02.420 CEST
+Begin processing the 109th record. Run 1, Event 43209511, LumiSection 43515 at 30-Apr-2013 11:50:02.421 CEST
+Begin processing the 110th record. Run 1, Event 43209512, LumiSection 43515 at 30-Apr-2013 11:50:02.421 CEST
+Begin processing the 111th record. Run 1, Event 43209513, LumiSection 43515 at 30-Apr-2013 11:50:02.422 CEST
+Begin processing the 112th record. Run 1, Event 43209514, LumiSection 43515 at 30-Apr-2013 11:50:02.423 CEST
+energy :3.65861 	 time : 38.0989
+ieta:34	 iphi: 248
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	228	1
+6	344	1
+7	347	1
+8	317	1
+9	283	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	200	1
+2	202	1
+3	201	1
+4	201	1
+5	228	1
+6	350	1
+7	355	1
+8	325	1
+9	289	1
+Begin processing the 113th record. Run 1, Event 43209515, LumiSection 43515 at 30-Apr-2013 11:50:02.423 CEST
+Begin processing the 114th record. Run 1, Event 43209516, LumiSection 43515 at 30-Apr-2013 11:50:02.424 CEST
+Begin processing the 115th record. Run 1, Event 43209517, LumiSection 43515 at 30-Apr-2013 11:50:02.425 CEST
+energy :3.26905 	 time : -0.267303
+ieta:-6	 iphi: 151
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :6.34394 	 time : -10.3815
+ieta:-73	 iphi: 128
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.68456 	 time : -0.781422
+ieta:66	 iphi: 319
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 116th record. Run 1, Event 43209518, LumiSection 43515 at 30-Apr-2013 11:50:02.425 CEST
+Begin processing the 117th record. Run 1, Event 43209519, LumiSection 43515 at 30-Apr-2013 11:50:02.426 CEST
+energy :5.36762 	 time : 18.651
+ieta:4	 iphi: 116
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	321	1
+6	338	1
+7	314	1
+8	282	1
+9	256	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	198	1
+2	200	1
+3	200	1
+4	199	1
+5	320	1
+6	337	1
+7	313	1
+8	282	1
+9	256	1
+Begin processing the 118th record. Run 1, Event 43209520, LumiSection 43515 at 30-Apr-2013 11:50:02.427 CEST
+Begin processing the 119th record. Run 1, Event 43209521, LumiSection 43515 at 30-Apr-2013 11:50:02.427 CEST
+Begin processing the 120th record. Run 1, Event 43209522, LumiSection 43515 at 30-Apr-2013 11:50:02.428 CEST
+Begin processing the 121st record. Run 1, Event 43209523, LumiSection 43515 at 30-Apr-2013 11:50:02.429 CEST
+Begin processing the 122nd record. Run 1, Event 43209524, LumiSection 43515 at 30-Apr-2013 11:50:02.429 CEST
+Begin processing the 123rd record. Run 1, Event 43209525, LumiSection 43515 at 30-Apr-2013 11:50:02.430 CEST
+energy :8.26475 	 time : -11.9521
+ieta:-67	 iphi: 217
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.2651 	 time : -0.0881547
+ieta:84	 iphi: 255
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 124th record. Run 1, Event 43209526, LumiSection 43515 at 30-Apr-2013 11:50:02.431 CEST
+Begin processing the 125th record. Run 1, Event 43209527, LumiSection 43515 at 30-Apr-2013 11:50:02.431 CEST
+Begin processing the 126th record. Run 1, Event 43209528, LumiSection 43515 at 30-Apr-2013 11:50:02.432 CEST
+Begin processing the 127th record. Run 1, Event 43209529, LumiSection 43515 at 30-Apr-2013 11:50:02.432 CEST
+energy :3.12239 	 time : -0.174941
+ieta:-85	 iphi: 315
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.00958 	 time : -0.65577
+ieta:72	 iphi: 218
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 128th record. Run 1, Event 43209530, LumiSection 43515 at 30-Apr-2013 11:50:02.433 CEST
+Begin processing the 129th record. Run 1, Event 43209531, LumiSection 43515 at 30-Apr-2013 11:50:02.434 CEST
+Begin processing the 130th record. Run 1, Event 43209532, LumiSection 43515 at 30-Apr-2013 11:50:02.434 CEST
+Begin processing the 131st record. Run 1, Event 43209533, LumiSection 43515 at 30-Apr-2013 11:50:02.435 CEST
+Begin processing the 132nd record. Run 1, Event 43209534, LumiSection 43515 at 30-Apr-2013 11:50:02.443 CEST
+Begin processing the 133rd record. Run 1, Event 43209535, LumiSection 43515 at 30-Apr-2013 11:50:02.444 CEST
+energy :8.75702 	 time : 25.736
+ieta:12	 iphi: 296
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	440	1
+6	532	1
+7	488	1
+8	414	1
+9	347	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	201	1
+2	199	1
+3	199	1
+4	199	1
+5	439	1
+6	529	1
+7	487	1
+8	412	1
+9	346	1
+Begin processing the 134th record. Run 1, Event 43209536, LumiSection 43515 at 30-Apr-2013 11:50:02.444 CEST
+energy :4.6664 	 time : -0.453933
+ieta:77	 iphi: 241
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 135th record. Run 1, Event 43209537, LumiSection 43515 at 30-Apr-2013 11:50:02.445 CEST
+Begin processing the 136th record. Run 1, Event 43209538, LumiSection 43515 at 30-Apr-2013 11:50:02.446 CEST
+Begin processing the 137th record. Run 1, Event 43209539, LumiSection 43515 at 30-Apr-2013 11:50:02.446 CEST
+Begin processing the 138th record. Run 1, Event 43209540, LumiSection 43515 at 30-Apr-2013 11:50:02.454 CEST
+Begin processing the 139th record. Run 1, Event 43209541, LumiSection 43515 at 30-Apr-2013 11:50:02.455 CEST
+energy :4.40012 	 time : 0.0246956
+ieta:-78	 iphi: 251
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.32187 	 time : 0.0906491
+ieta:29	 iphi: 51
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.78502 	 time : -0.72125
+ieta:30	 iphi: 52
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :6.09341 	 time : -1.47978
+ieta:32	 iphi: 53
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	203	1
+4	214	1
+5	214	1
+6	211	1
+7	208	1
+8	205	1
+9	203	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	201	1
+2	202	1
+3	206	1
+4	312	1
+5	342	1
+6	324	1
+7	294	1
+8	267	1
+9	245	1
+energy :4.51274 	 time : -0.331093
+ieta:40	 iphi: 217
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 140th record. Run 1, Event 43209542, LumiSection 43515 at 30-Apr-2013 11:50:02.456 CEST
+energy :7.74424 	 time : -12.6654
+ieta:48	 iphi: 194
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	241	1
+4	398	1
+5	402	1
+6	360	1
+7	314	1
+8	276	1
+9	249	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	197	1
+1	198	1
+2	198	1
+3	237	1
+4	400	1
+5	405	1
+6	363	1
+7	317	1
+8	279	1
+9	253	1
+energy :3.07283 	 time : -9.24119
+ieta:75	 iphi: 234
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	205	1
+4	257	1
+5	261	1
+6	249	1
+7	235	1
+8	223	1
+9	215	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	202	1
+2	201	1
+3	206	1
+4	264	1
+5	269	1
+6	256	1
+7	242	1
+8	228	1
+9	220	1
+Begin processing the 141st record. Run 1, Event 43209543, LumiSection 43515 at 30-Apr-2013 11:50:02.457 CEST
+Begin processing the 142nd record. Run 1, Event 43209544, LumiSection 43515 at 30-Apr-2013 11:50:02.458 CEST
+energy :4.25622 	 time : -0.468891
+ieta:-17	 iphi: 72
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 143rd record. Run 1, Event 43209545, LumiSection 43515 at 30-Apr-2013 11:50:02.459 CEST
+Begin processing the 144th record. Run 1, Event 43209546, LumiSection 43515 at 30-Apr-2013 11:50:02.459 CEST
+energy :10.2047 	 time : -0.617131
+ieta:51	 iphi: 318
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	205	1
+4	228	1
+5	228	1
+6	223	1
+7	216	1
+8	211	1
+9	207	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	201	1
+3	206	1
+4	405	1
+5	467	1
+6	436	1
+7	378	1
+8	325	1
+9	285	1
+Begin processing the 145th record. Run 1, Event 43209547, LumiSection 43515 at 30-Apr-2013 11:50:02.460 CEST
+Begin processing the 146th record. Run 1, Event 43209548, LumiSection 43515 at 30-Apr-2013 11:50:02.461 CEST
+energy :4.44491 	 time : 0.233813
+ieta:45	 iphi: 260
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 147th record. Run 1, Event 43209549, LumiSection 43515 at 30-Apr-2013 11:50:02.461 CEST
+energy :5.79269 	 time : 0.0404933
+ieta:78	 iphi: 20
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	202	1
+5	202	1
+6	201	1
+7	201	1
+8	201	1
+9	200	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	203	1
+1	200	1
+2	199	1
+3	200	1
+4	294	1
+5	324	1
+6	312	1
+7	285	1
+8	261	1
+9	239	1
+Begin processing the 148th record. Run 1, Event 43209550, LumiSection 43515 at 30-Apr-2013 11:50:02.462 CEST
+Begin processing the 149th record. Run 1, Event 43209551, LumiSection 43515 at 30-Apr-2013 11:50:02.463 CEST
+energy :3.75583 	 time : 39.4135
+ieta:-57	 iphi: 189
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 150th record. Run 1, Event 43209552, LumiSection 43515 at 30-Apr-2013 11:50:02.464 CEST
+Begin processing the 151st record. Run 1, Event 43209553, LumiSection 43515 at 30-Apr-2013 11:50:02.464 CEST
+Begin processing the 152nd record. Run 1, Event 43209554, LumiSection 43515 at 30-Apr-2013 11:50:02.465 CEST
+energy :3.61087 	 time : 12.0073
+ieta:80	 iphi: 282
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	234	1
+5	288	1
+6	285	1
+7	266	1
+8	247	1
+9	231	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	202	1
+2	202	1
+3	201	1
+4	230	1
+5	293	1
+6	291	1
+7	271	1
+8	251	1
+9	235	1
+Begin processing the 153rd record. Run 1, Event 43209555, LumiSection 43515 at 30-Apr-2013 11:50:02.466 CEST
+Begin processing the 154th record. Run 1, Event 43209556, LumiSection 43515 at 30-Apr-2013 11:50:02.467 CEST
+energy :7.44944 	 time : -12.3184
+ieta:-34	 iphi: 153
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :3.00416 	 time : -0.799014
+ieta:-62	 iphi: 290
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 155th record. Run 1, Event 43209557, LumiSection 43515 at 30-Apr-2013 11:50:02.467 CEST
+energy :3.25481 	 time : -0.0452766
+ieta:66	 iphi: 325
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.21618 	 time : -1.77125
+ieta:67	 iphi: 208
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 156th record. Run 1, Event 43209558, LumiSection 43515 at 30-Apr-2013 11:50:02.468 CEST
+energy :5.15966 	 time : -0.180106
+ieta:-32	 iphi: 223
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.37935 	 time : -0.221243
+ieta:-37	 iphi: 16
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 157th record. Run 1, Event 43209559, LumiSection 43515 at 30-Apr-2013 11:50:02.469 CEST
+Begin processing the 158th record. Run 1, Event 43209560, LumiSection 43515 at 30-Apr-2013 11:50:02.475 CEST
+Begin processing the 159th record. Run 1, Event 43209561, LumiSection 43515 at 30-Apr-2013 11:50:02.476 CEST
+Begin processing the 160th record. Run 1, Event 43209562, LumiSection 43515 at 30-Apr-2013 11:50:02.477 CEST
+Begin processing the 161st record. Run 1, Event 43209563, LumiSection 43515 at 30-Apr-2013 11:50:02.478 CEST
+energy :3.80636 	 time : 0.133613
+ieta:-72	 iphi: 295
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 162nd record. Run 1, Event 43209564, LumiSection 43515 at 30-Apr-2013 11:50:02.478 CEST
+energy :3.23522 	 time : 40.1477
+ieta:-42	 iphi: 71
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :13.9394 	 time : -10.7545
+ieta:82	 iphi: 196
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	226	1
+4	521	1
+5	538	1
+6	472	1
+7	395	1
+8	331	1
+9	285	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	203	1
+3	224	1
+4	525	1
+5	543	1
+6	476	1
+7	398	1
+8	334	1
+9	286	1
+Begin processing the 163rd record. Run 1, Event 43209565, LumiSection 43515 at 30-Apr-2013 11:50:02.479 CEST
+Begin processing the 164th record. Run 1, Event 43209566, LumiSection 43515 at 30-Apr-2013 11:50:02.480 CEST
+energy :4.13678 	 time : -0.236239
+ieta:-84	 iphi: 32
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 165th record. Run 1, Event 43209567, LumiSection 43515 at 30-Apr-2013 11:50:02.481 CEST
+energy :6.10905 	 time : -7.96737
+ieta:-6	 iphi: 102
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 166th record. Run 1, Event 43209568, LumiSection 43515 at 30-Apr-2013 11:50:02.481 CEST
+Begin processing the 167th record. Run 1, Event 43209569, LumiSection 43515 at 30-Apr-2013 11:50:02.482 CEST
+Begin processing the 168th record. Run 1, Event 43209570, LumiSection 43515 at 30-Apr-2013 11:50:02.483 CEST
+Begin processing the 169th record. Run 1, Event 43209571, LumiSection 43515 at 30-Apr-2013 11:50:02.483 CEST
+energy :3.01872 	 time : -0.353924
+ieta:75	 iphi: 120
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 170th record. Run 1, Event 43209572, LumiSection 43515 at 30-Apr-2013 11:50:02.484 CEST
+energy :3.84408 	 time : -3.79929
+ieta:25	 iphi: 122
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	277	1
+5	291	1
+6	275	1
+7	255	1
+8	237	1
+9	224	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	199	1
+4	274	1
+5	289	1
+6	276	1
+7	255	1
+8	236	1
+9	223	1
+energy :3.17471 	 time : 0.167113
+ieta:55	 iphi: 264
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 171st record. Run 1, Event 43209573, LumiSection 43515 at 30-Apr-2013 11:50:02.485 CEST
+Begin processing the 172nd record. Run 1, Event 43209574, LumiSection 43515 at 30-Apr-2013 11:50:02.485 CEST
+Begin processing the 173rd record. Run 1, Event 43209575, LumiSection 43515 at 30-Apr-2013 11:50:02.486 CEST
+Begin processing the 174th record. Run 1, Event 43209576, LumiSection 43515 at 30-Apr-2013 11:50:02.487 CEST
+Begin processing the 175th record. Run 1, Event 43209577, LumiSection 43515 at 30-Apr-2013 11:50:02.487 CEST
+energy :5.26056 	 time : -9.4835
+ieta:-24	 iphi: 47
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 176th record. Run 1, Event 43209578, LumiSection 43515 at 30-Apr-2013 11:50:02.488 CEST
+Begin processing the 177th record. Run 1, Event 43209579, LumiSection 43515 at 30-Apr-2013 11:50:02.488 CEST
+energy :4.34106 	 time : -10.379
+ieta:-47	 iphi: 250
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 178th record. Run 1, Event 43209580, LumiSection 43515 at 30-Apr-2013 11:50:02.489 CEST
+Begin processing the 179th record. Run 1, Event 43209581, LumiSection 43515 at 30-Apr-2013 11:50:02.490 CEST
+energy :3.11561 	 time : -2.01138
+ieta:68	 iphi: 242
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 180th record. Run 1, Event 43209582, LumiSection 43515 at 30-Apr-2013 11:50:02.491 CEST
+Begin processing the 181st record. Run 1, Event 43209583, LumiSection 43515 at 30-Apr-2013 11:50:02.492 CEST
+Begin processing the 182nd record. Run 1, Event 43209584, LumiSection 43515 at 30-Apr-2013 11:50:02.493 CEST
+Begin processing the 183rd record. Run 1, Event 43209585, LumiSection 43515 at 30-Apr-2013 11:50:02.494 CEST
+Begin processing the 184th record. Run 1, Event 43209586, LumiSection 43515 at 30-Apr-2013 11:50:02.501 CEST
+Begin processing the 185th record. Run 1, Event 43209587, LumiSection 43515 at 30-Apr-2013 11:50:02.502 CEST
+energy :8.42383 	 time : 7.87035
+ieta:70	 iphi: 151
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	300	1
+5	403	1
+6	390	1
+7	346	1
+8	302	1
+9	268	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	198	1
+2	200	1
+3	201	1
+4	296	1
+5	404	1
+6	389	1
+7	347	1
+8	304	1
+9	268	1
+energy :3.45795 	 time : -0.790129
+ieta:80	 iphi: 143
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 186th record. Run 1, Event 43209588, LumiSection 43515 at 30-Apr-2013 11:50:02.503 CEST
+Begin processing the 187th record. Run 1, Event 43209589, LumiSection 43515 at 30-Apr-2013 11:50:02.504 CEST
+energy :5.70114 	 time : -3.28011
+ieta:-63	 iphi: 109
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.18592 	 time : -26.4417
+ieta:49	 iphi: 150
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	277	1
+4	299	1
+5	285	1
+6	263	1
+7	243	1
+8	228	1
+9	218	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	279	1
+4	301	1
+5	287	1
+6	265	1
+7	245	1
+8	231	1
+9	220	1
+energy :3.80902 	 time : -0.229699
+ieta:82	 iphi: 343
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 188th record. Run 1, Event 43209590, LumiSection 43515 at 30-Apr-2013 11:50:02.505 CEST
+energy :3.60319 	 time : 54.3003
+ieta:-76	 iphi: 76
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.07639 	 time : 46.7565
+ieta:67	 iphi: 228
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	342	1
+7	379	1
+8	351	1
+9	311	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	199	1
+2	200	1
+3	200	1
+4	200	1
+5	199	1
+6	348	1
+7	381	1
+8	352	1
+9	311	1
+Begin processing the 189th record. Run 1, Event 43209591, LumiSection 43515 at 30-Apr-2013 11:50:02.507 CEST
+Begin processing the 190th record. Run 1, Event 43209592, LumiSection 43515 at 30-Apr-2013 11:50:02.508 CEST
+Begin processing the 191st record. Run 1, Event 43209593, LumiSection 43515 at 30-Apr-2013 11:50:02.509 CEST
+Begin processing the 192nd record. Run 1, Event 43209594, LumiSection 43515 at 30-Apr-2013 11:50:02.510 CEST
+Begin processing the 193rd record. Run 1, Event 43209595, LumiSection 43515 at 30-Apr-2013 11:50:02.510 CEST
+Begin processing the 194th record. Run 1, Event 43209596, LumiSection 43515 at 30-Apr-2013 11:50:02.511 CEST
+energy :5.26998 	 time : -33.0029
+ieta:-85	 iphi: 6
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 195th record. Run 1, Event 43209597, LumiSection 43515 at 30-Apr-2013 11:50:02.512 CEST
+Begin processing the 196th record. Run 1, Event 43209598, LumiSection 43515 at 30-Apr-2013 11:50:02.518 CEST
+Begin processing the 197th record. Run 1, Event 43209599, LumiSection 43515 at 30-Apr-2013 11:50:02.519 CEST
+Begin processing the 198th record. Run 1, Event 43209600, LumiSection 43515 at 30-Apr-2013 11:50:02.520 CEST
+energy :7.29224 	 time : -25.9946
+ieta:75	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	353	1
+4	397	1
+5	368	1
+6	324	1
+7	285	1
+8	255	1
+9	235	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	351	1
+4	396	1
+5	369	1
+6	323	1
+7	287	1
+8	257	1
+9	237	1
+Begin processing the 199th record. Run 1, Event 43209601, LumiSection 43515 at 30-Apr-2013 11:50:02.521 CEST
+Begin processing the 200th record. Run 1, Event 43209602, LumiSection 43515 at 30-Apr-2013 11:50:02.522 CEST
+Begin processing the 201st record. Run 1, Event 43209603, LumiSection 43515 at 30-Apr-2013 11:50:02.522 CEST
+energy :9.07928 	 time : -0.0965878
+ieta:66	 iphi: 222
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	373	1
+5	434	1
+6	402	1
+7	350	1
+8	303	1
+9	267	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	200	1
+3	200	1
+4	376	1
+5	435	1
+6	403	1
+7	352	1
+8	303	1
+9	268	1
+Begin processing the 202nd record. Run 1, Event 43209604, LumiSection 43515 at 30-Apr-2013 11:50:02.523 CEST
+Begin processing the 203rd record. Run 1, Event 43209605, LumiSection 43515 at 30-Apr-2013 11:50:02.524 CEST
+energy :9.00118 	 time : -10.3524
+ieta:45	 iphi: 355
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	243	1
+4	388	1
+5	390	1
+6	351	1
+7	307	1
+8	272	1
+9	246	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	196	1
+1	198	1
+2	197	1
+3	219	1
+4	391	1
+5	403	1
+6	363	1
+7	317	1
+8	278	1
+9	250	1
+Begin processing the 204th record. Run 1, Event 43209606, LumiSection 43515 at 30-Apr-2013 11:50:02.525 CEST
+Begin processing the 205th record. Run 1, Event 43209607, LumiSection 43515 at 30-Apr-2013 11:50:02.525 CEST
+Begin processing the 206th record. Run 1, Event 43209608, LumiSection 43515 at 30-Apr-2013 11:50:02.526 CEST
+energy :10.563 	 time : -6.5544
+ieta:-54	 iphi: 204
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :3.11634 	 time : -0.452943
+ieta:57	 iphi: 32
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 207th record. Run 1, Event 43209609, LumiSection 43515 at 30-Apr-2013 11:50:02.527 CEST
+Begin processing the 208th record. Run 1, Event 43209610, LumiSection 43515 at 30-Apr-2013 11:50:02.527 CEST
+Begin processing the 209th record. Run 1, Event 43209611, LumiSection 43515 at 30-Apr-2013 11:50:02.528 CEST
+Begin processing the 210th record. Run 1, Event 43209612, LumiSection 43515 at 30-Apr-2013 11:50:02.534 CEST
+energy :3.56793 	 time : -13.0027
+ieta:-47	 iphi: 321
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 211th record. Run 1, Event 43209613, LumiSection 43515 at 30-Apr-2013 11:50:02.535 CEST
+Begin processing the 212th record. Run 1, Event 43209614, LumiSection 43515 at 30-Apr-2013 11:50:02.536 CEST
+energy :4.22271 	 time : -0.520954
+ieta:-32	 iphi: 216
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 213th record. Run 1, Event 43209615, LumiSection 43515 at 30-Apr-2013 11:50:02.536 CEST
+Begin processing the 214th record. Run 1, Event 43209616, LumiSection 43515 at 30-Apr-2013 11:50:02.537 CEST
+Begin processing the 215th record. Run 1, Event 43209617, LumiSection 43515 at 30-Apr-2013 11:50:02.538 CEST
+energy :3.37605 	 time : -10.4187
+ieta:-66	 iphi: 357
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 216th record. Run 1, Event 43209618, LumiSection 43515 at 30-Apr-2013 11:50:02.539 CEST
+Begin processing the 217th record. Run 1, Event 43209619, LumiSection 43515 at 30-Apr-2013 11:50:02.539 CEST
+Begin processing the 218th record. Run 1, Event 43209620, LumiSection 43515 at 30-Apr-2013 11:50:02.540 CEST
+energy :3.31142 	 time : 37.5465
+ieta:-44	 iphi: 50
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 219th record. Run 1, Event 43209621, LumiSection 43515 at 30-Apr-2013 11:50:02.540 CEST
+energy :6.94687 	 time : -12.9784
+ieta:13	 iphi: 15
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	223	1
+4	353	1
+5	358	1
+6	326	1
+7	290	1
+8	260	1
+9	239	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	229	1
+4	355	1
+5	358	1
+6	326	1
+7	289	1
+8	259	1
+9	237	1
+Begin processing the 220th record. Run 1, Event 43209622, LumiSection 43515 at 30-Apr-2013 11:50:02.541 CEST
+energy :3.07609 	 time : -0.730644
+ieta:44	 iphi: 215
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 221st record. Run 1, Event 43209623, LumiSection 43515 at 30-Apr-2013 11:50:02.542 CEST
+Begin processing the 222nd record. Run 1, Event 43209624, LumiSection 43515 at 30-Apr-2013 11:50:02.543 CEST
+Begin processing the 223rd record. Run 1, Event 43209625, LumiSection 43515 at 30-Apr-2013 11:50:02.543 CEST
+energy :3.09668 	 time : -5.66177
+ieta:-63	 iphi: 313
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 224th record. Run 1, Event 43209626, LumiSection 43515 at 30-Apr-2013 11:50:02.544 CEST
+energy :7.88986 	 time : 18.5748
+ieta:5	 iphi: 43
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	390	1
+6	413	1
+7	374	1
+8	326	1
+9	285	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	201	1
+3	199	1
+4	200	1
+5	386	1
+6	412	1
+7	374	1
+8	327	1
+9	286	1
+Begin processing the 225th record. Run 1, Event 43209627, LumiSection 43515 at 30-Apr-2013 11:50:02.545 CEST
+Begin processing the 226th record. Run 1, Event 43209628, LumiSection 43515 at 30-Apr-2013 11:50:02.545 CEST
+Begin processing the 227th record. Run 1, Event 43209629, LumiSection 43515 at 30-Apr-2013 11:50:02.546 CEST
+Begin processing the 228th record. Run 1, Event 43209630, LumiSection 43515 at 30-Apr-2013 11:50:02.546 CEST
+Begin processing the 229th record. Run 1, Event 43209631, LumiSection 43515 at 30-Apr-2013 11:50:02.547 CEST
+Begin processing the 230th record. Run 1, Event 43209632, LumiSection 43515 at 30-Apr-2013 11:50:02.548 CEST
+Begin processing the 231st record. Run 1, Event 43209633, LumiSection 43515 at 30-Apr-2013 11:50:02.548 CEST
+Begin processing the 232nd record. Run 1, Event 43209634, LumiSection 43515 at 30-Apr-2013 11:50:02.549 CEST
+energy :3.12436 	 time : -0.281325
+ieta:64	 iphi: 190
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 233rd record. Run 1, Event 43209635, LumiSection 43515 at 30-Apr-2013 11:50:02.550 CEST
+energy :3.08884 	 time : 47.2316
+ieta:-45	 iphi: 241
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 234th record. Run 1, Event 43209636, LumiSection 43515 at 30-Apr-2013 11:50:02.550 CEST
+energy :3.83707 	 time : -0.633757
+ieta:78	 iphi: 116
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 235th record. Run 1, Event 43209637, LumiSection 43515 at 30-Apr-2013 11:50:02.551 CEST
+Begin processing the 236th record. Run 1, Event 43209638, LumiSection 43515 at 30-Apr-2013 11:50:02.557 CEST
+Begin processing the 237th record. Run 1, Event 43209639, LumiSection 43515 at 30-Apr-2013 11:50:02.558 CEST
+Begin processing the 238th record. Run 1, Event 43209640, LumiSection 43515 at 30-Apr-2013 11:50:02.558 CEST
+energy :7.27882 	 time : -0.389228
+ieta:-73	 iphi: 15
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :7.47607 	 time : -0.409432
+ieta:72	 iphi: 352
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 239th record. Run 1, Event 43209641, LumiSection 43515 at 30-Apr-2013 11:50:02.559 CEST
+Begin processing the 240th record. Run 1, Event 43209642, LumiSection 43515 at 30-Apr-2013 11:50:02.560 CEST
+Begin processing the 241st record. Run 1, Event 43209643, LumiSection 43515 at 30-Apr-2013 11:50:02.560 CEST
+energy :3.44984 	 time : 0.258632
+ieta:-71	 iphi: 118
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 242nd record. Run 1, Event 43209644, LumiSection 43515 at 30-Apr-2013 11:50:02.561 CEST
+Begin processing the 243rd record. Run 1, Event 43209645, LumiSection 43515 at 30-Apr-2013 11:50:02.562 CEST
+Begin processing the 244th record. Run 1, Event 43209646, LumiSection 43515 at 30-Apr-2013 11:50:02.562 CEST
+Begin processing the 245th record. Run 1, Event 43209647, LumiSection 43515 at 30-Apr-2013 11:50:02.563 CEST
+Begin processing the 246th record. Run 1, Event 43209648, LumiSection 43515 at 30-Apr-2013 11:50:02.564 CEST
+Begin processing the 247th record. Run 1, Event 43209649, LumiSection 43515 at 30-Apr-2013 11:50:02.564 CEST
+Begin processing the 248th record. Run 1, Event 43209650, LumiSection 43515 at 30-Apr-2013 11:50:02.565 CEST
+Begin processing the 249th record. Run 1, Event 43209651, LumiSection 43515 at 30-Apr-2013 11:50:02.566 CEST
+Begin processing the 250th record. Run 1, Event 43209652, LumiSection 43515 at 30-Apr-2013 11:50:02.566 CEST
+Begin processing the 251st record. Run 1, Event 43209653, LumiSection 43515 at 30-Apr-2013 11:50:02.567 CEST
+Begin processing the 252nd record. Run 1, Event 43209654, LumiSection 43515 at 30-Apr-2013 11:50:02.568 CEST
+Begin processing the 253rd record. Run 1, Event 43209655, LumiSection 43515 at 30-Apr-2013 11:50:02.568 CEST
+Begin processing the 254th record. Run 1, Event 43209656, LumiSection 43515 at 30-Apr-2013 11:50:02.569 CEST
+Begin processing the 255th record. Run 1, Event 43209657, LumiSection 43515 at 30-Apr-2013 11:50:02.569 CEST
+Begin processing the 256th record. Run 1, Event 43209658, LumiSection 43515 at 30-Apr-2013 11:50:02.570 CEST
+Begin processing the 257th record. Run 1, Event 43209659, LumiSection 43515 at 30-Apr-2013 11:50:02.571 CEST
+Begin processing the 258th record. Run 1, Event 43209660, LumiSection 43515 at 30-Apr-2013 11:50:02.571 CEST
+Begin processing the 259th record. Run 1, Event 43209661, LumiSection 43515 at 30-Apr-2013 11:50:02.572 CEST
+energy :3.6659 	 time : -0.177038
+ieta:-17	 iphi: 281
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.33121 	 time : 0.167155
+ieta:74	 iphi: 233
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 260th record. Run 1, Event 43209662, LumiSection 43515 at 30-Apr-2013 11:50:02.573 CEST
+Begin processing the 261st record. Run 1, Event 43209663, LumiSection 43515 at 30-Apr-2013 11:50:02.573 CEST
+Begin processing the 262nd record. Run 1, Event 43209664, LumiSection 43515 at 30-Apr-2013 11:50:02.579 CEST
+Begin processing the 263rd record. Run 1, Event 43209665, LumiSection 43515 at 30-Apr-2013 11:50:02.580 CEST
+Begin processing the 264th record. Run 1, Event 43209666, LumiSection 43515 at 30-Apr-2013 11:50:02.580 CEST
+Begin processing the 265th record. Run 1, Event 43209667, LumiSection 43515 at 30-Apr-2013 11:50:02.581 CEST
+energy :5.74597 	 time : -8.77544
+ieta:68	 iphi: 308
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	319	1
+5	330	1
+6	306	1
+7	277	1
+8	252	1
+9	234	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	199	1
+3	200	1
+4	319	1
+5	329	1
+6	307	1
+7	277	1
+8	253	1
+9	235	1
+Begin processing the 266th record. Run 1, Event 43209668, LumiSection 43515 at 30-Apr-2013 11:50:02.582 CEST
+Begin processing the 267th record. Run 1, Event 43209669, LumiSection 43515 at 30-Apr-2013 11:50:02.582 CEST
+energy :3.71736 	 time : 0.196729
+ieta:-25	 iphi: 284
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.21572 	 time : -9.44036
+ieta:-47	 iphi: 56
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.16835 	 time : -1.41484
+ieta:-85	 iphi: 306
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.96449 	 time : -44.7745
+ieta:58	 iphi: 152
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	387	1
+3	516	1
+4	487	1
+5	418	1
+6	351	1
+7	300	1
+8	264	1
+9	240	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	384	1
+3	516	1
+4	488	1
+5	418	1
+6	352	1
+7	300	1
+8	266	1
+9	239	1
+Begin processing the 268th record. Run 1, Event 43209670, LumiSection 43515 at 30-Apr-2013 11:50:02.583 CEST
+Begin processing the 269th record. Run 1, Event 43209671, LumiSection 43515 at 30-Apr-2013 11:50:02.584 CEST
+Begin processing the 270th record. Run 1, Event 43209672, LumiSection 43515 at 30-Apr-2013 11:50:02.585 CEST
+energy :4.64048 	 time : -12.2182
+ieta:31	 iphi: 153
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	227	1
+4	312	1
+5	313	1
+6	290	1
+7	264	1
+8	243	1
+9	228	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	200	1
+2	200	1
+3	216	1
+4	311	1
+5	314	1
+6	292	1
+7	267	1
+8	247	1
+9	229	1
+Begin processing the 271st record. Run 1, Event 43209673, LumiSection 43515 at 30-Apr-2013 11:50:02.585 CEST
+energy :6.64683 	 time : 6.74391
+ieta:77	 iphi: 174
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	276	1
+5	363	1
+6	354	1
+7	319	1
+8	283	1
+9	255	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	201	1
+2	200	1
+3	199	1
+4	286	1
+5	365	1
+6	353	1
+7	316	1
+8	282	1
+9	253	1
+Begin processing the 272nd record. Run 1, Event 43209674, LumiSection 43515 at 30-Apr-2013 11:50:02.586 CEST
+Begin processing the 273rd record. Run 1, Event 43209675, LumiSection 43515 at 30-Apr-2013 11:50:02.587 CEST
+Begin processing the 274th record. Run 1, Event 43209676, LumiSection 43515 at 30-Apr-2013 11:50:02.587 CEST
+energy :4.03055 	 time : 44.5683
+ieta:-56	 iphi: 144
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 275th record. Run 1, Event 43209677, LumiSection 43515 at 30-Apr-2013 11:50:02.588 CEST
+Begin processing the 276th record. Run 1, Event 43209678, LumiSection 43515 at 30-Apr-2013 11:50:02.589 CEST
+energy :3.2788 	 time : -9.80947
+ieta:-85	 iphi: 322
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 277th record. Run 1, Event 43209679, LumiSection 43515 at 30-Apr-2013 11:50:02.589 CEST
+energy :3.31461 	 time : -0.167734
+ieta:57	 iphi: 305
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 278th record. Run 1, Event 43209680, LumiSection 43515 at 30-Apr-2013 11:50:02.590 CEST
+Begin processing the 279th record. Run 1, Event 43209681, LumiSection 43515 at 30-Apr-2013 11:50:02.591 CEST
+Begin processing the 280th record. Run 1, Event 43209682, LumiSection 43515 at 30-Apr-2013 11:50:02.591 CEST
+Begin processing the 281st record. Run 1, Event 43209683, LumiSection 43515 at 30-Apr-2013 11:50:02.592 CEST
+Begin processing the 282nd record. Run 1, Event 43209684, LumiSection 43515 at 30-Apr-2013 11:50:02.593 CEST
+Begin processing the 283rd record. Run 1, Event 43209685, LumiSection 43515 at 30-Apr-2013 11:50:02.593 CEST
+Begin processing the 284th record. Run 1, Event 43209686, LumiSection 43515 at 30-Apr-2013 11:50:02.594 CEST
+energy :3.16596 	 time : -0.815079
+ieta:-26	 iphi: 281
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.39109 	 time : 1.95052
+ieta:-48	 iphi: 45
+kWeird:1	 kDiWeird:0	 kOOT:0
+Begin processing the 285th record. Run 1, Event 43209687, LumiSection 43515 at 30-Apr-2013 11:50:02.595 CEST
+Begin processing the 286th record. Run 1, Event 43209688, LumiSection 43515 at 30-Apr-2013 11:50:02.595 CEST
+energy :4.69819 	 time : -11.4977
+ieta:-41	 iphi: 8
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 287th record. Run 1, Event 43209689, LumiSection 43515 at 30-Apr-2013 11:50:02.596 CEST
+Begin processing the 288th record. Run 1, Event 43209690, LumiSection 43515 at 30-Apr-2013 11:50:02.602 CEST
+Begin processing the 289th record. Run 1, Event 43209691, LumiSection 43515 at 30-Apr-2013 11:50:02.602 CEST
+Begin processing the 290th record. Run 1, Event 43209692, LumiSection 43515 at 30-Apr-2013 11:50:02.603 CEST
+Begin processing the 291st record. Run 1, Event 43209693, LumiSection 43515 at 30-Apr-2013 11:50:02.603 CEST
+Begin processing the 292nd record. Run 1, Event 43209694, LumiSection 43515 at 30-Apr-2013 11:50:02.604 CEST
+Begin processing the 293rd record. Run 1, Event 43209695, LumiSection 43515 at 30-Apr-2013 11:50:02.605 CEST
+energy :3.89399 	 time : -0.0302212
+ieta:82	 iphi: 293
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 294th record. Run 1, Event 43209696, LumiSection 43515 at 30-Apr-2013 11:50:02.605 CEST
+energy :3.5038 	 time : 0.229061
+ieta:74	 iphi: 128
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.40774 	 time : -0.127317
+ieta:79	 iphi: 182
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 295th record. Run 1, Event 43209697, LumiSection 43515 at 30-Apr-2013 11:50:02.606 CEST
+Begin processing the 296th record. Run 1, Event 43209698, LumiSection 43515 at 30-Apr-2013 11:50:02.607 CEST
+Begin processing the 297th record. Run 1, Event 43209699, LumiSection 43515 at 30-Apr-2013 11:50:02.607 CEST
+energy :3.09418 	 time : -36.9899
+ieta:83	 iphi: 307
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	248	1
+3	326	1
+4	322	1
+5	295	1
+6	267	1
+7	244	1
+8	228	1
+9	218	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	236	1
+3	324	1
+4	325	1
+5	301	1
+6	272	1
+7	248	1
+8	233	1
+9	221	1
+Begin processing the 298th record. Run 1, Event 43209700, LumiSection 43515 at 30-Apr-2013 11:50:02.608 CEST
+Begin processing the 299th record. Run 1, Event 43209701, LumiSection 43515 at 30-Apr-2013 11:50:02.609 CEST
+energy :7.65766 	 time : -40.6734
+ieta:-70	 iphi: 149
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 300th record. Run 1, Event 43209702, LumiSection 43515 at 30-Apr-2013 11:50:02.609 CEST
+Begin processing the 301st record. Run 1, Event 43209703, LumiSection 43515 at 30-Apr-2013 11:50:02.610 CEST
+Begin processing the 302nd record. Run 1, Event 43209704, LumiSection 43515 at 30-Apr-2013 11:50:02.611 CEST
+Begin processing the 303rd record. Run 1, Event 43209705, LumiSection 43515 at 30-Apr-2013 11:50:02.611 CEST
+energy :3.20705 	 time : 54.6336
+ieta:-50	 iphi: 277
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 304th record. Run 1, Event 43209706, LumiSection 43515 at 30-Apr-2013 11:50:02.612 CEST
+Begin processing the 305th record. Run 1, Event 43209707, LumiSection 43515 at 30-Apr-2013 11:50:02.613 CEST
+energy :4.08566 	 time : -0.474296
+ieta:46	 iphi: 51
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 306th record. Run 1, Event 43209708, LumiSection 43515 at 30-Apr-2013 11:50:02.613 CEST
+energy :3.14661 	 time : -0.795002
+ieta:-7	 iphi: 23
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.67524 	 time : 38.1227
+ieta:57	 iphi: 192
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	229	1
+6	359	1
+7	363	1
+8	329	1
+9	292	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	199	1
+3	199	1
+4	200	1
+5	228	1
+6	360	1
+7	366	1
+8	332	1
+9	293	1
+Begin processing the 307th record. Run 1, Event 43209709, LumiSection 43515 at 30-Apr-2013 11:50:02.614 CEST
+Begin processing the 308th record. Run 1, Event 43209710, LumiSection 43515 at 30-Apr-2013 11:50:02.615 CEST
+energy :8.98277 	 time : -9.23328
+ieta:69	 iphi: 69
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	397	1
+5	419	1
+6	380	1
+7	330	1
+8	288	1
+9	257	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	202	1
+3	202	1
+4	404	1
+5	421	1
+6	378	1
+7	328	1
+8	287	1
+9	256	1
+Begin processing the 309th record. Run 1, Event 43209711, LumiSection 43515 at 30-Apr-2013 11:50:02.616 CEST
+Begin processing the 310th record. Run 1, Event 43209712, LumiSection 43515 at 30-Apr-2013 11:50:02.616 CEST
+Begin processing the 311th record. Run 1, Event 43209713, LumiSection 43515 at 30-Apr-2013 11:50:02.617 CEST
+Begin processing the 312th record. Run 1, Event 43209714, LumiSection 43515 at 30-Apr-2013 11:50:02.618 CEST
+Begin processing the 313th record. Run 1, Event 43209715, LumiSection 43515 at 30-Apr-2013 11:50:02.618 CEST
+Begin processing the 314th record. Run 1, Event 43209716, LumiSection 43515 at 30-Apr-2013 11:50:02.625 CEST
+Begin processing the 315th record. Run 1, Event 43209717, LumiSection 43515 at 30-Apr-2013 11:50:02.625 CEST
+Begin processing the 316th record. Run 1, Event 43209718, LumiSection 43515 at 30-Apr-2013 11:50:02.626 CEST
+energy :3.36258 	 time : 0.681135
+ieta:-33	 iphi: 61
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.21835 	 time : 39.796
+ieta:33	 iphi: 219
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	248	1
+6	413	1
+7	416	1
+8	371	1
+9	321	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	201	1
+2	201	1
+3	201	1
+4	201	1
+5	245	1
+6	416	1
+7	420	1
+8	374	1
+9	323	1
+Begin processing the 317th record. Run 1, Event 43209719, LumiSection 43515 at 30-Apr-2013 11:50:02.627 CEST
+energy :7.47582 	 time : -0.111306
+ieta:21	 iphi: 33
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 318th record. Run 1, Event 43209720, LumiSection 43515 at 30-Apr-2013 11:50:02.628 CEST
+Begin processing the 319th record. Run 1, Event 43209721, LumiSection 43515 at 30-Apr-2013 11:50:02.628 CEST
+energy :3.0676 	 time : -0.554888
+ieta:8	 iphi: 244
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 320th record. Run 1, Event 43209722, LumiSection 43515 at 30-Apr-2013 11:50:02.629 CEST
+energy :9.12298 	 time : -34.7518
+ieta:-20	 iphi: 279
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 321st record. Run 1, Event 43209723, LumiSection 43515 at 30-Apr-2013 11:50:02.629 CEST
+Begin processing the 322nd record. Run 1, Event 43209724, LumiSection 43515 at 30-Apr-2013 11:50:02.630 CEST
+Begin processing the 323rd record. Run 1, Event 43209725, LumiSection 43515 at 30-Apr-2013 11:50:02.631 CEST
+energy :3.8477 	 time : -11.489
+ieta:84	 iphi: 10
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	204	1
+4	288	1
+5	294	1
+6	276	1
+7	254	1
+8	237	1
+9	224	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	201	1
+3	218	1
+4	292	1
+5	296	1
+6	277	1
+7	255	1
+8	237	1
+9	225	1
+Begin processing the 324th record. Run 1, Event 43209726, LumiSection 43515 at 30-Apr-2013 11:50:02.631 CEST
+Begin processing the 325th record. Run 1, Event 43209727, LumiSection 43515 at 30-Apr-2013 11:50:02.632 CEST
+energy :3.25893 	 time : 40.1119
+ieta:46	 iphi: 201
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	232	1
+6	313	1
+7	313	1
+8	289	1
+9	263	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	199	1
+3	198	1
+4	198	1
+5	220	1
+6	328	1
+7	336	1
+8	312	1
+9	279	1
+Begin processing the 326th record. Run 1, Event 43209728, LumiSection 43515 at 30-Apr-2013 11:50:02.633 CEST
+energy :10.8329 	 time : -0.480179
+ieta:23	 iphi: 222
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 327th record. Run 1, Event 43209729, LumiSection 43515 at 30-Apr-2013 11:50:02.634 CEST
+energy :5.33827 	 time : 7.18413
+ieta:-80	 iphi: 314
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :4.02163 	 time : 39.0688
+ieta:-84	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 328th record. Run 1, Event 43209730, LumiSection 43515 at 30-Apr-2013 11:50:02.634 CEST
+Begin processing the 329th record. Run 1, Event 43209731, LumiSection 43515 at 30-Apr-2013 11:50:02.635 CEST
+energy :4.31828 	 time : -0.442395
+ieta:85	 iphi: 49
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 330th record. Run 1, Event 43209732, LumiSection 43515 at 30-Apr-2013 11:50:02.636 CEST
+energy :3.1254 	 time : -0.669532
+ieta:73	 iphi: 29
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 331st record. Run 1, Event 43209733, LumiSection 43515 at 30-Apr-2013 11:50:02.636 CEST
+energy :4.62338 	 time : 39.5849
+ieta:-72	 iphi: 85
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :3.27683 	 time : 0.212089
+ieta:72	 iphi: 195
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 332nd record. Run 1, Event 43209734, LumiSection 43515 at 30-Apr-2013 11:50:02.637 CEST
+Begin processing the 333rd record. Run 1, Event 43209735, LumiSection 43515 at 30-Apr-2013 11:50:02.638 CEST
+Begin processing the 334th record. Run 1, Event 43209736, LumiSection 43515 at 30-Apr-2013 11:50:02.638 CEST
+Begin processing the 335th record. Run 1, Event 43209737, LumiSection 43515 at 30-Apr-2013 11:50:02.639 CEST
+energy :5.54081 	 time : 38.7839
+ieta:-70	 iphi: 326
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 336th record. Run 1, Event 43209738, LumiSection 43515 at 30-Apr-2013 11:50:02.640 CEST
+Begin processing the 337th record. Run 1, Event 43209739, LumiSection 43515 at 30-Apr-2013 11:50:02.640 CEST
+Begin processing the 338th record. Run 1, Event 43209740, LumiSection 43515 at 30-Apr-2013 11:50:02.641 CEST
+Begin processing the 339th record. Run 1, Event 43209741, LumiSection 43515 at 30-Apr-2013 11:50:02.642 CEST
+energy :5.45089 	 time : -10.8819
+ieta:58	 iphi: 203
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	211	1
+4	325	1
+5	332	1
+6	306	1
+7	276	1
+8	251	1
+9	233	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	197	1
+2	198	1
+3	214	1
+4	326	1
+5	333	1
+6	306	1
+7	275	1
+8	251	1
+9	231	1
+energy :3.0444 	 time : -1.1344
+ieta:81	 iphi: 351
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 340th record. Run 1, Event 43209742, LumiSection 43515 at 30-Apr-2013 11:50:02.649 CEST
+energy :3.40152 	 time : 0.386482
+ieta:48	 iphi: 222
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 341st record. Run 1, Event 43209743, LumiSection 43515 at 30-Apr-2013 11:50:02.649 CEST
+Begin processing the 342nd record. Run 1, Event 43209744, LumiSection 43515 at 30-Apr-2013 11:50:02.650 CEST
+energy :3.71412 	 time : -0.962259
+ieta:62	 iphi: 286
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.68811 	 time : -0.718777
+ieta:62	 iphi: 287
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :13.1231 	 time : -0.123049
+ieta:62	 iphi: 288
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 343rd record. Run 1, Event 43209745, LumiSection 43515 at 30-Apr-2013 11:50:02.651 CEST
+Begin processing the 344th record. Run 1, Event 43209746, LumiSection 43515 at 30-Apr-2013 11:50:02.652 CEST
+energy :3.32167 	 time : -12.6833
+ieta:-25	 iphi: 343
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.71473 	 time : -0.888741
+ieta:-70	 iphi: 48
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 345th record. Run 1, Event 43209747, LumiSection 43515 at 30-Apr-2013 11:50:02.653 CEST
+energy :11.8617 	 time : 12.7024
+ieta:-65	 iphi: 145
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 346th record. Run 1, Event 43209748, LumiSection 43515 at 30-Apr-2013 11:50:02.654 CEST
+Begin processing the 347th record. Run 1, Event 43209749, LumiSection 43515 at 30-Apr-2013 11:50:02.655 CEST
+Begin processing the 348th record. Run 1, Event 43209750, LumiSection 43515 at 30-Apr-2013 11:50:02.656 CEST
+energy :7.40814 	 time : -1.8458
+ieta:-60	 iphi: 320
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 349th record. Run 1, Event 43209751, LumiSection 43515 at 30-Apr-2013 11:50:02.657 CEST
+Begin processing the 350th record. Run 1, Event 43209752, LumiSection 43515 at 30-Apr-2013 11:50:02.657 CEST
+energy :25.1787 	 time : 63.9129
+ieta:85	 iphi: 351
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	200	1
+7	3375	1
+8	3642	1
+9	2990	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	201	1
+3	201	1
+4	201	1
+5	202	1
+6	531	1
+7	3436	1
+8	3595	1
+9	2921	1
+Begin processing the 351st record. Run 1, Event 43209753, LumiSection 43515 at 30-Apr-2013 11:50:02.658 CEST
+Begin processing the 352nd record. Run 1, Event 43209754, LumiSection 43515 at 30-Apr-2013 11:50:02.658 CEST
+energy :15.3668 	 time : 4.49989
+ieta:-37	 iphi: 17
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 353rd record. Run 1, Event 43209755, LumiSection 43515 at 30-Apr-2013 11:50:02.659 CEST
+Begin processing the 354th record. Run 1, Event 43209756, LumiSection 43515 at 30-Apr-2013 11:50:02.660 CEST
+Begin processing the 355th record. Run 1, Event 43209757, LumiSection 43515 at 30-Apr-2013 11:50:02.660 CEST
+Begin processing the 356th record. Run 1, Event 43209758, LumiSection 43515 at 30-Apr-2013 11:50:02.661 CEST
+energy :4.57944 	 time : -0.17981
+ieta:28	 iphi: 274
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 357th record. Run 1, Event 43209759, LumiSection 43515 at 30-Apr-2013 11:50:02.662 CEST
+Begin processing the 358th record. Run 1, Event 43209760, LumiSection 43515 at 30-Apr-2013 11:50:02.662 CEST
+energy :5.25074 	 time : -10.7525
+ieta:-35	 iphi: 216
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 359th record. Run 1, Event 43209761, LumiSection 43515 at 30-Apr-2013 11:50:02.663 CEST
+Begin processing the 360th record. Run 1, Event 43209762, LumiSection 43515 at 30-Apr-2013 11:50:02.664 CEST
+Begin processing the 361st record. Run 1, Event 43209763, LumiSection 43515 at 30-Apr-2013 11:50:02.664 CEST
+Begin processing the 362nd record. Run 1, Event 43209764, LumiSection 43515 at 30-Apr-2013 11:50:02.665 CEST
+Begin processing the 363rd record. Run 1, Event 43209765, LumiSection 43515 at 30-Apr-2013 11:50:02.666 CEST
+energy :6.46508 	 time : -36.9962
+ieta:-78	 iphi: 60
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 364th record. Run 1, Event 43209766, LumiSection 43515 at 30-Apr-2013 11:50:02.666 CEST
+energy :3.54247 	 time : 39.4563
+ieta:-82	 iphi: 240
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 365th record. Run 1, Event 43209767, LumiSection 43515 at 30-Apr-2013 11:50:02.667 CEST
+energy :5.66121 	 time : 10.1533
+ieta:55	 iphi: 300
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	272	1
+5	374	1
+6	367	1
+7	329	1
+8	291	1
+9	261	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	200	1
+4	268	1
+5	376	1
+6	369	1
+7	332	1
+8	293	1
+9	263	1
+energy :4.59537 	 time : -0.0327501
+ieta:66	 iphi: 30
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	302	1
+5	336	1
+6	317	1
+7	287	1
+8	260	1
+9	239	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	201	1
+3	201	1
+4	303	1
+5	336	1
+6	321	1
+7	293	1
+8	266	1
+9	245	1
+Begin processing the 366th record. Run 1, Event 43209768, LumiSection 43515 at 30-Apr-2013 11:50:02.674 CEST
+Begin processing the 367th record. Run 1, Event 43209769, LumiSection 43515 at 30-Apr-2013 11:50:02.675 CEST
+Begin processing the 368th record. Run 1, Event 43209770, LumiSection 43515 at 30-Apr-2013 11:50:02.675 CEST
+energy :11.4758 	 time : -11.3851
+ieta:-30	 iphi: 216
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 369th record. Run 1, Event 43209771, LumiSection 43515 at 30-Apr-2013 11:50:02.676 CEST
+Begin processing the 370th record. Run 1, Event 43209772, LumiSection 43515 at 30-Apr-2013 11:50:02.677 CEST
+Begin processing the 371st record. Run 1, Event 43209773, LumiSection 43515 at 30-Apr-2013 11:50:02.677 CEST
+energy :3.08243 	 time : 0.58627
+ieta:-18	 iphi: 76
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 372nd record. Run 1, Event 43209774, LumiSection 43515 at 30-Apr-2013 11:50:02.678 CEST
+Begin processing the 373rd record. Run 1, Event 43209775, LumiSection 43515 at 30-Apr-2013 11:50:02.678 CEST
+Begin processing the 374th record. Run 1, Event 43209776, LumiSection 43515 at 30-Apr-2013 11:50:02.679 CEST
+Begin processing the 375th record. Run 1, Event 43209777, LumiSection 43515 at 30-Apr-2013 11:50:02.680 CEST
+energy :5.81137 	 time : -6.07031
+ieta:-84	 iphi: 114
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 376th record. Run 1, Event 43209778, LumiSection 43515 at 30-Apr-2013 11:50:02.680 CEST
+Begin processing the 377th record. Run 1, Event 43209779, LumiSection 43515 at 30-Apr-2013 11:50:02.681 CEST
+energy :4.59196 	 time : -38.4735
+ieta:85	 iphi: 311
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	273	1
+3	381	1
+4	374	1
+5	335	1
+6	295	1
+7	263	1
+8	241	1
+9	225	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	259	1
+3	380	1
+4	376	1
+5	339	1
+6	299	1
+7	265	1
+8	241	1
+9	227	1
+Begin processing the 378th record. Run 1, Event 43209780, LumiSection 43515 at 30-Apr-2013 11:50:02.682 CEST
+Begin processing the 379th record. Run 1, Event 43209781, LumiSection 43515 at 30-Apr-2013 11:50:02.682 CEST
+Begin processing the 380th record. Run 1, Event 43209782, LumiSection 43515 at 30-Apr-2013 11:50:02.683 CEST
+Begin processing the 381st record. Run 1, Event 43209783, LumiSection 43515 at 30-Apr-2013 11:50:02.684 CEST
+energy :3.4135 	 time : -0.593999
+ieta:68	 iphi: 196
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 382nd record. Run 1, Event 43209784, LumiSection 43515 at 30-Apr-2013 11:50:02.684 CEST
+Begin processing the 383rd record. Run 1, Event 43209785, LumiSection 43515 at 30-Apr-2013 11:50:02.685 CEST
+Begin processing the 384th record. Run 1, Event 43209786, LumiSection 43515 at 30-Apr-2013 11:50:02.686 CEST
+energy :6.97768 	 time : -0.0199123
+ieta:84	 iphi: 327
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 385th record. Run 1, Event 43209787, LumiSection 43515 at 30-Apr-2013 11:50:02.686 CEST
+Begin processing the 386th record. Run 1, Event 43209788, LumiSection 43515 at 30-Apr-2013 11:50:02.687 CEST
+energy :3.81438 	 time : 40.5823
+ieta:43	 iphi: 351
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	378	1
+7	400	1
+8	364	1
+9	319	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	201	1
+3	201	1
+4	202	1
+5	203	1
+6	386	1
+7	401	1
+8	362	1
+9	316	1
+Begin processing the 387th record. Run 1, Event 43209789, LumiSection 43515 at 30-Apr-2013 11:50:02.688 CEST
+energy :3.55602 	 time : -0.837238
+ieta:70	 iphi: 22
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 388th record. Run 1, Event 43209790, LumiSection 43515 at 30-Apr-2013 11:50:02.688 CEST
+energy :3.96516 	 time : -0.896289
+ieta:-83	 iphi: 103
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 389th record. Run 1, Event 43209791, LumiSection 43515 at 30-Apr-2013 11:50:02.689 CEST
+Begin processing the 390th record. Run 1, Event 43209792, LumiSection 43515 at 30-Apr-2013 11:50:02.690 CEST
+Begin processing the 391st record. Run 1, Event 43209793, LumiSection 43515 at 30-Apr-2013 11:50:02.690 CEST
+Begin processing the 392nd record. Run 1, Event 43209794, LumiSection 43515 at 30-Apr-2013 11:50:02.696 CEST
+Begin processing the 393rd record. Run 1, Event 43209795, LumiSection 43515 at 30-Apr-2013 11:50:02.696 CEST
+Begin processing the 394th record. Run 1, Event 43209796, LumiSection 43515 at 30-Apr-2013 11:50:02.697 CEST
+Begin processing the 395th record. Run 1, Event 43209797, LumiSection 43515 at 30-Apr-2013 11:50:02.698 CEST
+Begin processing the 396th record. Run 1, Event 43209798, LumiSection 43515 at 30-Apr-2013 11:50:02.698 CEST
+Begin processing the 397th record. Run 1, Event 43209799, LumiSection 43515 at 30-Apr-2013 11:50:02.699 CEST
+Begin processing the 398th record. Run 1, Event 43209800, LumiSection 43515 at 30-Apr-2013 11:50:02.699 CEST
+Begin processing the 399th record. Run 1, Event 43209801, LumiSection 43515 at 30-Apr-2013 11:50:02.700 CEST
+Begin processing the 400th record. Run 1, Event 43209802, LumiSection 43515 at 30-Apr-2013 11:50:02.701 CEST
+Begin processing the 401st record. Run 1, Event 43209803, LumiSection 43515 at 30-Apr-2013 11:50:02.701 CEST
+Begin processing the 402nd record. Run 1, Event 43209804, LumiSection 43515 at 30-Apr-2013 11:50:02.702 CEST
+Begin processing the 403rd record. Run 1, Event 43209805, LumiSection 43515 at 30-Apr-2013 11:50:02.703 CEST
+Begin processing the 404th record. Run 1, Event 43209806, LumiSection 43515 at 30-Apr-2013 11:50:02.703 CEST
+Begin processing the 405th record. Run 1, Event 43209807, LumiSection 43515 at 30-Apr-2013 11:50:02.704 CEST
+energy :3.85474 	 time : 0.716394
+ieta:-5	 iphi: 107
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.20131 	 time : -0.715425
+ieta:-65	 iphi: 240
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 406th record. Run 1, Event 43209808, LumiSection 43515 at 30-Apr-2013 11:50:02.705 CEST
+Begin processing the 407th record. Run 1, Event 43209809, LumiSection 43515 at 30-Apr-2013 11:50:02.705 CEST
+energy :3.1141 	 time : -9.72756
+ieta:72	 iphi: 136
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	211	1
+4	267	1
+5	269	1
+6	255	1
+7	239	1
+8	226	1
+9	217	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	201	1
+3	206	1
+4	270	1
+5	275	1
+6	261	1
+7	244	1
+8	230	1
+9	219	1
+Begin processing the 408th record. Run 1, Event 43209810, LumiSection 43515 at 30-Apr-2013 11:50:02.706 CEST
+Begin processing the 409th record. Run 1, Event 43209811, LumiSection 43515 at 30-Apr-2013 11:50:02.707 CEST
+energy :3.6967 	 time : 0.0962079
+ieta:-62	 iphi: 324
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 410th record. Run 1, Event 43209812, LumiSection 43515 at 30-Apr-2013 11:50:02.707 CEST
+energy :4.28641 	 time : -0.446224
+ieta:63	 iphi: 315
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 411th record. Run 1, Event 43209813, LumiSection 43515 at 30-Apr-2013 11:50:02.708 CEST
+Begin processing the 412th record. Run 1, Event 43209814, LumiSection 43515 at 30-Apr-2013 11:50:02.709 CEST
+Begin processing the 413th record. Run 1, Event 43209815, LumiSection 43515 at 30-Apr-2013 11:50:02.709 CEST
+Begin processing the 414th record. Run 1, Event 43209816, LumiSection 43515 at 30-Apr-2013 11:50:02.710 CEST
+energy :8.22883 	 time : -8.29455
+ieta:24	 iphi: 250
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	391	1
+5	407	1
+6	368	1
+7	321	1
+8	282	1
+9	253	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	203	1
+3	202	1
+4	389	1
+5	408	1
+6	369	1
+7	321	1
+8	283	1
+9	253	1
+Begin processing the 415th record. Run 1, Event 43209817, LumiSection 43515 at 30-Apr-2013 11:50:02.711 CEST
+Begin processing the 416th record. Run 1, Event 43209818, LumiSection 43515 at 30-Apr-2013 11:50:02.711 CEST
+Begin processing the 417th record. Run 1, Event 43209819, LumiSection 43515 at 30-Apr-2013 11:50:02.712 CEST
+energy :3.7864 	 time : -0.62419
+ieta:-72	 iphi: 141
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 418th record. Run 1, Event 43209820, LumiSection 43515 at 30-Apr-2013 11:50:02.718 CEST
+Begin processing the 419th record. Run 1, Event 43209821, LumiSection 43515 at 30-Apr-2013 11:50:02.719 CEST
+Begin processing the 420th record. Run 1, Event 43209822, LumiSection 43515 at 30-Apr-2013 11:50:02.719 CEST
+Begin processing the 421st record. Run 1, Event 43209823, LumiSection 43515 at 30-Apr-2013 11:50:02.720 CEST
+Begin processing the 422nd record. Run 1, Event 43209824, LumiSection 43515 at 30-Apr-2013 11:50:02.721 CEST
+energy :3.39176 	 time : 0.373278
+ieta:-84	 iphi: 189
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 423rd record. Run 1, Event 43209825, LumiSection 43515 at 30-Apr-2013 11:50:02.721 CEST
+Begin processing the 424th record. Run 1, Event 43209826, LumiSection 43515 at 30-Apr-2013 11:50:02.722 CEST
+Begin processing the 425th record. Run 1, Event 43209827, LumiSection 43515 at 30-Apr-2013 11:50:02.722 CEST
+Begin processing the 426th record. Run 1, Event 43209828, LumiSection 43515 at 30-Apr-2013 11:50:02.723 CEST
+Begin processing the 427th record. Run 1, Event 43209829, LumiSection 43515 at 30-Apr-2013 11:50:02.724 CEST
+Begin processing the 428th record. Run 1, Event 43209830, LumiSection 43515 at 30-Apr-2013 11:50:02.724 CEST
+energy :3.19367 	 time : -4.70877e-06
+ieta:59	 iphi: 97
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 429th record. Run 1, Event 43209831, LumiSection 43515 at 30-Apr-2013 11:50:02.725 CEST
+Begin processing the 430th record. Run 1, Event 43209832, LumiSection 43515 at 30-Apr-2013 11:50:02.726 CEST
+Begin processing the 431st record. Run 1, Event 43209833, LumiSection 43515 at 30-Apr-2013 11:50:02.726 CEST
+energy :6.68525 	 time : 0.194517
+ieta:75	 iphi: 311
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 432nd record. Run 1, Event 43209834, LumiSection 43515 at 30-Apr-2013 11:50:02.727 CEST
+energy :9.64135 	 time : -11.0273
+ieta:-58	 iphi: 333
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 433rd record. Run 1, Event 43209835, LumiSection 43515 at 30-Apr-2013 11:50:02.728 CEST
+Begin processing the 434th record. Run 1, Event 43209836, LumiSection 43515 at 30-Apr-2013 11:50:02.728 CEST
+energy :3.17147 	 time : 0.0768644
+ieta:73	 iphi: 322
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 435th record. Run 1, Event 43209837, LumiSection 43515 at 30-Apr-2013 11:50:02.729 CEST
+energy :7.36359 	 time : 37.5255
+ieta:-73	 iphi: 356
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 436th record. Run 1, Event 43209838, LumiSection 43515 at 30-Apr-2013 11:50:02.730 CEST
+Begin processing the 437th record. Run 1, Event 43209839, LumiSection 43515 at 30-Apr-2013 11:50:02.730 CEST
+energy :3.32757 	 time : -0.00859886
+ieta:-78	 iphi: 166
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 438th record. Run 1, Event 43209840, LumiSection 43515 at 30-Apr-2013 11:50:02.731 CEST
+energy :3.12577 	 time : -41.0548
+ieta:-75	 iphi: 3
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.87477 	 time : -50.6019
+ieta:-79	 iphi: 344
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 439th record. Run 1, Event 43209841, LumiSection 43515 at 30-Apr-2013 11:50:02.732 CEST
+Begin processing the 440th record. Run 1, Event 43209842, LumiSection 43515 at 30-Apr-2013 11:50:02.732 CEST
+energy :3.02955 	 time : -1.35242
+ieta:-67	 iphi: 116
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 441st record. Run 1, Event 43209843, LumiSection 43515 at 30-Apr-2013 11:50:02.733 CEST
+Begin processing the 442nd record. Run 1, Event 43209844, LumiSection 43515 at 30-Apr-2013 11:50:02.733 CEST
+Begin processing the 443rd record. Run 1, Event 43209845, LumiSection 43515 at 30-Apr-2013 11:50:02.734 CEST
+energy :4.55344 	 time : -0.245574
+ieta:85	 iphi: 118
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 444th record. Run 1, Event 43209846, LumiSection 43515 at 30-Apr-2013 11:50:02.739 CEST
+Begin processing the 445th record. Run 1, Event 43209847, LumiSection 43515 at 30-Apr-2013 11:50:02.740 CEST
+Begin processing the 446th record. Run 1, Event 43209848, LumiSection 43515 at 30-Apr-2013 11:50:02.740 CEST
+Begin processing the 447th record. Run 1, Event 43209849, LumiSection 43515 at 30-Apr-2013 11:50:02.741 CEST
+Begin processing the 448th record. Run 1, Event 43209850, LumiSection 43515 at 30-Apr-2013 11:50:02.742 CEST
+Begin processing the 449th record. Run 1, Event 43209851, LumiSection 43515 at 30-Apr-2013 11:50:02.742 CEST
+Begin processing the 450th record. Run 1, Event 43209852, LumiSection 43515 at 30-Apr-2013 11:50:02.743 CEST
+energy :5.5454 	 time : 39.2592
+ieta:-57	 iphi: 14
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 451st record. Run 1, Event 43209853, LumiSection 43515 at 30-Apr-2013 11:50:02.744 CEST
+Begin processing the 452nd record. Run 1, Event 43209854, LumiSection 43515 at 30-Apr-2013 11:50:02.744 CEST
+Begin processing the 453rd record. Run 1, Event 43209855, LumiSection 43515 at 30-Apr-2013 11:50:02.745 CEST
+energy :6.49699 	 time : -3.5243
+ieta:21	 iphi: 92
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	322	1
+5	352	1
+6	328	1
+7	294	1
+8	264	1
+9	242	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	200	1
+4	326	1
+5	353	1
+6	329	1
+7	294	1
+8	264	1
+9	240	1
+energy :6.0795 	 time : -8.11348
+ieta:85	 iphi: 180
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	319	1
+5	335	1
+6	311	1
+7	281	1
+8	255	1
+9	236	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	198	1
+2	200	1
+3	201	1
+4	323	1
+5	335	1
+6	311	1
+7	283	1
+8	257	1
+9	237	1
+Begin processing the 454th record. Run 1, Event 43209856, LumiSection 43515 at 30-Apr-2013 11:50:02.746 CEST
+Begin processing the 455th record. Run 1, Event 43209857, LumiSection 43515 at 30-Apr-2013 11:50:02.746 CEST
+Begin processing the 456th record. Run 1, Event 43209858, LumiSection 43515 at 30-Apr-2013 11:50:02.747 CEST
+Begin processing the 457th record. Run 1, Event 43209859, LumiSection 43515 at 30-Apr-2013 11:50:02.748 CEST
+Begin processing the 458th record. Run 1, Event 43209860, LumiSection 43515 at 30-Apr-2013 11:50:02.748 CEST
+Begin processing the 459th record. Run 1, Event 43209861, LumiSection 43515 at 30-Apr-2013 11:50:02.749 CEST
+Begin processing the 460th record. Run 1, Event 43209862, LumiSection 43515 at 30-Apr-2013 11:50:02.750 CEST
+Begin processing the 461st record. Run 1, Event 43209863, LumiSection 43515 at 30-Apr-2013 11:50:02.750 CEST
+Begin processing the 462nd record. Run 1, Event 43209864, LumiSection 43515 at 30-Apr-2013 11:50:02.751 CEST
+Begin processing the 463rd record. Run 1, Event 43209865, LumiSection 43515 at 30-Apr-2013 11:50:02.751 CEST
+Begin processing the 464th record. Run 1, Event 43209866, LumiSection 43515 at 30-Apr-2013 11:50:02.752 CEST
+Begin processing the 465th record. Run 1, Event 43209867, LumiSection 43515 at 30-Apr-2013 11:50:02.753 CEST
+Begin processing the 466th record. Run 1, Event 43209868, LumiSection 43515 at 30-Apr-2013 11:50:02.753 CEST
+energy :5.0751 	 time : -7.82614
+ieta:-80	 iphi: 235
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :3.91641 	 time : -0.889405
+ieta:-83	 iphi: 141
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 467th record. Run 1, Event 43209869, LumiSection 43515 at 30-Apr-2013 11:50:02.754 CEST
+Begin processing the 468th record. Run 1, Event 43209870, LumiSection 43515 at 30-Apr-2013 11:50:02.754 CEST
+energy :3.17197 	 time : 16.7405
+ieta:64	 iphi: 274
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	270	1
+6	280	1
+7	266	1
+8	248	1
+9	233	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	200	1
+2	202	1
+3	202	1
+4	201	1
+5	272	1
+6	279	1
+7	265	1
+8	246	1
+9	231	1
+Begin processing the 469th record. Run 1, Event 43209871, LumiSection 43515 at 30-Apr-2013 11:50:02.755 CEST
+Begin processing the 470th record. Run 1, Event 43209872, LumiSection 43515 at 30-Apr-2013 11:50:02.761 CEST
+Begin processing the 471st record. Run 1, Event 43209873, LumiSection 43515 at 30-Apr-2013 11:50:02.762 CEST
+Begin processing the 472nd record. Run 1, Event 43209874, LumiSection 43515 at 30-Apr-2013 11:50:02.763 CEST
+energy :4.03797 	 time : -0.268717
+ieta:-30	 iphi: 238
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :6.0885 	 time : -10.2612
+ieta:10	 iphi: 332
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	217	1
+4	345	1
+5	352	1
+6	321	1
+7	287	1
+8	258	1
+9	238	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	206	1
+4	342	1
+5	351	1
+6	322	1
+7	287	1
+8	259	1
+9	239	1
+energy :3.13562 	 time : -1.28235
+ieta:26	 iphi: 37
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.07581 	 time : -0.568784
+ieta:85	 iphi: 100
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 473rd record. Run 1, Event 43209875, LumiSection 43515 at 30-Apr-2013 11:50:02.764 CEST
+Begin processing the 474th record. Run 1, Event 43209876, LumiSection 43515 at 30-Apr-2013 11:50:02.765 CEST
+Begin processing the 475th record. Run 1, Event 43209877, LumiSection 43515 at 30-Apr-2013 11:50:02.766 CEST
+Begin processing the 476th record. Run 1, Event 43209878, LumiSection 43515 at 30-Apr-2013 11:50:02.767 CEST
+energy :3.31911 	 time : 0.332073
+ieta:82	 iphi: 233
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 477th record. Run 1, Event 43209879, LumiSection 43515 at 30-Apr-2013 11:50:02.768 CEST
+Begin processing the 478th record. Run 1, Event 43209880, LumiSection 43515 at 30-Apr-2013 11:50:02.769 CEST
+energy :7.77338 	 time : 9.17679
+ieta:77	 iphi: 299
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	288	1
+5	382	1
+6	371	1
+7	332	1
+8	292	1
+9	261	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	198	1
+2	199	1
+3	198	1
+4	276	1
+5	380	1
+6	371	1
+7	333	1
+8	294	1
+9	261	1
+energy :3.48988 	 time : -1.64822
+ieta:81	 iphi: 214
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 479th record. Run 1, Event 43209881, LumiSection 43515 at 30-Apr-2013 11:50:02.770 CEST
+Begin processing the 480th record. Run 1, Event 43209882, LumiSection 43515 at 30-Apr-2013 11:50:02.771 CEST
+energy :6.61964 	 time : -17.2632
+ieta:56	 iphi: 140
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	260	1
+4	330	1
+5	323	1
+6	295	1
+7	266	1
+8	244	1
+9	228	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	199	1
+2	199	1
+3	261	1
+4	327	1
+5	319	1
+6	291	1
+7	264	1
+8	241	1
+9	226	1
+Begin processing the 481st record. Run 1, Event 43209883, LumiSection 43515 at 30-Apr-2013 11:50:02.772 CEST
+energy :3.10029 	 time : 0.148237
+ieta:-24	 iphi: 161
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.6242 	 time : -10.2165
+ieta:-48	 iphi: 227
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 482nd record. Run 1, Event 43209884, LumiSection 43515 at 30-Apr-2013 11:50:02.773 CEST
+energy :7.72649 	 time : -4.91052
+ieta:-22	 iphi: 253
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 483rd record. Run 1, Event 43209885, LumiSection 43515 at 30-Apr-2013 11:50:02.775 CEST
+Begin processing the 484th record. Run 1, Event 43209886, LumiSection 43515 at 30-Apr-2013 11:50:02.776 CEST
+Begin processing the 485th record. Run 1, Event 43209887, LumiSection 43515 at 30-Apr-2013 11:50:02.777 CEST
+energy :4.6799 	 time : -0.784158
+ieta:61	 iphi: 291
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.03617 	 time : -9.5456
+ieta:79	 iphi: 344
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	212	1
+4	257	1
+5	258	1
+6	246	1
+7	232	1
+8	222	1
+9	214	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	200	1
+2	200	1
+3	209	1
+4	267	1
+5	272	1
+6	258	1
+7	243	1
+8	230	1
+9	219	1
+Begin processing the 486th record. Run 1, Event 43209888, LumiSection 43515 at 30-Apr-2013 11:50:02.778 CEST
+energy :3.94301 	 time : -11.1494
+ieta:-66	 iphi: 30
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 487th record. Run 1, Event 43209889, LumiSection 43515 at 30-Apr-2013 11:50:02.779 CEST
+Begin processing the 488th record. Run 1, Event 43209890, LumiSection 43515 at 30-Apr-2013 11:50:02.779 CEST
+Begin processing the 489th record. Run 1, Event 43209891, LumiSection 43515 at 30-Apr-2013 11:50:02.780 CEST
+energy :8.79683 	 time : 49.8903
+ieta:-76	 iphi: 266
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.44543 	 time : 49.64
+ieta:-79	 iphi: 285
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 490th record. Run 1, Event 43209892, LumiSection 43515 at 30-Apr-2013 11:50:02.781 CEST
+Begin processing the 491st record. Run 1, Event 43209893, LumiSection 43515 at 30-Apr-2013 11:50:02.782 CEST
+Begin processing the 492nd record. Run 1, Event 43209894, LumiSection 43515 at 30-Apr-2013 11:50:02.783 CEST
+energy :3.35796 	 time : -48.2687
+ieta:-84	 iphi: 158
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 493rd record. Run 1, Event 43209895, LumiSection 43515 at 30-Apr-2013 11:50:02.784 CEST
+Begin processing the 494th record. Run 1, Event 43209896, LumiSection 43515 at 30-Apr-2013 11:50:02.785 CEST
+Begin processing the 495th record. Run 1, Event 43209897, LumiSection 43515 at 30-Apr-2013 11:50:02.785 CEST
+energy :3.89157 	 time : 12.0633
+ieta:27	 iphi: 253
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 496th record. Run 1, Event 43209898, LumiSection 43515 at 30-Apr-2013 11:50:02.792 CEST
+energy :3.57356 	 time : -0.372777
+ieta:43	 iphi: 212
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :5.68423 	 time : -0.981912
+ieta:48	 iphi: 65
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	288	1
+5	311	1
+6	294	1
+7	269	1
+8	247	1
+9	231	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	203	1
+3	201	1
+4	288	1
+5	314	1
+6	297	1
+7	272	1
+8	249	1
+9	232	1
+Begin processing the 497th record. Run 1, Event 43209899, LumiSection 43515 at 30-Apr-2013 11:50:02.793 CEST
+Begin processing the 498th record. Run 1, Event 43209900, LumiSection 43515 at 30-Apr-2013 11:50:02.794 CEST
+energy :3.36438 	 time : 0.0464934
+ieta:64	 iphi: 40
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.9877 	 time : -1.72442
+ieta:70	 iphi: 42
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	202	1
+4	208	1
+5	209	1
+6	207	1
+7	205	1
+8	203	1
+9	202	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	203	1
+2	202	1
+3	206	1
+4	287	1
+5	309	1
+6	296	1
+7	272	1
+8	252	1
+9	235	1
+Begin processing the 499th record. Run 1, Event 43209901, LumiSection 43515 at 30-Apr-2013 11:50:02.795 CEST
+Begin processing the 500th record. Run 1, Event 43209902, LumiSection 43515 at 30-Apr-2013 11:50:02.795 CEST
+Begin processing the 501st record. Run 1, Event 43209903, LumiSection 43515 at 30-Apr-2013 11:50:02.796 CEST
+Begin processing the 502nd record. Run 1, Event 43209904, LumiSection 43515 at 30-Apr-2013 11:50:02.797 CEST
+Begin processing the 503rd record. Run 1, Event 43209905, LumiSection 43515 at 30-Apr-2013 11:50:02.797 CEST
+Begin processing the 504th record. Run 1, Event 43209906, LumiSection 43515 at 30-Apr-2013 11:50:02.798 CEST
+Begin processing the 505th record. Run 1, Event 43209907, LumiSection 43515 at 30-Apr-2013 11:50:02.799 CEST
+Begin processing the 506th record. Run 1, Event 43209908, LumiSection 43515 at 30-Apr-2013 11:50:02.799 CEST
+energy :3.00256 	 time : -0.35091
+ieta:-80	 iphi: 95
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.79372 	 time : -11.3327
+ieta:72	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	213	1
+4	305	1
+5	309	1
+6	287	1
+7	262	1
+8	242	1
+9	227	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	201	1
+3	218	1
+4	308	1
+5	313	1
+6	290	1
+7	263	1
+8	243	1
+9	228	1
+Begin processing the 507th record. Run 1, Event 43209909, LumiSection 43515 at 30-Apr-2013 11:50:02.800 CEST
+energy :4.69345 	 time : 38.9412
+ieta:-24	 iphi: 304
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 508th record. Run 1, Event 43209910, LumiSection 43515 at 30-Apr-2013 11:50:02.801 CEST
+energy :4.28772 	 time : -10.7666
+ieta:-17	 iphi: 134
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :5.42396 	 time : -0.406357
+ieta:48	 iphi: 355
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 509th record. Run 1, Event 43209911, LumiSection 43515 at 30-Apr-2013 11:50:02.801 CEST
+Begin processing the 510th record. Run 1, Event 43209912, LumiSection 43515 at 30-Apr-2013 11:50:02.802 CEST
+energy :3.0344 	 time : -0.0900254
+ieta:72	 iphi: 353
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 511th record. Run 1, Event 43209913, LumiSection 43515 at 30-Apr-2013 11:50:02.803 CEST
+energy :3.35547 	 time : -0.398189
+ieta:-76	 iphi: 177
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 512th record. Run 1, Event 43209914, LumiSection 43515 at 30-Apr-2013 11:50:02.804 CEST
+energy :5.96676 	 time : -0.302217
+ieta:-4	 iphi: 68
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.25122 	 time : 15.6217
+ieta:18	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	292	1
+6	301	1
+7	282	1
+8	259	1
+9	240	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	199	1
+4	200	1
+5	295	1
+6	302	1
+7	284	1
+8	261	1
+9	241	1
+energy :4.25779 	 time : -0.629891
+ieta:52	 iphi: 3
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.28715 	 time : -1.07756
+ieta:64	 iphi: 25
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.2598 	 time : 0.400087
+ieta:82	 iphi: 75
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.01718 	 time : -0.715915
+ieta:83	 iphi: 3
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 513th record. Run 1, Event 43209915, LumiSection 43515 at 30-Apr-2013 11:50:02.805 CEST
+Begin processing the 514th record. Run 1, Event 43209916, LumiSection 43515 at 30-Apr-2013 11:50:02.806 CEST
+energy :3.9337 	 time : -1.01204
+ieta:77	 iphi: 122
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 515th record. Run 1, Event 43209917, LumiSection 43515 at 30-Apr-2013 11:50:02.807 CEST
+Begin processing the 516th record. Run 1, Event 43209918, LumiSection 43515 at 30-Apr-2013 11:50:02.808 CEST
+Begin processing the 517th record. Run 1, Event 43209919, LumiSection 43515 at 30-Apr-2013 11:50:02.809 CEST
+Begin processing the 518th record. Run 1, Event 43209920, LumiSection 43515 at 30-Apr-2013 11:50:02.809 CEST
+Begin processing the 519th record. Run 1, Event 43209921, LumiSection 43515 at 30-Apr-2013 11:50:02.810 CEST
+Begin processing the 520th record. Run 1, Event 43209922, LumiSection 43515 at 30-Apr-2013 11:50:02.810 CEST
+Begin processing the 521st record. Run 1, Event 43209923, LumiSection 43515 at 30-Apr-2013 11:50:02.811 CEST
+Begin processing the 522nd record. Run 1, Event 43209924, LumiSection 43515 at 30-Apr-2013 11:50:02.818 CEST
+Begin processing the 523rd record. Run 1, Event 43209925, LumiSection 43515 at 30-Apr-2013 11:50:02.819 CEST
+energy :3.21991 	 time : -49.7927
+ieta:82	 iphi: 240
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 524th record. Run 1, Event 43209926, LumiSection 43515 at 30-Apr-2013 11:50:02.820 CEST
+energy :3.34203 	 time : -0.632847
+ieta:55	 iphi: 11
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	203	1
+4	214	1
+5	214	1
+6	211	1
+7	208	1
+8	205	1
+9	203	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	201	1
+3	206	1
+4	261	1
+5	279	1
+6	271	1
+7	253	1
+8	236	1
+9	224	1
+Begin processing the 525th record. Run 1, Event 43209927, LumiSection 43515 at 30-Apr-2013 11:50:02.821 CEST
+energy :3.68981 	 time : -0.30825
+ieta:-65	 iphi: 174
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 526th record. Run 1, Event 43209928, LumiSection 43515 at 30-Apr-2013 11:50:02.822 CEST
+Begin processing the 527th record. Run 1, Event 43209929, LumiSection 43515 at 30-Apr-2013 11:50:02.823 CEST
+Begin processing the 528th record. Run 1, Event 43209930, LumiSection 43515 at 30-Apr-2013 11:50:02.823 CEST
+Begin processing the 529th record. Run 1, Event 43209931, LumiSection 43515 at 30-Apr-2013 11:50:02.824 CEST
+energy :7.58929 	 time : -12.2104
+ieta:1	 iphi: 87
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	214	1
+4	352	1
+5	360	1
+6	328	1
+7	292	1
+8	262	1
+9	240	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	202	1
+2	201	1
+3	223	1
+4	358	1
+5	363	1
+6	330	1
+7	293	1
+8	264	1
+9	242	1
+energy :3.46593 	 time : -0.122006
+ieta:19	 iphi: 330
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 530th record. Run 1, Event 43209932, LumiSection 43515 at 30-Apr-2013 11:50:02.826 CEST
+Begin processing the 531st record. Run 1, Event 43209933, LumiSection 43515 at 30-Apr-2013 11:50:02.827 CEST
+energy :6.16058 	 time : -7.95635
+ieta:-23	 iphi: 312
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 532nd record. Run 1, Event 43209934, LumiSection 43515 at 30-Apr-2013 11:50:02.828 CEST
+energy :5.01744 	 time : 4.35264
+ieta:65	 iphi: 347
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	288	1
+5	330	1
+6	315	1
+7	286	1
+8	260	1
+9	239	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	200	1
+3	199	1
+4	280	1
+5	330	1
+6	317	1
+7	288	1
+8	261	1
+9	241	1
+Begin processing the 533rd record. Run 1, Event 43209935, LumiSection 43515 at 30-Apr-2013 11:50:02.829 CEST
+Begin processing the 534th record. Run 1, Event 43209936, LumiSection 43515 at 30-Apr-2013 11:50:02.830 CEST
+Begin processing the 535th record. Run 1, Event 43209937, LumiSection 43515 at 30-Apr-2013 11:50:02.831 CEST
+Begin processing the 536th record. Run 1, Event 43209938, LumiSection 43515 at 30-Apr-2013 11:50:02.831 CEST
+Begin processing the 537th record. Run 1, Event 43209939, LumiSection 43515 at 30-Apr-2013 11:50:02.832 CEST
+Begin processing the 538th record. Run 1, Event 43209940, LumiSection 43515 at 30-Apr-2013 11:50:02.834 CEST
+Begin processing the 539th record. Run 1, Event 43209941, LumiSection 43515 at 30-Apr-2013 11:50:02.835 CEST
+energy :4.65206 	 time : -0.404353
+ieta:-43	 iphi: 180
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 540th record. Run 1, Event 43209942, LumiSection 43515 at 30-Apr-2013 11:50:02.836 CEST
+energy :3.89409 	 time : -49.1395
+ieta:-63	 iphi: 246
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 541st record. Run 1, Event 43209943, LumiSection 43515 at 30-Apr-2013 11:50:02.837 CEST
+Begin processing the 542nd record. Run 1, Event 43209944, LumiSection 43515 at 30-Apr-2013 11:50:02.837 CEST
+Begin processing the 543rd record. Run 1, Event 43209945, LumiSection 43515 at 30-Apr-2013 11:50:02.838 CEST
+Begin processing the 544th record. Run 1, Event 43209946, LumiSection 43515 at 30-Apr-2013 11:50:02.838 CEST
+energy :4.23708 	 time : 45.5281
+ieta:20	 iphi: 317
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	411	1
+7	453	1
+8	412	1
+9	355	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	199	1
+3	200	1
+4	199	1
+5	198	1
+6	413	1
+7	453	1
+8	410	1
+9	353	1
+Begin processing the 545th record. Run 1, Event 43209947, LumiSection 43515 at 30-Apr-2013 11:50:02.839 CEST
+Begin processing the 546th record. Run 1, Event 43209948, LumiSection 43515 at 30-Apr-2013 11:50:02.840 CEST
+Begin processing the 547th record. Run 1, Event 43209949, LumiSection 43515 at 30-Apr-2013 11:50:02.840 CEST
+Begin processing the 548th record. Run 1, Event 43209950, LumiSection 43515 at 30-Apr-2013 11:50:02.847 CEST
+Begin processing the 549th record. Run 1, Event 43209951, LumiSection 43515 at 30-Apr-2013 11:50:02.847 CEST
+Begin processing the 550th record. Run 1, Event 43209952, LumiSection 43515 at 30-Apr-2013 11:50:02.848 CEST
+Begin processing the 551st record. Run 1, Event 43209953, LumiSection 43515 at 30-Apr-2013 11:50:02.848 CEST
+energy :3.34731 	 time : 0.219694
+ieta:-41	 iphi: 199
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :14.4169 	 time : 38.8392
+ieta:3	 iphi: 300
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	325	1
+6	927	1
+7	948	1
+8	796	1
+9	625	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	201	1
+3	200	1
+4	199	1
+5	276	1
+6	911	1
+7	946	1
+8	798	1
+9	628	1
+energy :3.25262 	 time : -0.458396
+ieta:78	 iphi: 223
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 552nd record. Run 1, Event 43209954, LumiSection 43515 at 30-Apr-2013 11:50:02.849 CEST
+Begin processing the 553rd record. Run 1, Event 43209955, LumiSection 43515 at 30-Apr-2013 11:50:02.850 CEST
+Begin processing the 554th record. Run 1, Event 43209956, LumiSection 43515 at 30-Apr-2013 11:50:02.850 CEST
+energy :3.81153 	 time : -48.8746
+ieta:-6	 iphi: 233
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.15229 	 time : 38.213
+ieta:-78	 iphi: 197
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 555th record. Run 1, Event 43209957, LumiSection 43515 at 30-Apr-2013 11:50:02.851 CEST
+energy :3.20337 	 time : -12.3618
+ieta:75	 iphi: 302
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	206	1
+4	271	1
+5	274	1
+6	260	1
+7	243	1
+8	229	1
+9	219	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	198	1
+2	197	1
+3	212	1
+4	271	1
+5	273	1
+6	258	1
+7	242	1
+8	228	1
+9	218	1
+energy :3.96941 	 time : -47.4788
+ieta:83	 iphi: 179
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	340	1
+3	430	1
+4	408	1
+5	357	1
+6	309	1
+7	272	1
+8	246	1
+9	229	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	356	1
+3	431	1
+4	403	1
+5	353	1
+6	305	1
+7	270	1
+8	245	1
+9	230	1
+Begin processing the 556th record. Run 1, Event 43209958, LumiSection 43515 at 30-Apr-2013 11:50:02.852 CEST
+Begin processing the 557th record. Run 1, Event 43209959, LumiSection 43515 at 30-Apr-2013 11:50:02.853 CEST
+Begin processing the 558th record. Run 1, Event 43209960, LumiSection 43515 at 30-Apr-2013 11:50:02.853 CEST
+energy :3.03722 	 time : -0.59642
+ieta:-7	 iphi: 237
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 559th record. Run 1, Event 43209961, LumiSection 43515 at 30-Apr-2013 11:50:02.854 CEST
+energy :4.11734 	 time : -13.4451
+ieta:-67	 iphi: 69
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 560th record. Run 1, Event 43209962, LumiSection 43515 at 30-Apr-2013 11:50:02.854 CEST
+Begin processing the 561st record. Run 1, Event 43209963, LumiSection 43515 at 30-Apr-2013 11:50:02.855 CEST
+energy :6.04212 	 time : -3.17865
+ieta:38	 iphi: 224
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	311	1
+5	334	1
+6	313	1
+7	282	1
+8	256	1
+9	237	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	200	1
+2	199	1
+3	199	1
+4	311	1
+5	336	1
+6	314	1
+7	284	1
+8	258	1
+9	238	1
+Begin processing the 562nd record. Run 1, Event 43209964, LumiSection 43515 at 30-Apr-2013 11:50:02.856 CEST
+Begin processing the 563rd record. Run 1, Event 43209965, LumiSection 43515 at 30-Apr-2013 11:50:02.857 CEST
+Begin processing the 564th record. Run 1, Event 43209966, LumiSection 43515 at 30-Apr-2013 11:50:02.857 CEST
+Begin processing the 565th record. Run 1, Event 43209967, LumiSection 43515 at 30-Apr-2013 11:50:02.858 CEST
+Begin processing the 566th record. Run 1, Event 43209968, LumiSection 43515 at 30-Apr-2013 11:50:02.858 CEST
+energy :4.673 	 time : 2.67045
+ieta:-39	 iphi: 68
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 567th record. Run 1, Event 43209969, LumiSection 43515 at 30-Apr-2013 11:50:02.859 CEST
+Begin processing the 568th record. Run 1, Event 43209970, LumiSection 43515 at 30-Apr-2013 11:50:02.860 CEST
+Begin processing the 569th record. Run 1, Event 43209971, LumiSection 43515 at 30-Apr-2013 11:50:02.861 CEST
+Begin processing the 570th record. Run 1, Event 43209972, LumiSection 43515 at 30-Apr-2013 11:50:02.862 CEST
+energy :11.933 	 time : -8.08663
+ieta:56	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	422	1
+5	452	1
+6	407	1
+7	350	1
+8	302	1
+9	266	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	426	1
+5	450	1
+6	402	1
+7	345	1
+8	298	1
+9	262	1
+energy :3.44581 	 time : 46.2122
+ieta:66	 iphi: 87
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	350	1
+7	381	1
+8	352	1
+9	311	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	202	1
+4	202	1
+5	201	1
+6	352	1
+7	383	1
+8	355	1
+9	314	1
+energy :3.71697 	 time : 0.390267
+ieta:78	 iphi: 294
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 571st record. Run 1, Event 43209973, LumiSection 43515 at 30-Apr-2013 11:50:02.863 CEST
+energy :4.88725 	 time : -9.88556
+ieta:85	 iphi: 273
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	212	1
+4	325	1
+5	331	1
+6	305	1
+7	275	1
+8	251	1
+9	233	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	200	1
+3	203	1
+4	324	1
+5	333	1
+6	306	1
+7	277	1
+8	252	1
+9	232	1
+Begin processing the 572nd record. Run 1, Event 43209974, LumiSection 43515 at 30-Apr-2013 11:50:02.864 CEST
+Begin processing the 573rd record. Run 1, Event 43209975, LumiSection 43515 at 30-Apr-2013 11:50:02.865 CEST
+energy :5.87792 	 time : -11.3746
+ieta:-8	 iphi: 235
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 574th record. Run 1, Event 43209976, LumiSection 43515 at 30-Apr-2013 11:50:02.873 CEST
+energy :8.60374 	 time : -0.724962
+ieta:-78	 iphi: 43
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 575th record. Run 1, Event 43209977, LumiSection 43515 at 30-Apr-2013 11:50:02.874 CEST
+Begin processing the 576th record. Run 1, Event 43209978, LumiSection 43515 at 30-Apr-2013 11:50:02.874 CEST
+energy :3.52982 	 time : -6.75795
+ieta:1	 iphi: 105
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	255	1
+5	266	1
+6	255	1
+7	240	1
+8	227	1
+9	218	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	201	1
+3	200	1
+4	261	1
+5	269	1
+6	256	1
+7	238	1
+8	227	1
+9	218	1
+Begin processing the 577th record. Run 1, Event 43209979, LumiSection 43515 at 30-Apr-2013 11:50:02.875 CEST
+Begin processing the 578th record. Run 1, Event 43209980, LumiSection 43515 at 30-Apr-2013 11:50:02.876 CEST
+Begin processing the 579th record. Run 1, Event 43209981, LumiSection 43515 at 30-Apr-2013 11:50:02.877 CEST
+Begin processing the 580th record. Run 1, Event 43209982, LumiSection 43515 at 30-Apr-2013 11:50:02.878 CEST
+Begin processing the 581st record. Run 1, Event 43209983, LumiSection 43515 at 30-Apr-2013 11:50:02.879 CEST
+Begin processing the 582nd record. Run 1, Event 43209984, LumiSection 43515 at 30-Apr-2013 11:50:02.880 CEST
+Begin processing the 583rd record. Run 1, Event 43209985, LumiSection 43515 at 30-Apr-2013 11:50:02.881 CEST
+Begin processing the 584th record. Run 1, Event 43209986, LumiSection 43515 at 30-Apr-2013 11:50:02.882 CEST
+energy :3.82706 	 time : -1.08564
+ieta:-72	 iphi: 170
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 585th record. Run 1, Event 43209987, LumiSection 43515 at 30-Apr-2013 11:50:02.882 CEST
+Begin processing the 586th record. Run 1, Event 43209988, LumiSection 43515 at 30-Apr-2013 11:50:02.883 CEST
+Begin processing the 587th record. Run 1, Event 43209989, LumiSection 43515 at 30-Apr-2013 11:50:02.884 CEST
+energy :5.01269 	 time : -9.2014
+ieta:31	 iphi: 300
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	329	1
+5	344	1
+6	318	1
+7	285	1
+8	257	1
+9	237	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	200	1
+3	200	1
+4	335	1
+5	346	1
+6	319	1
+7	285	1
+8	256	1
+9	236	1
+Begin processing the 588th record. Run 1, Event 43209990, LumiSection 43515 at 30-Apr-2013 11:50:02.885 CEST
+Begin processing the 589th record. Run 1, Event 43209991, LumiSection 43515 at 30-Apr-2013 11:50:02.886 CEST
+Begin processing the 590th record. Run 1, Event 43209992, LumiSection 43515 at 30-Apr-2013 11:50:02.887 CEST
+energy :6.93502 	 time : 43.6625
+ieta:-79	 iphi: 225
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 591st record. Run 1, Event 43209993, LumiSection 43515 at 30-Apr-2013 11:50:02.888 CEST
+energy :8.05712 	 time : -10.7681
+ieta:30	 iphi: 56
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	219	1
+4	378	1
+5	387	1
+6	350	1
+7	307	1
+8	272	1
+9	246	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	200	1
+3	242	1
+4	388	1
+5	390	1
+6	352	1
+7	309	1
+8	274	1
+9	249	1
+Begin processing the 592nd record. Run 1, Event 43209994, LumiSection 43515 at 30-Apr-2013 11:50:02.889 CEST
+Begin processing the 593rd record. Run 1, Event 43209995, LumiSection 43515 at 30-Apr-2013 11:50:02.890 CEST
+energy :4.14293 	 time : -13.3944
+ieta:68	 iphi: 251
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	211	1
+4	291	1
+5	295	1
+6	276	1
+7	255	1
+8	237	1
+9	224	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	197	1
+2	198	1
+3	213	1
+4	294	1
+5	295	1
+6	276	1
+7	254	1
+8	237	1
+9	225	1
+Begin processing the 594th record. Run 1, Event 43209996, LumiSection 43515 at 30-Apr-2013 11:50:02.892 CEST
+energy :5.80982 	 time : 0.047856
+ieta:9	 iphi: 287
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 595th record. Run 1, Event 43209997, LumiSection 43515 at 30-Apr-2013 11:50:02.893 CEST
+Begin processing the 596th record. Run 1, Event 43209998, LumiSection 43515 at 30-Apr-2013 11:50:02.894 CEST
+Begin processing the 597th record. Run 1, Event 43209999, LumiSection 43515 at 30-Apr-2013 11:50:02.894 CEST
+Begin processing the 598th record. Run 1, Event 43210000, LumiSection 43515 at 30-Apr-2013 11:50:02.895 CEST
+energy :3.05942 	 time : -0.00132209
+ieta:-52	 iphi: 211
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :9.47311 	 time : -10.0323
+ieta:-78	 iphi: 121
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 599th record. Run 1, Event 43210001, LumiSection 43515 at 30-Apr-2013 11:50:02.896 CEST
+Begin processing the 600th record. Run 1, Event 43210002, LumiSection 43515 at 30-Apr-2013 11:50:02.902 CEST
+Begin processing the 601st record. Run 1, Event 43210003, LumiSection 43515 at 30-Apr-2013 11:50:02.903 CEST
+Begin processing the 602nd record. Run 1, Event 43210004, LumiSection 43515 at 30-Apr-2013 11:50:02.903 CEST
+Begin processing the 603rd record. Run 1, Event 43210005, LumiSection 43515 at 30-Apr-2013 11:50:02.904 CEST
+Begin processing the 604th record. Run 1, Event 43210006, LumiSection 43515 at 30-Apr-2013 11:50:02.905 CEST
+energy :4.25172 	 time : -6.74108
+ieta:-80	 iphi: 267
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 605th record. Run 1, Event 43210007, LumiSection 43515 at 30-Apr-2013 11:50:02.905 CEST
+Begin processing the 606th record. Run 1, Event 43210008, LumiSection 43515 at 30-Apr-2013 11:50:02.906 CEST
+energy :3.53313 	 time : -11.4148
+ieta:-12	 iphi: 222
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 607th record. Run 1, Event 43210009, LumiSection 43515 at 30-Apr-2013 11:50:02.907 CEST
+Begin processing the 608th record. Run 1, Event 43210010, LumiSection 43515 at 30-Apr-2013 11:50:02.907 CEST
+Begin processing the 609th record. Run 1, Event 43210011, LumiSection 43515 at 30-Apr-2013 11:50:02.908 CEST
+energy :3.33912 	 time : -0.616566
+ieta:-70	 iphi: 285
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 610th record. Run 1, Event 43210012, LumiSection 43515 at 30-Apr-2013 11:50:02.914 CEST
+energy :3.08477 	 time : -0.122726
+ieta:-36	 iphi: 309
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 611th record. Run 1, Event 43210013, LumiSection 43515 at 30-Apr-2013 11:50:02.914 CEST
+energy :5.8661 	 time : 39.5088
+ieta:-61	 iphi: 65
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 612th record. Run 1, Event 43210014, LumiSection 43515 at 30-Apr-2013 11:50:02.915 CEST
+Begin processing the 613th record. Run 1, Event 43210015, LumiSection 43515 at 30-Apr-2013 11:50:02.916 CEST
+Begin processing the 614th record. Run 1, Event 43210016, LumiSection 43515 at 30-Apr-2013 11:50:02.916 CEST
+energy :8.32691 	 time : -18.305
+ieta:-53	 iphi: 66
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 615th record. Run 1, Event 43210017, LumiSection 43515 at 30-Apr-2013 11:50:02.917 CEST
+Begin processing the 616th record. Run 1, Event 43210018, LumiSection 43515 at 30-Apr-2013 11:50:02.918 CEST
+Begin processing the 617th record. Run 1, Event 43210019, LumiSection 43515 at 30-Apr-2013 11:50:02.918 CEST
+Begin processing the 618th record. Run 1, Event 43210020, LumiSection 43515 at 30-Apr-2013 11:50:02.919 CEST
+Begin processing the 619th record. Run 1, Event 43210021, LumiSection 43515 at 30-Apr-2013 11:50:02.920 CEST
+Begin processing the 620th record. Run 1, Event 43210022, LumiSection 43515 at 30-Apr-2013 11:50:02.920 CEST
+Begin processing the 621st record. Run 1, Event 43210023, LumiSection 43515 at 30-Apr-2013 11:50:02.921 CEST
+Begin processing the 622nd record. Run 1, Event 43210024, LumiSection 43515 at 30-Apr-2013 11:50:02.922 CEST
+Begin processing the 623rd record. Run 1, Event 43210025, LumiSection 43515 at 30-Apr-2013 11:50:02.922 CEST
+energy :5.8861 	 time : -12.2489
+ieta:35	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	205	1
+4	326	1
+5	335	1
+6	309	1
+7	278	1
+8	253	1
+9	234	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	222	1
+4	329	1
+5	333	1
+6	306	1
+7	275	1
+8	249	1
+9	233	1
+Begin processing the 624th record. Run 1, Event 43210026, LumiSection 43515 at 30-Apr-2013 11:50:02.923 CEST
+Begin processing the 625th record. Run 1, Event 43210027, LumiSection 43515 at 30-Apr-2013 11:50:02.924 CEST
+energy :4.00886 	 time : 0.198542
+ieta:-38	 iphi: 309
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 626th record. Run 1, Event 43210028, LumiSection 43515 at 30-Apr-2013 11:50:02.930 CEST
+Begin processing the 627th record. Run 1, Event 43210029, LumiSection 43515 at 30-Apr-2013 11:50:02.931 CEST
+Begin processing the 628th record. Run 1, Event 43210030, LumiSection 43515 at 30-Apr-2013 11:50:02.932 CEST
+Begin processing the 629th record. Run 1, Event 43210031, LumiSection 43515 at 30-Apr-2013 11:50:02.932 CEST
+Begin processing the 630th record. Run 1, Event 43210032, LumiSection 43515 at 30-Apr-2013 11:50:02.933 CEST
+Begin processing the 631st record. Run 1, Event 43210033, LumiSection 43515 at 30-Apr-2013 11:50:02.933 CEST
+energy :10.3824 	 time : -6.08669
+ieta:-54	 iphi: 175
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 632nd record. Run 1, Event 43210034, LumiSection 43515 at 30-Apr-2013 11:50:02.934 CEST
+energy :4.81 	 time : -11.4464
+ieta:79	 iphi: 50
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	224	1
+4	314	1
+5	316	1
+6	292	1
+7	266	1
+8	244	1
+9	228	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	217	1
+4	315	1
+5	320	1
+6	296	1
+7	268	1
+8	246	1
+9	231	1
+Begin processing the 633rd record. Run 1, Event 43210035, LumiSection 43515 at 30-Apr-2013 11:50:02.935 CEST
+energy :3.68328 	 time : 0.269138
+ieta:42	 iphi: 70
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 634th record. Run 1, Event 43210036, LumiSection 43515 at 30-Apr-2013 11:50:02.936 CEST
+energy :3.70618 	 time : 0.00300562
+ieta:84	 iphi: 328
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 635th record. Run 1, Event 43210037, LumiSection 43515 at 30-Apr-2013 11:50:02.936 CEST
+Begin processing the 636th record. Run 1, Event 43210038, LumiSection 43515 at 30-Apr-2013 11:50:02.937 CEST
+Begin processing the 637th record. Run 1, Event 43210039, LumiSection 43515 at 30-Apr-2013 11:50:02.937 CEST
+Begin processing the 638th record. Run 1, Event 43210040, LumiSection 43515 at 30-Apr-2013 11:50:02.938 CEST
+Begin processing the 639th record. Run 1, Event 43210041, LumiSection 43515 at 30-Apr-2013 11:50:02.939 CEST
+Begin processing the 640th record. Run 1, Event 43210042, LumiSection 43515 at 30-Apr-2013 11:50:02.939 CEST
+Begin processing the 641st record. Run 1, Event 43210043, LumiSection 43515 at 30-Apr-2013 11:50:02.940 CEST
+energy :7.81456 	 time : -12.0725
+ieta:-83	 iphi: 359
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 642nd record. Run 1, Event 43210044, LumiSection 43515 at 30-Apr-2013 11:50:02.941 CEST
+Begin processing the 643rd record. Run 1, Event 43210045, LumiSection 43515 at 30-Apr-2013 11:50:02.941 CEST
+Begin processing the 644th record. Run 1, Event 43210046, LumiSection 43515 at 30-Apr-2013 11:50:02.942 CEST
+Begin processing the 645th record. Run 1, Event 43210047, LumiSection 43515 at 30-Apr-2013 11:50:02.942 CEST
+energy :3.49496 	 time : -0.297892
+ieta:-66	 iphi: 331
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.81968 	 time : -1.6677
+ieta:-80	 iphi: 210
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :8.45971 	 time : -1.43277
+ieta:-83	 iphi: 9
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 646th record. Run 1, Event 43210048, LumiSection 43515 at 30-Apr-2013 11:50:02.943 CEST
+energy :3.57655 	 time : 47.6706
+ieta:78	 iphi: 310
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	376	1
+7	427	1
+8	394	1
+9	343	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	199	1
+4	198	1
+5	199	1
+6	383	1
+7	429	1
+8	394	1
+9	341	1
+Begin processing the 647th record. Run 1, Event 43210049, LumiSection 43515 at 30-Apr-2013 11:50:02.944 CEST
+Begin processing the 648th record. Run 1, Event 43210050, LumiSection 43515 at 30-Apr-2013 11:50:02.945 CEST
+energy :5.40146 	 time : 0.645309
+ieta:-73	 iphi: 251
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.82315 	 time : -0.389008
+ieta:67	 iphi: 88
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 649th record. Run 1, Event 43210051, LumiSection 43515 at 30-Apr-2013 11:50:02.946 CEST
+energy :4.23639 	 time : -9.95167
+ieta:69	 iphi: 239
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	222	1
+4	282	1
+5	282	1
+6	265	1
+7	246	1
+8	231	1
+9	220	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	197	1
+2	199	1
+3	216	1
+4	293	1
+5	299	1
+6	281	1
+7	258	1
+8	239	1
+9	226	1
+Begin processing the 650th record. Run 1, Event 43210052, LumiSection 43515 at 30-Apr-2013 11:50:02.947 CEST
+Begin processing the 651st record. Run 1, Event 43210053, LumiSection 43515 at 30-Apr-2013 11:50:02.948 CEST
+Begin processing the 652nd record. Run 1, Event 43210054, LumiSection 43515 at 30-Apr-2013 11:50:02.957 CEST
+Begin processing the 653rd record. Run 1, Event 43210055, LumiSection 43515 at 30-Apr-2013 11:50:02.958 CEST
+Begin processing the 654th record. Run 1, Event 43210056, LumiSection 43515 at 30-Apr-2013 11:50:02.959 CEST
+Begin processing the 655th record. Run 1, Event 43210057, LumiSection 43515 at 30-Apr-2013 11:50:02.960 CEST
+energy :5.40762 	 time : -7.7741
+ieta:80	 iphi: 336
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	314	1
+5	330	1
+6	307	1
+7	278	1
+8	253	1
+9	234	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	199	1
+4	316	1
+5	329	1
+6	305	1
+7	275	1
+8	252	1
+9	232	1
+Begin processing the 656th record. Run 1, Event 43210058, LumiSection 43515 at 30-Apr-2013 11:50:02.961 CEST
+energy :4.29205 	 time : -6.66422
+ieta:68	 iphi: 135
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	292	1
+5	304	1
+6	285	1
+7	262	1
+8	242	1
+9	227	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	198	1
+3	198	1
+4	293	1
+5	305	1
+6	288	1
+7	263	1
+8	242	1
+9	226	1
+Begin processing the 657th record. Run 1, Event 43210059, LumiSection 43515 at 30-Apr-2013 11:50:02.962 CEST
+Begin processing the 658th record. Run 1, Event 43210060, LumiSection 43515 at 30-Apr-2013 11:50:02.963 CEST
+Begin processing the 659th record. Run 1, Event 43210061, LumiSection 43515 at 30-Apr-2013 11:50:02.964 CEST
+energy :4.6743 	 time : -11.5798
+ieta:-17	 iphi: 167
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 660th record. Run 1, Event 43210062, LumiSection 43515 at 30-Apr-2013 11:50:02.965 CEST
+energy :3.16736 	 time : 0.187594
+ieta:-49	 iphi: 110
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 661st record. Run 1, Event 43210063, LumiSection 43515 at 30-Apr-2013 11:50:02.966 CEST
+energy :5.15986 	 time : -9.99584
+ieta:57	 iphi: 176
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	222	1
+4	319	1
+5	322	1
+6	297	1
+7	269	1
+8	246	1
+9	230	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	201	1
+3	209	1
+4	319	1
+5	327	1
+6	303	1
+7	274	1
+8	250	1
+9	232	1
+Begin processing the 662nd record. Run 1, Event 43210064, LumiSection 43515 at 30-Apr-2013 11:50:02.967 CEST
+Begin processing the 663rd record. Run 1, Event 43210065, LumiSection 43515 at 30-Apr-2013 11:50:02.968 CEST
+Begin processing the 664th record. Run 1, Event 43210066, LumiSection 43515 at 30-Apr-2013 11:50:02.969 CEST
+energy :3.93384 	 time : -47.5698
+ieta:69	 iphi: 226
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	353	1
+3	416	1
+4	388	1
+5	340	1
+6	296	1
+7	263	1
+8	240	1
+9	225	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	346	1
+3	416	1
+4	390	1
+5	341	1
+6	296	1
+7	263	1
+8	241	1
+9	226	1
+Begin processing the 665th record. Run 1, Event 43210067, LumiSection 43515 at 30-Apr-2013 11:50:02.970 CEST
+energy :8.67154 	 time : -10.7215
+ieta:-65	 iphi: 205
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 666th record. Run 1, Event 43210068, LumiSection 43515 at 30-Apr-2013 11:50:02.971 CEST
+Begin processing the 667th record. Run 1, Event 43210069, LumiSection 43515 at 30-Apr-2013 11:50:02.972 CEST
+energy :3.30059 	 time : -51.3999
+ieta:-33	 iphi: 187
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 668th record. Run 1, Event 43210070, LumiSection 43515 at 30-Apr-2013 11:50:02.973 CEST
+Begin processing the 669th record. Run 1, Event 43210071, LumiSection 43515 at 30-Apr-2013 11:50:02.974 CEST
+Begin processing the 670th record. Run 1, Event 43210072, LumiSection 43515 at 30-Apr-2013 11:50:02.975 CEST
+energy :3.38374 	 time : -10.5912
+ieta:66	 iphi: 278
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	218	1
+4	272	1
+5	272	1
+6	257	1
+7	240	1
+8	227	1
+9	217	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	199	1
+3	216	1
+4	272	1
+5	273	1
+6	257	1
+7	240	1
+8	227	1
+9	218	1
+Begin processing the 671st record. Run 1, Event 43210073, LumiSection 43515 at 30-Apr-2013 11:50:02.976 CEST
+Begin processing the 672nd record. Run 1, Event 43210074, LumiSection 43515 at 30-Apr-2013 11:50:02.977 CEST
+Begin processing the 673rd record. Run 1, Event 43210075, LumiSection 43515 at 30-Apr-2013 11:50:02.977 CEST
+Begin processing the 674th record. Run 1, Event 43210076, LumiSection 43515 at 30-Apr-2013 11:50:02.978 CEST
+Begin processing the 675th record. Run 1, Event 43210077, LumiSection 43515 at 30-Apr-2013 11:50:02.979 CEST
+energy :10.785 	 time : 49.6549
+ieta:-61	 iphi: 198
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 676th record. Run 1, Event 43210078, LumiSection 43515 at 30-Apr-2013 11:50:02.979 CEST
+energy :3.30104 	 time : -13.1671
+ieta:41	 iphi: 278
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	289	1
+5	296	1
+6	278	1
+7	256	1
+8	238	1
+9	224	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	201	1
+3	215	1
+4	297	1
+5	299	1
+6	278	1
+7	256	1
+8	238	1
+9	224	1
+Begin processing the 677th record. Run 1, Event 43210079, LumiSection 43515 at 30-Apr-2013 11:50:02.980 CEST
+Begin processing the 678th record. Run 1, Event 43210080, LumiSection 43515 at 30-Apr-2013 11:50:02.985 CEST
+Begin processing the 679th record. Run 1, Event 43210081, LumiSection 43515 at 30-Apr-2013 11:50:02.986 CEST
+Begin processing the 680th record. Run 1, Event 43210082, LumiSection 43515 at 30-Apr-2013 11:50:02.987 CEST
+Begin processing the 681st record. Run 1, Event 43210083, LumiSection 43515 at 30-Apr-2013 11:50:02.987 CEST
+Begin processing the 682nd record. Run 1, Event 43210084, LumiSection 43515 at 30-Apr-2013 11:50:02.988 CEST
+Begin processing the 683rd record. Run 1, Event 43210085, LumiSection 43515 at 30-Apr-2013 11:50:02.988 CEST
+energy :4.74231 	 time : -0.461592
+ieta:10	 iphi: 324
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 684th record. Run 1, Event 43210086, LumiSection 43515 at 30-Apr-2013 11:50:02.989 CEST
+Begin processing the 685th record. Run 1, Event 43210087, LumiSection 43515 at 30-Apr-2013 11:50:02.990 CEST
+Begin processing the 686th record. Run 1, Event 43210088, LumiSection 43515 at 30-Apr-2013 11:50:02.990 CEST
+Begin processing the 687th record. Run 1, Event 43210089, LumiSection 43515 at 30-Apr-2013 11:50:02.991 CEST
+Begin processing the 688th record. Run 1, Event 43210090, LumiSection 43515 at 30-Apr-2013 11:50:02.991 CEST
+Begin processing the 689th record. Run 1, Event 43210091, LumiSection 43515 at 30-Apr-2013 11:50:02.992 CEST
+Begin processing the 690th record. Run 1, Event 43210092, LumiSection 43515 at 30-Apr-2013 11:50:02.993 CEST
+Begin processing the 691st record. Run 1, Event 43210093, LumiSection 43515 at 30-Apr-2013 11:50:02.993 CEST
+Begin processing the 692nd record. Run 1, Event 43210094, LumiSection 43515 at 30-Apr-2013 11:50:02.994 CEST
+energy :13.3649 	 time : 43.077
+ieta:53	 iphi: 243
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	836	1
+7	926	1
+8	799	1
+9	635	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	200	1
+3	202	1
+4	201	1
+5	200	1
+6	846	1
+7	929	1
+8	798	1
+9	634	1
+Begin processing the 693rd record. Run 1, Event 43210095, LumiSection 43515 at 30-Apr-2013 11:50:02.995 CEST
+Begin processing the 694th record. Run 1, Event 43210096, LumiSection 43515 at 30-Apr-2013 11:50:02.995 CEST
+Begin processing the 695th record. Run 1, Event 43210097, LumiSection 43515 at 30-Apr-2013 11:50:02.996 CEST
+Begin processing the 696th record. Run 1, Event 43210098, LumiSection 43515 at 30-Apr-2013 11:50:02.996 CEST
+Begin processing the 697th record. Run 1, Event 43210099, LumiSection 43515 at 30-Apr-2013 11:50:02.997 CEST
+Begin processing the 698th record. Run 1, Event 43210100, LumiSection 43515 at 30-Apr-2013 11:50:02.998 CEST
+energy :5.50381 	 time : -0.15796
+ieta:-20	 iphi: 155
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 699th record. Run 1, Event 43210101, LumiSection 43515 at 30-Apr-2013 11:50:02.998 CEST
+energy :3.06018 	 time : -1.10079
+ieta:-9	 iphi: 314
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.01586 	 time : -0.492697
+ieta:-51	 iphi: 180
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 700th record. Run 1, Event 43210102, LumiSection 43515 at 30-Apr-2013 11:50:02.999 CEST
+energy :3.75896 	 time : -11.1585
+ieta:-81	 iphi: 337
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 701st record. Run 1, Event 43210103, LumiSection 43515 at 30-Apr-2013 11:50:03.000 CEST
+energy :4.03835 	 time : 43.3579
+ieta:7	 iphi: 212
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	391	1
+7	412	1
+8	373	1
+9	325	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	199	1
+3	200	1
+4	200	1
+5	199	1
+6	387	1
+7	412	1
+8	375	1
+9	325	1
+energy :7.92201 	 time : -9.69895
+ieta:45	 iphi: 247
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	379	1
+5	394	1
+6	357	1
+7	313	1
+8	276	1
+9	249	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	199	1
+2	199	1
+3	203	1
+4	381	1
+5	394	1
+6	358	1
+7	313	1
+8	277	1
+9	250	1
+Begin processing the 702nd record. Run 1, Event 43210104, LumiSection 43515 at 30-Apr-2013 11:50:03.001 CEST
+Begin processing the 703rd record. Run 1, Event 43210105, LumiSection 43515 at 30-Apr-2013 11:50:03.001 CEST
+energy :10.2937 	 time : -10.2932
+ieta:-58	 iphi: 131
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :3.53441 	 time : -0.350433
+ieta:84	 iphi: 186
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 704th record. Run 1, Event 43210106, LumiSection 43515 at 30-Apr-2013 11:50:03.007 CEST
+energy :3.17933 	 time : 0.887236
+ieta:68	 iphi: 218
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 705th record. Run 1, Event 43210107, LumiSection 43515 at 30-Apr-2013 11:50:03.008 CEST
+Begin processing the 706th record. Run 1, Event 43210108, LumiSection 43515 at 30-Apr-2013 11:50:03.008 CEST
+energy :6.84631 	 time : -0.167375
+ieta:83	 iphi: 324
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	201	1
+4	205	1
+5	205	1
+6	204	1
+7	203	1
+8	202	1
+9	201	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	202	1
+3	204	1
+4	317	1
+5	354	1
+6	337	1
+7	304	1
+8	272	1
+9	250	1
+Begin processing the 707th record. Run 1, Event 43210109, LumiSection 43515 at 30-Apr-2013 11:50:03.009 CEST
+energy :3.45294 	 time : -0.629915
+ieta:59	 iphi: 104
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 708th record. Run 1, Event 43210110, LumiSection 43515 at 30-Apr-2013 11:50:03.010 CEST
+Begin processing the 709th record. Run 1, Event 43210111, LumiSection 43515 at 30-Apr-2013 11:50:03.010 CEST
+Begin processing the 710th record. Run 1, Event 43210112, LumiSection 43515 at 30-Apr-2013 11:50:03.011 CEST
+Begin processing the 711th record. Run 1, Event 43210113, LumiSection 43515 at 30-Apr-2013 11:50:03.012 CEST
+Begin processing the 712th record. Run 1, Event 43210114, LumiSection 43515 at 30-Apr-2013 11:50:03.013 CEST
+Begin processing the 713th record. Run 1, Event 43210115, LumiSection 43515 at 30-Apr-2013 11:50:03.014 CEST
+Begin processing the 714th record. Run 1, Event 43210116, LumiSection 43515 at 30-Apr-2013 11:50:03.015 CEST
+Begin processing the 715th record. Run 1, Event 43210117, LumiSection 43515 at 30-Apr-2013 11:50:03.016 CEST
+Begin processing the 716th record. Run 1, Event 43210118, LumiSection 43515 at 30-Apr-2013 11:50:03.017 CEST
+Begin processing the 717th record. Run 1, Event 43210119, LumiSection 43515 at 30-Apr-2013 11:50:03.018 CEST
+energy :5.65472 	 time : -0.272014
+ieta:-28	 iphi: 304
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 718th record. Run 1, Event 43210120, LumiSection 43515 at 30-Apr-2013 11:50:03.019 CEST
+energy :8.78692 	 time : -12.156
+ieta:-57	 iphi: 205
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 719th record. Run 1, Event 43210121, LumiSection 43515 at 30-Apr-2013 11:50:03.020 CEST
+energy :3.74543 	 time : -9.91655
+ieta:62	 iphi: 116
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	274	1
+5	279	1
+6	264	1
+7	246	1
+8	231	1
+9	220	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	201	1
+3	203	1
+4	277	1
+5	282	1
+6	267	1
+7	246	1
+8	231	1
+9	220	1
+Begin processing the 720th record. Run 1, Event 43210122, LumiSection 43515 at 30-Apr-2013 11:50:03.021 CEST
+Begin processing the 721st record. Run 1, Event 43210123, LumiSection 43515 at 30-Apr-2013 11:50:03.022 CEST
+energy :3.90322 	 time : -44.9652
+ieta:-12	 iphi: 11
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 722nd record. Run 1, Event 43210124, LumiSection 43515 at 30-Apr-2013 11:50:03.023 CEST
+Begin processing the 723rd record. Run 1, Event 43210125, LumiSection 43515 at 30-Apr-2013 11:50:03.024 CEST
+energy :3.96338 	 time : -41.2465
+ieta:-43	 iphi: 338
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 724th record. Run 1, Event 43210126, LumiSection 43515 at 30-Apr-2013 11:50:03.025 CEST
+Begin processing the 725th record. Run 1, Event 43210127, LumiSection 43515 at 30-Apr-2013 11:50:03.026 CEST
+Begin processing the 726th record. Run 1, Event 43210128, LumiSection 43515 at 30-Apr-2013 11:50:03.027 CEST
+energy :7.31603 	 time : -10.8457
+ieta:-62	 iphi: 316
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 727th record. Run 1, Event 43210129, LumiSection 43515 at 30-Apr-2013 11:50:03.028 CEST
+Begin processing the 728th record. Run 1, Event 43210130, LumiSection 43515 at 30-Apr-2013 11:50:03.029 CEST
+energy :8.78244 	 time : -5.6722
+ieta:36	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	369	1
+5	389	1
+6	355	1
+7	312	1
+8	276	1
+9	249	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	200	1
+3	201	1
+4	368	1
+5	392	1
+6	364	1
+7	322	1
+8	285	1
+9	256	1
+Begin processing the 729th record. Run 1, Event 43210131, LumiSection 43515 at 30-Apr-2013 11:50:03.030 CEST
+energy :5.16528 	 time : 3.02451
+ieta:79	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	288	1
+5	327	1
+6	311	1
+7	283	1
+8	257	1
+9	237	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	200	1
+4	283	1
+5	326	1
+6	314	1
+7	286	1
+8	259	1
+9	239	1
+Begin processing the 730th record. Run 1, Event 43210132, LumiSection 43515 at 30-Apr-2013 11:50:03.039 CEST
+energy :3.88261 	 time : 0.201701
+ieta:82	 iphi: 346
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 731st record. Run 1, Event 43210133, LumiSection 43515 at 30-Apr-2013 11:50:03.040 CEST
+Begin processing the 732nd record. Run 1, Event 43210134, LumiSection 43515 at 30-Apr-2013 11:50:03.041 CEST
+Begin processing the 733rd record. Run 1, Event 43210135, LumiSection 43515 at 30-Apr-2013 11:50:03.041 CEST
+Begin processing the 734th record. Run 1, Event 43210136, LumiSection 43515 at 30-Apr-2013 11:50:03.042 CEST
+energy :3.10788 	 time : -8.07309
+ieta:-72	 iphi: 230
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 735th record. Run 1, Event 43210137, LumiSection 43515 at 30-Apr-2013 11:50:03.043 CEST
+energy :4.16961 	 time : -0.745229
+ieta:71	 iphi: 262
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 736th record. Run 1, Event 43210138, LumiSection 43515 at 30-Apr-2013 11:50:03.043 CEST
+energy :3.20683 	 time : -0.322248
+ieta:-62	 iphi: 119
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.11141 	 time : -1.51744
+ieta:75	 iphi: 206
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	201	1
+4	208	1
+5	208	1
+6	207	1
+7	205	1
+8	203	1
+9	202	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	201	1
+2	202	1
+3	204	1
+4	252	1
+5	265	1
+6	258	1
+7	244	1
+8	233	1
+9	223	1
+Begin processing the 737th record. Run 1, Event 43210139, LumiSection 43515 at 30-Apr-2013 11:50:03.044 CEST
+energy :5.53168 	 time : -32.9876
+ieta:-65	 iphi: 289
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 738th record. Run 1, Event 43210140, LumiSection 43515 at 30-Apr-2013 11:50:03.045 CEST
+energy :7.9738 	 time : -0.286168
+ieta:-55	 iphi: 98
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 739th record. Run 1, Event 43210141, LumiSection 43515 at 30-Apr-2013 11:50:03.046 CEST
+energy :3.12296 	 time : -0.172914
+ieta:-80	 iphi: 204
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 740th record. Run 1, Event 43210142, LumiSection 43515 at 30-Apr-2013 11:50:03.046 CEST
+Begin processing the 741st record. Run 1, Event 43210143, LumiSection 43515 at 30-Apr-2013 11:50:03.047 CEST
+energy :4.62877 	 time : 1.31371
+ieta:-29	 iphi: 87
+kWeird:1	 kDiWeird:0	 kOOT:0
+Begin processing the 742nd record. Run 1, Event 43210144, LumiSection 43515 at 30-Apr-2013 11:50:03.048 CEST
+Begin processing the 743rd record. Run 1, Event 43210145, LumiSection 43515 at 30-Apr-2013 11:50:03.048 CEST
+Begin processing the 744th record. Run 1, Event 43210146, LumiSection 43515 at 30-Apr-2013 11:50:03.049 CEST
+energy :4.5931 	 time : -12.4537
+ieta:-48	 iphi: 349
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.55433 	 time : -49.6329
+ieta:17	 iphi: 328
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 745th record. Run 1, Event 43210147, LumiSection 43515 at 30-Apr-2013 11:50:03.050 CEST
+energy :4.11398 	 time : -0.974588
+ieta:59	 iphi: 105
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 746th record. Run 1, Event 43210148, LumiSection 43515 at 30-Apr-2013 11:50:03.050 CEST
+Begin processing the 747th record. Run 1, Event 43210149, LumiSection 43515 at 30-Apr-2013 11:50:03.051 CEST
+energy :3.2394 	 time : -0.124112
+ieta:-35	 iphi: 202
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 748th record. Run 1, Event 43210150, LumiSection 43515 at 30-Apr-2013 11:50:03.052 CEST
+Begin processing the 749th record. Run 1, Event 43210151, LumiSection 43515 at 30-Apr-2013 11:50:03.052 CEST
+energy :3.59814 	 time : 49.5979
+ieta:-10	 iphi: 280
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :5.77988 	 time : -10.3918
+ieta:74	 iphi: 144
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	221	1
+4	329	1
+5	333	1
+6	306	1
+7	276	1
+8	251	1
+9	233	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	213	1
+4	326	1
+5	334	1
+6	307	1
+7	277	1
+8	251	1
+9	234	1
+Begin processing the 750th record. Run 1, Event 43210152, LumiSection 43515 at 30-Apr-2013 11:50:03.053 CEST
+energy :4.5378 	 time : -0.778907
+ieta:62	 iphi: 93
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 751st record. Run 1, Event 43210153, LumiSection 43515 at 30-Apr-2013 11:50:03.054 CEST
+energy :4.38722 	 time : 0.0463035
+ieta:-63	 iphi: 314
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 752nd record. Run 1, Event 43210154, LumiSection 43515 at 30-Apr-2013 11:50:03.055 CEST
+energy :3.3425 	 time : -0.321135
+ieta:78	 iphi: 347
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	201	1
+5	201	1
+6	201	1
+7	201	1
+8	201	1
+9	200	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	202	1
+2	200	1
+3	202	1
+4	261	1
+5	279	1
+6	272	1
+7	255	1
+8	239	1
+9	225	1
+Begin processing the 753rd record. Run 1, Event 43210155, LumiSection 43515 at 30-Apr-2013 11:50:03.055 CEST
+energy :3.69452 	 time : -10.9945
+ieta:58	 iphi: 56
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	220	1
+4	292	1
+5	293	1
+6	274	1
+7	252	1
+8	235	1
+9	223	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	222	1
+4	292	1
+5	291	1
+6	273	1
+7	251	1
+8	234	1
+9	223	1
+energy :4.18345 	 time : 0.359997
+ieta:73	 iphi: 83
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 754th record. Run 1, Event 43210156, LumiSection 43515 at 30-Apr-2013 11:50:03.056 CEST
+energy :3.11436 	 time : -21.1658
+ieta:-8	 iphi: 173
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 755th record. Run 1, Event 43210157, LumiSection 43515 at 30-Apr-2013 11:50:03.057 CEST
+Begin processing the 756th record. Run 1, Event 43210158, LumiSection 43515 at 30-Apr-2013 11:50:03.065 CEST
+energy :3.23644 	 time : -0.723544
+ieta:-26	 iphi: 150
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 757th record. Run 1, Event 43210159, LumiSection 43515 at 30-Apr-2013 11:50:03.066 CEST
+Begin processing the 758th record. Run 1, Event 43210160, LumiSection 43515 at 30-Apr-2013 11:50:03.066 CEST
+Begin processing the 759th record. Run 1, Event 43210161, LumiSection 43515 at 30-Apr-2013 11:50:03.067 CEST
+Begin processing the 760th record. Run 1, Event 43210162, LumiSection 43515 at 30-Apr-2013 11:50:03.068 CEST
+Begin processing the 761st record. Run 1, Event 43210163, LumiSection 43515 at 30-Apr-2013 11:50:03.069 CEST
+Begin processing the 762nd record. Run 1, Event 43210164, LumiSection 43515 at 30-Apr-2013 11:50:03.069 CEST
+Begin processing the 763rd record. Run 1, Event 43210165, LumiSection 43515 at 30-Apr-2013 11:50:03.070 CEST
+Begin processing the 764th record. Run 1, Event 43210166, LumiSection 43515 at 30-Apr-2013 11:50:03.071 CEST
+energy :4.79691 	 time : -49.7211
+ieta:-76	 iphi: 25
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :5.09868 	 time : 0.315224
+ieta:79	 iphi: 37
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 765th record. Run 1, Event 43210167, LumiSection 43515 at 30-Apr-2013 11:50:03.071 CEST
+energy :3.54842 	 time : 0.587524
+ieta:60	 iphi: 280
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	287	1
+5	311	1
+6	294	1
+7	269	1
+8	247	1
+9	231	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	201	1
+3	200	1
+4	282	1
+5	312	1
+6	295	1
+7	271	1
+8	249	1
+9	233	1
+Begin processing the 766th record. Run 1, Event 43210168, LumiSection 43515 at 30-Apr-2013 11:50:03.072 CEST
+Begin processing the 767th record. Run 1, Event 43210169, LumiSection 43515 at 30-Apr-2013 11:50:03.073 CEST
+Begin processing the 768th record. Run 1, Event 43210170, LumiSection 43515 at 30-Apr-2013 11:50:03.074 CEST
+Begin processing the 769th record. Run 1, Event 43210171, LumiSection 43515 at 30-Apr-2013 11:50:03.074 CEST
+energy :3.9766 	 time : -9.70963
+ieta:-64	 iphi: 85
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.06208 	 time : -0.280863
+ieta:-68	 iphi: 106
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :9.76435 	 time : -7.60711
+ieta:4	 iphi: 320
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	429	1
+5	453	1
+6	406	1
+7	349	1
+8	301	1
+9	265	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	199	1
+4	427	1
+5	453	1
+6	406	1
+7	349	1
+8	300	1
+9	265	1
+Begin processing the 770th record. Run 1, Event 43210172, LumiSection 43515 at 30-Apr-2013 11:50:03.075 CEST
+Begin processing the 771st record. Run 1, Event 43210173, LumiSection 43515 at 30-Apr-2013 11:50:03.076 CEST
+energy :5.75011 	 time : -2.58212
+ieta:15	 iphi: 26
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	323	1
+5	356	1
+6	333	1
+7	298	1
+8	267	1
+9	244	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	199	1
+2	198	1
+3	198	1
+4	327	1
+5	358	1
+6	334	1
+7	298	1
+8	267	1
+9	245	1
+energy :4.44968 	 time : -40.7514
+ieta:49	 iphi: 78
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	269	1
+3	356	1
+4	349	1
+5	315	1
+6	281	1
+7	254	1
+8	234	1
+9	221	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	200	1
+2	267	1
+3	359	1
+4	354	1
+5	322	1
+6	286	1
+7	258	1
+8	237	1
+9	224	1
+energy :3.38961 	 time : 0.62648
+ieta:70	 iphi: 199
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 772nd record. Run 1, Event 43210174, LumiSection 43515 at 30-Apr-2013 11:50:03.077 CEST
+energy :3.33952 	 time : 0.672336
+ieta:-30	 iphi: 242
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 773rd record. Run 1, Event 43210175, LumiSection 43515 at 30-Apr-2013 11:50:03.078 CEST
+Begin processing the 774th record. Run 1, Event 43210176, LumiSection 43515 at 30-Apr-2013 11:50:03.078 CEST
+Begin processing the 775th record. Run 1, Event 43210177, LumiSection 43515 at 30-Apr-2013 11:50:03.079 CEST
+Begin processing the 776th record. Run 1, Event 43210178, LumiSection 43515 at 30-Apr-2013 11:50:03.079 CEST
+Begin processing the 777th record. Run 1, Event 43210179, LumiSection 43515 at 30-Apr-2013 11:50:03.080 CEST
+Begin processing the 778th record. Run 1, Event 43210180, LumiSection 43515 at 30-Apr-2013 11:50:03.081 CEST
+Begin processing the 779th record. Run 1, Event 43210181, LumiSection 43515 at 30-Apr-2013 11:50:03.081 CEST
+energy :8.04021 	 time : -12.6094
+ieta:-62	 iphi: 159
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.29325 	 time : 0.634721
+ieta:-75	 iphi: 200
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 780th record. Run 1, Event 43210182, LumiSection 43515 at 30-Apr-2013 11:50:03.082 CEST
+Begin processing the 781st record. Run 1, Event 43210183, LumiSection 43515 at 30-Apr-2013 11:50:03.083 CEST
+energy :3.38734 	 time : -1.093
+ieta:-82	 iphi: 198
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 782nd record. Run 1, Event 43210184, LumiSection 43515 at 30-Apr-2013 11:50:03.089 CEST
+energy :3.34968 	 time : -0.655584
+ieta:75	 iphi: 113
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 783rd record. Run 1, Event 43210185, LumiSection 43515 at 30-Apr-2013 11:50:03.090 CEST
+Begin processing the 784th record. Run 1, Event 43210186, LumiSection 43515 at 30-Apr-2013 11:50:03.091 CEST
+Begin processing the 785th record. Run 1, Event 43210187, LumiSection 43515 at 30-Apr-2013 11:50:03.092 CEST
+energy :3.20833 	 time : -10.6024
+ieta:-70	 iphi: 327
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 786th record. Run 1, Event 43210188, LumiSection 43515 at 30-Apr-2013 11:50:03.093 CEST
+Begin processing the 787th record. Run 1, Event 43210189, LumiSection 43515 at 30-Apr-2013 11:50:03.094 CEST
+Begin processing the 788th record. Run 1, Event 43210190, LumiSection 43515 at 30-Apr-2013 11:50:03.095 CEST
+Begin processing the 789th record. Run 1, Event 43210191, LumiSection 43515 at 30-Apr-2013 11:50:03.096 CEST
+Begin processing the 790th record. Run 1, Event 43210192, LumiSection 43515 at 30-Apr-2013 11:50:03.097 CEST
+Begin processing the 791st record. Run 1, Event 43210193, LumiSection 43515 at 30-Apr-2013 11:50:03.098 CEST
+Begin processing the 792nd record. Run 1, Event 43210194, LumiSection 43515 at 30-Apr-2013 11:50:03.098 CEST
+energy :4.80106 	 time : -49.9052
+ieta:-76	 iphi: 25
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 793rd record. Run 1, Event 43210195, LumiSection 43515 at 30-Apr-2013 11:50:03.099 CEST
+Begin processing the 794th record. Run 1, Event 43210196, LumiSection 43515 at 30-Apr-2013 11:50:03.100 CEST
+Begin processing the 795th record. Run 1, Event 43210197, LumiSection 43515 at 30-Apr-2013 11:50:03.101 CEST
+Begin processing the 796th record. Run 1, Event 43210198, LumiSection 43515 at 30-Apr-2013 11:50:03.102 CEST
+Begin processing the 797th record. Run 1, Event 43210199, LumiSection 43515 at 30-Apr-2013 11:50:03.103 CEST
+Begin processing the 798th record. Run 1, Event 43210200, LumiSection 43515 at 30-Apr-2013 11:50:03.104 CEST
+Begin processing the 799th record. Run 1, Event 43210201, LumiSection 43515 at 30-Apr-2013 11:50:03.105 CEST
+energy :4.40232 	 time : 42.619
+ieta:4	 iphi: 320
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	430	1
+7	454	1
+8	407	1
+9	350	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	201	1
+3	200	1
+4	198	1
+5	197	1
+6	427	1
+7	454	1
+8	408	1
+9	349	1
+Begin processing the 800th record. Run 1, Event 43210202, LumiSection 43515 at 30-Apr-2013 11:50:03.106 CEST
+energy :3.01006 	 time : -1.2634
+ieta:43	 iphi: 124
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.15096 	 time : 0.25703
+ieta:51	 iphi: 241
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 801st record. Run 1, Event 43210203, LumiSection 43515 at 30-Apr-2013 11:50:03.107 CEST
+energy :5.57168 	 time : -2.45332
+ieta:15	 iphi: 26
+kWeird:1	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	323	1
+5	356	1
+6	333	1
+7	298	1
+8	267	1
+9	244	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	200	1
+2	199	1
+3	199	1
+4	324	1
+5	355	1
+6	330	1
+7	295	1
+8	265	1
+9	241	1
+energy :6.77271 	 time : 9.11517
+ieta:49	 iphi: 78
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	269	1
+5	356	1
+6	348	1
+7	315	1
+8	280	1
+9	253	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	201	1
+2	201	1
+3	202	1
+4	270	1
+5	362	1
+6	355	1
+7	318	1
+8	286	1
+9	258	1
+energy :3.48692 	 time : 0.385752
+ieta:70	 iphi: 199
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 802nd record. Run 1, Event 43210204, LumiSection 43515 at 30-Apr-2013 11:50:03.109 CEST
+energy :3.34447 	 time : 39.7046
+ieta:-21	 iphi: 230
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 803rd record. Run 1, Event 43210205, LumiSection 43515 at 30-Apr-2013 11:50:03.110 CEST
+Begin processing the 804th record. Run 1, Event 43210206, LumiSection 43515 at 30-Apr-2013 11:50:03.110 CEST
+energy :4.5273 	 time : 0.16649
+ieta:-60	 iphi: 89
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 805th record. Run 1, Event 43210207, LumiSection 43515 at 30-Apr-2013 11:50:03.111 CEST
+Begin processing the 806th record. Run 1, Event 43210208, LumiSection 43515 at 30-Apr-2013 11:50:03.112 CEST
+energy :8.03056 	 time : -9.54557
+ieta:5	 iphi: 286
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	417	1
+5	439	1
+6	395	1
+7	341	1
+8	295	1
+9	262	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	198	1
+2	199	1
+3	200	1
+4	420	1
+5	437	1
+6	390	1
+7	339	1
+8	293	1
+9	260	1
+Begin processing the 807th record. Run 1, Event 43210209, LumiSection 43515 at 30-Apr-2013 11:50:03.113 CEST
+Begin processing the 808th record. Run 1, Event 43210210, LumiSection 43515 at 30-Apr-2013 11:50:03.121 CEST
+energy :4.34474 	 time : 37.9123
+ieta:-62	 iphi: 159
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 809th record. Run 1, Event 43210211, LumiSection 43515 at 30-Apr-2013 11:50:03.121 CEST
+Begin processing the 810th record. Run 1, Event 43210212, LumiSection 43515 at 30-Apr-2013 11:50:03.122 CEST
+energy :3.35955 	 time : -0.570672
+ieta:-82	 iphi: 198
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 811th record. Run 1, Event 43210213, LumiSection 43515 at 30-Apr-2013 11:50:03.123 CEST
+Begin processing the 812th record. Run 1, Event 43210214, LumiSection 43515 at 30-Apr-2013 11:50:03.123 CEST
+Begin processing the 813th record. Run 1, Event 43210215, LumiSection 43515 at 30-Apr-2013 11:50:03.124 CEST
+Begin processing the 814th record. Run 1, Event 43210216, LumiSection 43515 at 30-Apr-2013 11:50:03.125 CEST
+Begin processing the 815th record. Run 1, Event 43210217, LumiSection 43515 at 30-Apr-2013 11:50:03.125 CEST
+Begin processing the 816th record. Run 1, Event 43210218, LumiSection 43515 at 30-Apr-2013 11:50:03.126 CEST
+Begin processing the 817th record. Run 1, Event 43210219, LumiSection 43515 at 30-Apr-2013 11:50:03.126 CEST
+Begin processing the 818th record. Run 1, Event 43210220, LumiSection 43515 at 30-Apr-2013 11:50:03.127 CEST
+energy :8.82504 	 time : -49.9655
+ieta:-76	 iphi: 266
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.37621 	 time : -50.0278
+ieta:-79	 iphi: 285
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 819th record. Run 1, Event 43210221, LumiSection 43515 at 30-Apr-2013 11:50:03.128 CEST
+Begin processing the 820th record. Run 1, Event 43210222, LumiSection 43515 at 30-Apr-2013 11:50:03.128 CEST
+energy :3.12657 	 time : 51.894
+ieta:-84	 iphi: 158
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 821st record. Run 1, Event 43210223, LumiSection 43515 at 30-Apr-2013 11:50:03.129 CEST
+Begin processing the 822nd record. Run 1, Event 43210224, LumiSection 43515 at 30-Apr-2013 11:50:03.130 CEST
+Begin processing the 823rd record. Run 1, Event 43210225, LumiSection 43515 at 30-Apr-2013 11:50:03.130 CEST
+Begin processing the 824th record. Run 1, Event 43210226, LumiSection 43515 at 30-Apr-2013 11:50:03.131 CEST
+energy :3.02575 	 time : 49.4646
+ieta:35	 iphi: 323
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 825th record. Run 1, Event 43210227, LumiSection 43515 at 30-Apr-2013 11:50:03.132 CEST
+Begin processing the 826th record. Run 1, Event 43210228, LumiSection 43515 at 30-Apr-2013 11:50:03.132 CEST
+energy :3.18233 	 time : -0.881349
+ieta:64	 iphi: 40
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.98187 	 time : -0.881991
+ieta:70	 iphi: 42
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	202	1
+4	208	1
+5	209	1
+6	207	1
+7	205	1
+8	203	1
+9	202	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	200	1
+3	204	1
+4	284	1
+5	308	1
+6	295	1
+7	273	1
+8	251	1
+9	236	1
+Begin processing the 827th record. Run 1, Event 43210229, LumiSection 43515 at 30-Apr-2013 11:50:03.133 CEST
+Begin processing the 828th record. Run 1, Event 43210230, LumiSection 43515 at 30-Apr-2013 11:50:03.134 CEST
+Begin processing the 829th record. Run 1, Event 43210231, LumiSection 43515 at 30-Apr-2013 11:50:03.134 CEST
+Begin processing the 830th record. Run 1, Event 43210232, LumiSection 43515 at 30-Apr-2013 11:50:03.135 CEST
+energy :3.17834 	 time : -0.00583041
+ieta:43	 iphi: 280
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 831st record. Run 1, Event 43210233, LumiSection 43515 at 30-Apr-2013 11:50:03.136 CEST
+energy :3.14161 	 time : -9.97487
+ieta:-66	 iphi: 63
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 832nd record. Run 1, Event 43210234, LumiSection 43515 at 30-Apr-2013 11:50:03.136 CEST
+Begin processing the 833rd record. Run 1, Event 43210235, LumiSection 43515 at 30-Apr-2013 11:50:03.137 CEST
+Begin processing the 834th record. Run 1, Event 43210236, LumiSection 43515 at 30-Apr-2013 11:50:03.145 CEST
+energy :3.03991 	 time : -0.131608
+ieta:-80	 iphi: 95
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.71232 	 time : -11.4779
+ieta:72	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	213	1
+4	304	1
+5	309	1
+6	287	1
+7	262	1
+8	242	1
+9	227	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	200	1
+3	216	1
+4	306	1
+5	311	1
+6	287	1
+7	263	1
+8	241	1
+9	227	1
+Begin processing the 835th record. Run 1, Event 43210237, LumiSection 43515 at 30-Apr-2013 11:50:03.146 CEST
+energy :4.51431 	 time : 0.530069
+ieta:62	 iphi: 38
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 836th record. Run 1, Event 43210238, LumiSection 43515 at 30-Apr-2013 11:50:03.147 CEST
+energy :3.61916 	 time : -0.631637
+ieta:-69	 iphi: 201
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 837th record. Run 1, Event 43210239, LumiSection 43515 at 30-Apr-2013 11:50:03.148 CEST
+Begin processing the 838th record. Run 1, Event 43210240, LumiSection 43515 at 30-Apr-2013 11:50:03.149 CEST
+Begin processing the 839th record. Run 1, Event 43210241, LumiSection 43515 at 30-Apr-2013 11:50:03.150 CEST
+energy :4.06768 	 time : -0.461297
+ieta:49	 iphi: 4
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 840th record. Run 1, Event 43210242, LumiSection 43515 at 30-Apr-2013 11:50:03.151 CEST
+Begin processing the 841st record. Run 1, Event 43210243, LumiSection 43515 at 30-Apr-2013 11:50:03.152 CEST
+energy :5.74862 	 time : -0.330037
+ieta:-4	 iphi: 68
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.12461 	 time : 15.402
+ieta:18	 iphi: 99
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	292	1
+6	301	1
+7	282	1
+8	260	1
+9	240	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	200	1
+3	201	1
+4	199	1
+5	293	1
+6	300	1
+7	281	1
+8	258	1
+9	239	1
+energy :4.3096 	 time : -0.632512
+ieta:52	 iphi: 3
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 842nd record. Run 1, Event 43210244, LumiSection 43515 at 30-Apr-2013 11:50:03.153 CEST
+Begin processing the 843rd record. Run 1, Event 43210245, LumiSection 43515 at 30-Apr-2013 11:50:03.154 CEST
+Begin processing the 844th record. Run 1, Event 43210246, LumiSection 43515 at 30-Apr-2013 11:50:03.155 CEST
+energy :5.23599 	 time : -10.3313
+ieta:52	 iphi: 326
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	215	1
+4	300	1
+5	304	1
+6	283	1
+7	259	1
+8	240	1
+9	226	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	206	1
+4	299	1
+5	304	1
+6	286	1
+7	260	1
+8	243	1
+9	228	1
+Begin processing the 845th record. Run 1, Event 43210247, LumiSection 43515 at 30-Apr-2013 11:50:03.156 CEST
+Begin processing the 846th record. Run 1, Event 43210248, LumiSection 43515 at 30-Apr-2013 11:50:03.157 CEST
+Begin processing the 847th record. Run 1, Event 43210249, LumiSection 43515 at 30-Apr-2013 11:50:03.157 CEST
+Begin processing the 848th record. Run 1, Event 43210250, LumiSection 43515 at 30-Apr-2013 11:50:03.158 CEST
+Begin processing the 849th record. Run 1, Event 43210251, LumiSection 43515 at 30-Apr-2013 11:50:03.159 CEST
+Begin processing the 850th record. Run 1, Event 43210252, LumiSection 43515 at 30-Apr-2013 11:50:03.159 CEST
+energy :3.16827 	 time : -49.9896
+ieta:82	 iphi: 240
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 851st record. Run 1, Event 43210253, LumiSection 43515 at 30-Apr-2013 11:50:03.160 CEST
+energy :3.72488 	 time : -0.672528
+ieta:-65	 iphi: 174
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 852nd record. Run 1, Event 43210254, LumiSection 43515 at 30-Apr-2013 11:50:03.161 CEST
+Begin processing the 853rd record. Run 1, Event 43210255, LumiSection 43515 at 30-Apr-2013 11:50:03.161 CEST
+energy :4.55248 	 time : 38.0373
+ieta:-44	 iphi: 246
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.95959 	 time : -0.658431
+ieta:55	 iphi: 38
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 854th record. Run 1, Event 43210256, LumiSection 43515 at 30-Apr-2013 11:50:03.162 CEST
+Begin processing the 855th record. Run 1, Event 43210257, LumiSection 43515 at 30-Apr-2013 11:50:03.163 CEST
+energy :3.46635 	 time : -0.543541
+ieta:19	 iphi: 330
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 856th record. Run 1, Event 43210258, LumiSection 43515 at 30-Apr-2013 11:50:03.163 CEST
+energy :3.09185 	 time : -0.431777
+ieta:-53	 iphi: 320
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 857th record. Run 1, Event 43210259, LumiSection 43515 at 30-Apr-2013 11:50:03.164 CEST
+energy :6.25522 	 time : -8.19714
+ieta:-23	 iphi: 312
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 858th record. Run 1, Event 43210260, LumiSection 43515 at 30-Apr-2013 11:50:03.165 CEST
+energy :3.9637 	 time : 45.0708
+ieta:-19	 iphi: 219
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :5.06127 	 time : 4.26701
+ieta:65	 iphi: 347
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	288	1
+5	331	1
+6	316	1
+7	287	1
+8	260	1
+9	239	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	204	1
+3	203	1
+4	283	1
+5	333	1
+6	321	1
+7	291	1
+8	261	1
+9	240	1
+Begin processing the 859th record. Run 1, Event 43210261, LumiSection 43515 at 30-Apr-2013 11:50:03.165 CEST
+Begin processing the 860th record. Run 1, Event 43210262, LumiSection 43515 at 30-Apr-2013 11:50:03.172 CEST
+energy :5.13461 	 time : -12.3942
+ieta:40	 iphi: 338
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	219	1
+4	320	1
+5	323	1
+6	298	1
+7	270	1
+8	247	1
+9	230	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	198	1
+2	200	1
+3	221	1
+4	321	1
+5	324	1
+6	300	1
+7	271	1
+8	248	1
+9	231	1
+Begin processing the 861st record. Run 1, Event 43210263, LumiSection 43515 at 30-Apr-2013 11:50:03.172 CEST
+Begin processing the 862nd record. Run 1, Event 43210264, LumiSection 43515 at 30-Apr-2013 11:50:03.173 CEST
+Begin processing the 863rd record. Run 1, Event 43210265, LumiSection 43515 at 30-Apr-2013 11:50:03.174 CEST
+Begin processing the 864th record. Run 1, Event 43210266, LumiSection 43515 at 30-Apr-2013 11:50:03.174 CEST
+Begin processing the 865th record. Run 1, Event 43210267, LumiSection 43515 at 30-Apr-2013 11:50:03.175 CEST
+Begin processing the 866th record. Run 1, Event 43210268, LumiSection 43515 at 30-Apr-2013 11:50:03.175 CEST
+energy :3.84386 	 time : -49.1513
+ieta:-63	 iphi: 246
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 867th record. Run 1, Event 43210269, LumiSection 43515 at 30-Apr-2013 11:50:03.176 CEST
+Begin processing the 868th record. Run 1, Event 43210270, LumiSection 43515 at 30-Apr-2013 11:50:03.177 CEST
+energy :3.60401 	 time : -0.159119
+ieta:69	 iphi: 329
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 869th record. Run 1, Event 43210271, LumiSection 43515 at 30-Apr-2013 11:50:03.178 CEST
+Begin processing the 870th record. Run 1, Event 43210272, LumiSection 43515 at 30-Apr-2013 11:50:03.179 CEST
+Begin processing the 871st record. Run 1, Event 43210273, LumiSection 43515 at 30-Apr-2013 11:50:03.180 CEST
+Begin processing the 872nd record. Run 1, Event 43210274, LumiSection 43515 at 30-Apr-2013 11:50:03.181 CEST
+Begin processing the 873rd record. Run 1, Event 43210275, LumiSection 43515 at 30-Apr-2013 11:50:03.182 CEST
+Begin processing the 874th record. Run 1, Event 43210276, LumiSection 43515 at 30-Apr-2013 11:50:03.183 CEST
+Begin processing the 875th record. Run 1, Event 43210277, LumiSection 43515 at 30-Apr-2013 11:50:03.184 CEST
+Begin processing the 876th record. Run 1, Event 43210278, LumiSection 43515 at 30-Apr-2013 11:50:03.185 CEST
+Begin processing the 877th record. Run 1, Event 43210279, LumiSection 43515 at 30-Apr-2013 11:50:03.186 CEST
+Begin processing the 878th record. Run 1, Event 43210280, LumiSection 43515 at 30-Apr-2013 11:50:03.186 CEST
+energy :3.53155 	 time : -0.0904393
+ieta:-41	 iphi: 199
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :14.6777 	 time : 38.6499
+ieta:3	 iphi: 300
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	324	1
+6	925	1
+7	946	1
+8	794	1
+9	624	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	199	1
+3	200	1
+4	200	1
+5	279	1
+6	922	1
+7	955	1
+8	806	1
+9	633	1
+energy :4.01918 	 time : 1.21055
+ieta:53	 iphi: 162
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 879th record. Run 1, Event 43210281, LumiSection 43515 at 30-Apr-2013 11:50:03.188 CEST
+energy :4.49892 	 time : -11.1734
+ieta:-7	 iphi: 15
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 880th record. Run 1, Event 43210282, LumiSection 43515 at 30-Apr-2013 11:50:03.189 CEST
+energy :9.23672 	 time : 1.21505
+ieta:-6	 iphi: 233
+kWeird:1	 kDiWeird:0	 kOOT:0
+Begin processing the 881st record. Run 1, Event 43210283, LumiSection 43515 at 30-Apr-2013 11:50:03.190 CEST
+energy :4.06024 	 time : -47.6848
+ieta:83	 iphi: 179
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	339	1
+3	429	1
+4	406	1
+5	356	1
+6	308	1
+7	271	1
+8	246	1
+9	228	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	199	1
+2	357	1
+3	430	1
+4	405	1
+5	354	1
+6	307	1
+7	272	1
+8	246	1
+9	229	1
+Begin processing the 882nd record. Run 1, Event 43210284, LumiSection 43515 at 30-Apr-2013 11:50:03.191 CEST
+Begin processing the 883rd record. Run 1, Event 43210285, LumiSection 43515 at 30-Apr-2013 11:50:03.192 CEST
+Begin processing the 884th record. Run 1, Event 43210286, LumiSection 43515 at 30-Apr-2013 11:50:03.193 CEST
+Begin processing the 885th record. Run 1, Event 43210287, LumiSection 43515 at 30-Apr-2013 11:50:03.194 CEST
+energy :4.60699 	 time : 0.116825
+ieta:-61	 iphi: 199
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :4.04776 	 time : -11.5204
+ieta:-67	 iphi: 69
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :8.25273 	 time : 13.2092
+ieta:77	 iphi: 82
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	218	1
+5	407	1
+6	418	1
+7	375	1
+8	325	1
+9	284	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	201	1
+2	198	1
+3	199	1
+4	227	1
+5	410	1
+6	418	1
+7	375	1
+8	325	1
+9	284	1
+Begin processing the 886th record. Run 1, Event 43210288, LumiSection 43515 at 30-Apr-2013 11:50:03.200 CEST
+energy :3.01727 	 time : -0.0742564
+ieta:73	 iphi: 60
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 887th record. Run 1, Event 43210289, LumiSection 43515 at 30-Apr-2013 11:50:03.201 CEST
+Begin processing the 888th record. Run 1, Event 43210290, LumiSection 43515 at 30-Apr-2013 11:50:03.201 CEST
+Begin processing the 889th record. Run 1, Event 43210291, LumiSection 43515 at 30-Apr-2013 11:50:03.202 CEST
+Begin processing the 890th record. Run 1, Event 43210292, LumiSection 43515 at 30-Apr-2013 11:50:03.203 CEST
+Begin processing the 891st record. Run 1, Event 43210293, LumiSection 43515 at 30-Apr-2013 11:50:03.203 CEST
+Begin processing the 892nd record. Run 1, Event 43210294, LumiSection 43515 at 30-Apr-2013 11:50:03.204 CEST
+Begin processing the 893rd record. Run 1, Event 43210295, LumiSection 43515 at 30-Apr-2013 11:50:03.204 CEST
+Begin processing the 894th record. Run 1, Event 43210296, LumiSection 43515 at 30-Apr-2013 11:50:03.205 CEST
+Begin processing the 895th record. Run 1, Event 43210297, LumiSection 43515 at 30-Apr-2013 11:50:03.206 CEST
+Begin processing the 896th record. Run 1, Event 43210298, LumiSection 43515 at 30-Apr-2013 11:50:03.206 CEST
+energy :3.61877 	 time : -2.31669
+ieta:71	 iphi: 330
+kWeird:0	 kDiWeird:0	 kOOT:0
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	273	1
+5	296	1
+6	282	1
+7	261	1
+8	242	1
+9	227	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	201	1
+3	201	1
+4	277	1
+5	296	1
+6	281	1
+7	260	1
+8	242	1
+9	228	1
+Begin processing the 897th record. Run 1, Event 43210299, LumiSection 43515 at 30-Apr-2013 11:50:03.207 CEST
+energy :11.9346 	 time : -7.99795
+ieta:56	 iphi: 77
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	421	1
+5	450	1
+6	406	1
+7	349	1
+8	301	1
+9	266	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	199	1
+2	201	1
+3	200	1
+4	425	1
+5	449	1
+6	402	1
+7	347	1
+8	300	1
+9	264	1
+energy :3.33094 	 time : 45.9182
+ieta:66	 iphi: 87
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	350	1
+7	381	1
+8	351	1
+9	311	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	201	1
+2	198	1
+3	198	1
+4	199	1
+5	200	1
+6	353	1
+7	383	1
+8	353	1
+9	312	1
+energy :3.57598 	 time : -0.217572
+ieta:78	 iphi: 294
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 898th record. Run 1, Event 43210300, LumiSection 43515 at 30-Apr-2013 11:50:03.208 CEST
+energy :4.95212 	 time : -9.92807
+ieta:85	 iphi: 273
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	212	1
+4	324	1
+5	331	1
+6	305	1
+7	275	1
+8	251	1
+9	233	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	202	1
+2	201	1
+3	204	1
+4	327	1
+5	336	1
+6	309	1
+7	279	1
+8	253	1
+9	234	1
+Begin processing the 899th record. Run 1, Event 43210301, LumiSection 43515 at 30-Apr-2013 11:50:03.209 CEST
+energy :3.03098 	 time : 37.8876
+ieta:-8	 iphi: 235
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 900th record. Run 1, Event 43210302, LumiSection 43515 at 30-Apr-2013 11:50:03.209 CEST
+energy :8.54098 	 time : -0.543489
+ieta:-78	 iphi: 43
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 901st record. Run 1, Event 43210303, LumiSection 43515 at 30-Apr-2013 11:50:03.210 CEST
+Begin processing the 902nd record. Run 1, Event 43210304, LumiSection 43515 at 30-Apr-2013 11:50:03.211 CEST
+Begin processing the 903rd record. Run 1, Event 43210305, LumiSection 43515 at 30-Apr-2013 11:50:03.211 CEST
+Begin processing the 904th record. Run 1, Event 43210306, LumiSection 43515 at 30-Apr-2013 11:50:03.212 CEST
+energy :3.3998 	 time : -6.94426
+ieta:-76	 iphi: 296
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :5.74857 	 time : -1.97157
+ieta:-85	 iphi: 357
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 905th record. Run 1, Event 43210307, LumiSection 43515 at 30-Apr-2013 11:50:03.213 CEST
+Begin processing the 906th record. Run 1, Event 43210308, LumiSection 43515 at 30-Apr-2013 11:50:03.214 CEST
+Begin processing the 907th record. Run 1, Event 43210309, LumiSection 43515 at 30-Apr-2013 11:50:03.215 CEST
+Begin processing the 908th record. Run 1, Event 43210310, LumiSection 43515 at 30-Apr-2013 11:50:03.216 CEST
+energy :4.56001 	 time : -0.377067
+ieta:-78	 iphi: 66
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 909th record. Run 1, Event 43210311, LumiSection 43515 at 30-Apr-2013 11:50:03.217 CEST
+Begin processing the 910th record. Run 1, Event 43210312, LumiSection 43515 at 30-Apr-2013 11:50:03.218 CEST
+energy :3.98217 	 time : 0.0688767
+ieta:-72	 iphi: 170
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 911th record. Run 1, Event 43210313, LumiSection 43515 at 30-Apr-2013 11:50:03.219 CEST
+Begin processing the 912th record. Run 1, Event 43210314, LumiSection 43515 at 30-Apr-2013 11:50:03.229 CEST
+Begin processing the 913th record. Run 1, Event 43210315, LumiSection 43515 at 30-Apr-2013 11:50:03.230 CEST
+Begin processing the 914th record. Run 1, Event 43210316, LumiSection 43515 at 30-Apr-2013 11:50:03.230 CEST
+energy :4.98574 	 time : -8.85245
+ieta:31	 iphi: 300
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	329	1
+5	344	1
+6	317	1
+7	285	1
+8	257	1
+9	237	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	199	1
+1	200	1
+2	200	1
+3	199	1
+4	334	1
+5	346	1
+6	318	1
+7	286	1
+8	256	1
+9	237	1
+Begin processing the 915th record. Run 1, Event 43210317, LumiSection 43515 at 30-Apr-2013 11:50:03.232 CEST
+Begin processing the 916th record. Run 1, Event 43210318, LumiSection 43515 at 30-Apr-2013 11:50:03.233 CEST
+Begin processing the 917th record. Run 1, Event 43210319, LumiSection 43515 at 30-Apr-2013 11:50:03.234 CEST
+Begin processing the 918th record. Run 1, Event 43210320, LumiSection 43515 at 30-Apr-2013 11:50:03.234 CEST
+energy :7.95126 	 time : -10.4545
+ieta:30	 iphi: 56
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	219	1
+4	378	1
+5	387	1
+6	350	1
+7	307	1
+8	272	1
+9	246	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	202	1
+1	201	1
+2	199	1
+3	242	1
+4	386	1
+5	390	1
+6	352	1
+7	308	1
+8	274	1
+9	246	1
+Begin processing the 919th record. Run 1, Event 43210321, LumiSection 43515 at 30-Apr-2013 11:50:03.236 CEST
+Begin processing the 920th record. Run 1, Event 43210322, LumiSection 43515 at 30-Apr-2013 11:50:03.237 CEST
+Begin processing the 921st record. Run 1, Event 43210323, LumiSection 43515 at 30-Apr-2013 11:50:03.237 CEST
+energy :4.03936 	 time : 37.4795
+ieta:-17	 iphi: 350
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :4.62064 	 time : -9.72097
+ieta:6	 iphi: 179
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	302	1
+5	310	1
+6	289	1
+7	264	1
+8	243	1
+9	228	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	204	1
+4	306	1
+5	314	1
+6	291	1
+7	266	1
+8	246	1
+9	229	1
+Begin processing the 922nd record. Run 1, Event 43210324, LumiSection 43515 at 30-Apr-2013 11:50:03.238 CEST
+Begin processing the 923rd record. Run 1, Event 43210325, LumiSection 43515 at 30-Apr-2013 11:50:03.239 CEST
+Begin processing the 924th record. Run 1, Event 43210326, LumiSection 43515 at 30-Apr-2013 11:50:03.239 CEST
+Begin processing the 925th record. Run 1, Event 43210327, LumiSection 43515 at 30-Apr-2013 11:50:03.240 CEST
+Begin processing the 926th record. Run 1, Event 43210328, LumiSection 43515 at 30-Apr-2013 11:50:03.240 CEST
+Begin processing the 927th record. Run 1, Event 43210329, LumiSection 43515 at 30-Apr-2013 11:50:03.241 CEST
+energy :5.30261 	 time : 39.8963
+ieta:-78	 iphi: 121
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 928th record. Run 1, Event 43210330, LumiSection 43515 at 30-Apr-2013 11:50:03.242 CEST
+Begin processing the 929th record. Run 1, Event 43210331, LumiSection 43515 at 30-Apr-2013 11:50:03.242 CEST
+Begin processing the 930th record. Run 1, Event 43210332, LumiSection 43515 at 30-Apr-2013 11:50:03.243 CEST
+Begin processing the 931st record. Run 1, Event 43210333, LumiSection 43515 at 30-Apr-2013 11:50:03.244 CEST
+Begin processing the 932nd record. Run 1, Event 43210334, LumiSection 43515 at 30-Apr-2013 11:50:03.244 CEST
+Begin processing the 933rd record. Run 1, Event 43210335, LumiSection 43515 at 30-Apr-2013 11:50:03.245 CEST
+Begin processing the 934th record. Run 1, Event 43210336, LumiSection 43515 at 30-Apr-2013 11:50:03.245 CEST
+Begin processing the 935th record. Run 1, Event 43210337, LumiSection 43515 at 30-Apr-2013 11:50:03.246 CEST
+Begin processing the 936th record. Run 1, Event 43210338, LumiSection 43515 at 30-Apr-2013 11:50:03.247 CEST
+energy :3.03042 	 time : -0.0226119
+ieta:-82	 iphi: 350
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 937th record. Run 1, Event 43210339, LumiSection 43515 at 30-Apr-2013 11:50:03.247 CEST
+Begin processing the 938th record. Run 1, Event 43210340, LumiSection 43515 at 30-Apr-2013 11:50:03.254 CEST
+energy :5.86899 	 time : 39.2794
+ieta:-61	 iphi: 65
+kWeird:1	 kDiWeird:0	 kOOT:1
+Begin processing the 939th record. Run 1, Event 43210341, LumiSection 43515 at 30-Apr-2013 11:50:03.255 CEST
+Begin processing the 940th record. Run 1, Event 43210342, LumiSection 43515 at 30-Apr-2013 11:50:03.255 CEST
+Begin processing the 941st record. Run 1, Event 43210343, LumiSection 43515 at 30-Apr-2013 11:50:03.256 CEST
+Begin processing the 942nd record. Run 1, Event 43210344, LumiSection 43515 at 30-Apr-2013 11:50:03.257 CEST
+energy :3.62246 	 time : -0.100276
+ieta:49	 iphi: 116
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 943rd record. Run 1, Event 43210345, LumiSection 43515 at 30-Apr-2013 11:50:03.257 CEST
+energy :4.68312 	 time : -9.39217
+ieta:-32	 iphi: 274
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :7.86111 	 time : -36.1018
+ieta:48	 iphi: 244
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	278	1
+3	468	1
+4	466	1
+5	409	1
+6	348	1
+7	299	1
+8	264	1
+9	240	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	199	1
+2	264	1
+3	466	1
+4	469	1
+5	412	1
+6	352	1
+7	302	1
+8	267	1
+9	242	1
+Begin processing the 944th record. Run 1, Event 43210346, LumiSection 43515 at 30-Apr-2013 11:50:03.258 CEST
+energy :3.73415 	 time : 0.955973
+ieta:-77	 iphi: 225
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 945th record. Run 1, Event 43210347, LumiSection 43515 at 30-Apr-2013 11:50:03.259 CEST
+energy :5.38956 	 time : 0.422565
+ieta:-28	 iphi: 161
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.04418 	 time : -0.754032
+ieta:-73	 iphi: 229
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 946th record. Run 1, Event 43210348, LumiSection 43515 at 30-Apr-2013 11:50:03.260 CEST
+Begin processing the 947th record. Run 1, Event 43210349, LumiSection 43515 at 30-Apr-2013 11:50:03.260 CEST
+Begin processing the 948th record. Run 1, Event 43210350, LumiSection 43515 at 30-Apr-2013 11:50:03.261 CEST
+Begin processing the 949th record. Run 1, Event 43210351, LumiSection 43515 at 30-Apr-2013 11:50:03.262 CEST
+energy :3.06033 	 time : -7.88153
+ieta:-68	 iphi: 210
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 950th record. Run 1, Event 43210352, LumiSection 43515 at 30-Apr-2013 11:50:03.263 CEST
+energy :3.22646 	 time : 38.215
+ieta:35	 iphi: 101
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	205	1
+6	326	1
+7	335	1
+8	309	1
+9	278	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	198	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	221	1
+6	329	1
+7	334	1
+8	307	1
+9	277	1
+Begin processing the 951st record. Run 1, Event 43210353, LumiSection 43515 at 30-Apr-2013 11:50:03.264 CEST
+energy :3.93693 	 time : -0.816205
+ieta:-34	 iphi: 333
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 952nd record. Run 1, Event 43210354, LumiSection 43515 at 30-Apr-2013 11:50:03.265 CEST
+Begin processing the 953rd record. Run 1, Event 43210355, LumiSection 43515 at 30-Apr-2013 11:50:03.265 CEST
+Begin processing the 954th record. Run 1, Event 43210356, LumiSection 43515 at 30-Apr-2013 11:50:03.266 CEST
+Begin processing the 955th record. Run 1, Event 43210357, LumiSection 43515 at 30-Apr-2013 11:50:03.267 CEST
+Begin processing the 956th record. Run 1, Event 43210358, LumiSection 43515 at 30-Apr-2013 11:50:03.268 CEST
+Begin processing the 957th record. Run 1, Event 43210359, LumiSection 43515 at 30-Apr-2013 11:50:03.268 CEST
+Begin processing the 958th record. Run 1, Event 43210360, LumiSection 43515 at 30-Apr-2013 11:50:03.269 CEST
+Begin processing the 959th record. Run 1, Event 43210361, LumiSection 43515 at 30-Apr-2013 11:50:03.270 CEST
+energy :3.63466 	 time : -0.246287
+ieta:42	 iphi: 70
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 960th record. Run 1, Event 43210362, LumiSection 43515 at 30-Apr-2013 11:50:03.271 CEST
+energy :5.73948 	 time : -10.0904
+ieta:-67	 iphi: 36
+kWeird:0	 kDiWeird:0	 kOOT:1
+energy :3.01222 	 time : -0.32232
+ieta:79	 iphi: 151
+kWeird:0	 kDiWeird:0	 kOOT:0
+energy :3.56274 	 time : 0.323263
+ieta:82	 iphi: 318
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 961st record. Run 1, Event 43210363, LumiSection 43515 at 30-Apr-2013 11:50:03.272 CEST
+Begin processing the 962nd record. Run 1, Event 43210364, LumiSection 43515 at 30-Apr-2013 11:50:03.273 CEST
+Begin processing the 963rd record. Run 1, Event 43210365, LumiSection 43515 at 30-Apr-2013 11:50:03.274 CEST
+Begin processing the 964th record. Run 1, Event 43210366, LumiSection 43515 at 30-Apr-2013 11:50:03.286 CEST
+Begin processing the 965th record. Run 1, Event 43210367, LumiSection 43515 at 30-Apr-2013 11:50:03.287 CEST
+energy :4.86143 	 time : -9.74652
+ieta:23	 iphi: 203
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	210	1
+4	300	1
+5	305	1
+6	284	1
+7	260	1
+8	240	1
+9	226	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	204	1
+4	298	1
+5	305	1
+6	285	1
+7	262	1
+8	242	1
+9	228	1
+Begin processing the 966th record. Run 1, Event 43210368, LumiSection 43515 at 30-Apr-2013 11:50:03.288 CEST
+energy :4.52994 	 time : -10.7444
+ieta:71	 iphi: 248
+kWeird:1	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	218	1
+4	301	1
+5	304	1
+6	282	1
+7	259	1
+8	239	1
+9	225	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	224	1
+4	304	1
+5	305	1
+6	286	1
+7	263	1
+8	242	1
+9	227	1
+Begin processing the 967th record. Run 1, Event 43210369, LumiSection 43515 at 30-Apr-2013 11:50:03.289 CEST
+Begin processing the 968th record. Run 1, Event 43210370, LumiSection 43515 at 30-Apr-2013 11:50:03.290 CEST
+energy :7.82963 	 time : -11.7111
+ieta:-83	 iphi: 359
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 969th record. Run 1, Event 43210371, LumiSection 43515 at 30-Apr-2013 11:50:03.291 CEST
+Begin processing the 970th record. Run 1, Event 43210372, LumiSection 43515 at 30-Apr-2013 11:50:03.293 CEST
+Begin processing the 971st record. Run 1, Event 43210373, LumiSection 43515 at 30-Apr-2013 11:50:03.294 CEST
+Begin processing the 972nd record. Run 1, Event 43210374, LumiSection 43515 at 30-Apr-2013 11:50:03.295 CEST
+energy :3.46941 	 time : 48.8871
+ieta:-83	 iphi: 9
+kWeird:0	 kDiWeird:0	 kOOT:1
+Begin processing the 973rd record. Run 1, Event 43210375, LumiSection 43515 at 30-Apr-2013 11:50:03.296 CEST
+energy :8.06975 	 time : -7.66389
+ieta:-60	 iphi: 57
+kWeird:1	 kDiWeird:0	 kOOT:1
+energy :3.67752 	 time : -13.324
+ieta:35	 iphi: 238
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	220	1
+4	287	1
+5	288	1
+6	269	1
+7	249	1
+8	233	1
+9	221	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	202	1
+3	217	1
+4	287	1
+5	288	1
+6	271	1
+7	251	1
+8	234	1
+9	223	1
+energy :3.6448 	 time : 47.3924
+ieta:78	 iphi: 310
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	200	1
+4	200	1
+5	200	1
+6	377	1
+7	429	1
+8	395	1
+9	344	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	200	1
+2	200	1
+3	199	1
+4	200	1
+5	200	1
+6	386	1
+7	431	1
+8	395	1
+9	342	1
+Begin processing the 974th record. Run 1, Event 43210376, LumiSection 43515 at 30-Apr-2013 11:50:03.298 CEST
+Begin processing the 975th record. Run 1, Event 43210377, LumiSection 43515 at 30-Apr-2013 11:50:03.298 CEST
+Begin processing the 976th record. Run 1, Event 43210378, LumiSection 43515 at 30-Apr-2013 11:50:03.299 CEST
+Begin processing the 977th record. Run 1, Event 43210379, LumiSection 43515 at 30-Apr-2013 11:50:03.300 CEST
+Begin processing the 978th record. Run 1, Event 43210380, LumiSection 43515 at 30-Apr-2013 11:50:03.301 CEST
+Begin processing the 979th record. Run 1, Event 43210381, LumiSection 43515 at 30-Apr-2013 11:50:03.301 CEST
+Begin processing the 980th record. Run 1, Event 43210382, LumiSection 43515 at 30-Apr-2013 11:50:03.302 CEST
+Begin processing the 981st record. Run 1, Event 43210383, LumiSection 43515 at 30-Apr-2013 11:50:03.303 CEST
+Begin processing the 982nd record. Run 1, Event 43210384, LumiSection 43515 at 30-Apr-2013 11:50:03.304 CEST
+Begin processing the 983rd record. Run 1, Event 43210385, LumiSection 43515 at 30-Apr-2013 11:50:03.305 CEST
+Begin processing the 984th record. Run 1, Event 43210386, LumiSection 43515 at 30-Apr-2013 11:50:03.306 CEST
+Begin processing the 985th record. Run 1, Event 43210387, LumiSection 43515 at 30-Apr-2013 11:50:03.307 CEST
+Begin processing the 986th record. Run 1, Event 43210388, LumiSection 43515 at 30-Apr-2013 11:50:03.308 CEST
+Begin processing the 987th record. Run 1, Event 43210389, LumiSection 43515 at 30-Apr-2013 11:50:03.309 CEST
+energy :5.11433 	 time : -10.6557
+ieta:57	 iphi: 176
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	200	1
+3	222	1
+4	319	1
+5	323	1
+6	297	1
+7	269	1
+8	247	1
+9	230	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	201	1
+2	202	1
+3	211	1
+4	320	1
+5	327	1
+6	301	1
+7	272	1
+8	248	1
+9	232	1
+Begin processing the 988th record. Run 1, Event 43210390, LumiSection 43515 at 30-Apr-2013 11:50:03.310 CEST
+Begin processing the 989th record. Run 1, Event 43210391, LumiSection 43515 at 30-Apr-2013 11:50:03.311 CEST
+Begin processing the 990th record. Run 1, Event 43210392, LumiSection 43515 at 30-Apr-2013 11:50:03.315 CEST
+energy :3.74788 	 time : -47.9302
+ieta:69	 iphi: 226
+kWeird:0	 kDiWeird:0	 kOOT:1
+Output from APD digi collection:
+Sample	ADC 	Gain
+0	200	1
+1	200	1
+2	353	1
+3	415	1
+4	387	1
+5	340	1
+6	296	1
+7	263	1
+8	240	1
+9	225	1
+Output from EB digi collection:
+Sample	ADC 	Gain
+0	201	1
+1	202	1
+2	349	1
+3	416	1
+4	389	1
+5	339	1
+6	295	1
+7	264	1
+8	240	1
+9	225	1
+Begin processing the 991st record. Run 1, Event 43210393, LumiSection 43515 at 30-Apr-2013 11:50:03.316 CEST
+Begin processing the 992nd record. Run 1, Event 43210394, LumiSection 43515 at 30-Apr-2013 11:50:03.317 CEST
+energy :9.0071 	 time : -1.11582
+ieta:-33	 iphi: 187
+kWeird:1	 kDiWeird:0	 kOOT:0
+energy :3.59163 	 time : 0.468677
+ieta:56	 iphi: 190
+kWeird:0	 kDiWeird:0	 kOOT:0
+Begin processing the 993rd record. Run 1, Event 43210395, LumiSection 43515 at 30-Apr-2013 11:50:03.318 CEST
+Begin processing the 994th record. Run 1, Event 43234228, LumiSection 43540 at 30-Apr-2013 11:50:03.320 CEST
+Begin processing the 995th record. Run 1, Event 43234229, LumiSection 43540 at 30-Apr-2013 11:50:03.321 CEST
+Begin processing the 996th record. Run 1, Event 43234230, LumiSection 43540 at 30-Apr-2013 11:50:03.322 CEST
+Begin processing the 997th record. Run 1, Event 43234231, LumiSection 43540 at 30-Apr-2013 11:50:03.322 CEST
+Begin processing the 998th record. Run 1, Event 43234232, LumiSection 43540 at 30-Apr-2013 11:50:03.323 CEST
+Begin processing the 999th record. Run 1, Event 43234233, LumiSection 43540 at 30-Apr-2013 11:50:03.324 CEST
+Begin processing the 1000th record. Run 1, Event 43234234, LumiSection 43540 at 30-Apr-2013 11:50:03.324 CEST
+30-Apr-2013 11:50:03 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3

@@ -1,0 +1,10 @@
+CaloTowerConstituentsMapBuilder::CaloTowerConstituentsMapBuilder
+07-Jun-2013 17:57:45 CEST  Initiating request to open file root://eoscms//eos/cms//store/caf/user/amartell/Upgrade/SpikeStudies/ZeroBias_14TeV_PU70_TL300_IL1E34_STAR17_61_V6A/ZeroBias_NUgun_pT2-20_PU70-14TeV_effective_TL300_IL1E34_STAR17_61_V6A_1_1_vlQ.root
+07-Jun-2013 17:57:46 CEST  Successfully opened file root://eoscms//eos/cms//store/caf/user/amartell/Upgrade/SpikeStudies/ZeroBias_14TeV_PU70_TL300_IL1E34_STAR17_61_V6A/ZeroBias_NUgun_pT2-20_PU70-14TeV_effective_TL300_IL1E34_STAR17_61_V6A_1_1_vlQ.root
+07-Jun-2013 17:57:50 CEST  Closed file root://eoscms//eos/cms//store/caf/user/amartell/Upgrade/SpikeStudies/ZeroBias_14TeV_PU70_TL300_IL1E34_STAR17_61_V6A/ZeroBias_NUgun_pT2-20_PU70-14TeV_effective_TL300_IL1E34_STAR17_61_V6A_1_1_vlQ.root
+----- Begin Fatal Exception 07-Jun-2013 17:57:50 CEST-----------------------
+An exception of category 'PluginNotFound' occurred while
+   [0] Constructing the EventProcessor
+Exception Message:
+Unable to find plugin 'SpikeStudy' in category 'CMS EDM Framework Module'. Please check spelling of name.
+----- End Fatal Exception -------------------------------------------------

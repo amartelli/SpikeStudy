@@ -1,0 +1,2 @@
+bsub -cwd $PWD -q 1nd $PWD/job2_8TeV_PU2012_BS50_uffCFG.csh
+bsub -cwd $PWD -q 1nd $PWD/job2_PU70_BS50_uffCFG.csh

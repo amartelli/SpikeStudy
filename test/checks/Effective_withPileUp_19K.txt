@@ -1,0 +1,94 @@
+02-May-2013 11:08:33 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_0.root
+02-May-2013 11:08:34 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_0.root
+Begin processing the 1st record. Run 1, Event 43209403, LumiSection 43515 at 02-May-2013 11:08:39.642 CEST
+02-May-2013 11:08:43 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_0.root
+02-May-2013 11:08:43 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_1.root
+02-May-2013 11:08:43 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_1.root
+Begin processing the 1001st record. Run 1, Event 43234235, LumiSection 43540 at 02-May-2013 11:08:44.996 CEST
+02-May-2013 11:08:46 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_1.root
+02-May-2013 11:08:46 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_2.root
+02-May-2013 11:08:46 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_2.root
+Begin processing the 2001st record. Run 1, Event 43275948, LumiSection 43582 at 02-May-2013 11:08:48.576 CEST
+02-May-2013 11:08:50 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_2.root
+02-May-2013 11:08:50 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_3.root
+02-May-2013 11:08:50 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_3.root
+Begin processing the 3001st record. Run 1, Event 43454695, LumiSection 43762 at 02-May-2013 11:08:52.184 CEST
+02-May-2013 11:08:54 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_3.root
+02-May-2013 11:08:54 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_4.root
+02-May-2013 11:08:54 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_4.root
+Begin processing the 4001st record. Run 1, Event 43491443, LumiSection 43799 at 02-May-2013 11:08:56.614 CEST
+02-May-2013 11:08:58 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_4.root
+02-May-2013 11:08:58 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_5.root
+02-May-2013 11:08:58 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_5.root
+Begin processing the 5001st record. Run 1, Event 43493436, LumiSection 43801 at 02-May-2013 11:09:00.273 CEST
+02-May-2013 11:09:01 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_5.root
+02-May-2013 11:09:01 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_6.root
+02-May-2013 11:09:02 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_6.root
+Begin processing the 6001st record. Run 1, Event 43567918, LumiSection 43876 at 02-May-2013 11:09:04.200 CEST
+02-May-2013 11:09:05 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_6.root
+02-May-2013 11:09:05 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_7.root
+02-May-2013 11:09:06 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_7.root
+Begin processing the 7001st record. Run 1, Event 43569911, LumiSection 43878 at 02-May-2013 11:09:07.794 CEST
+02-May-2013 11:09:09 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_7.root
+02-May-2013 11:09:09 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_8.root
+02-May-2013 11:09:09 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_8.root
+Begin processing the 8001st record. Run 1, Event 43602687, LumiSection 43911 at 02-May-2013 11:09:11.425 CEST
+02-May-2013 11:09:13 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_8.root
+02-May-2013 11:09:13 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_9.root
+02-May-2013 11:09:13 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_9.root
+Begin processing the 9001st record. Run 1, Event 43625533, LumiSection 43934 at 02-May-2013 11:09:14.856 CEST
+02-May-2013 11:09:16 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_9.root
+02-May-2013 11:09:16 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_10.root
+02-May-2013 11:09:16 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_10.root
+Begin processing the 10001st record. Run 1, Event 43660295, LumiSection 43969 at 02-May-2013 11:09:18.507 CEST
+02-May-2013 11:09:20 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_10.root
+02-May-2013 11:09:20 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_11.root
+02-May-2013 11:09:20 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_11.root
+Begin processing the 11001st record. Run 1, Event 43671225, LumiSection 43980 at 02-May-2013 11:09:22.196 CEST
+02-May-2013 11:09:24 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_11.root
+02-May-2013 11:09:24 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_12.root
+02-May-2013 11:09:24 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_12.root
+Begin processing the 12001st record. Run 1, Event 43694071, LumiSection 44003 at 02-May-2013 11:09:25.947 CEST
+02-May-2013 11:09:27 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_12.root
+02-May-2013 11:09:27 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_13.root
+02-May-2013 11:09:27 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_13.root
+Begin processing the 13001st record. Run 1, Event 43712945, LumiSection 44022 at 02-May-2013 11:09:29.773 CEST
+02-May-2013 11:09:31 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_13.root
+02-May-2013 11:09:31 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_14.root
+02-May-2013 11:09:31 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_14.root
+Begin processing the 14001st record. Run 1, Event 43731819, LumiSection 44041 at 02-May-2013 11:09:33.537 CEST
+02-May-2013 11:09:35 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_14.root
+02-May-2013 11:09:35 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_15.root
+02-May-2013 11:09:35 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_15.root
+Begin processing the 15001st record. Run 1, Event 43764595, LumiSection 44074 at 02-May-2013 11:09:37.522 CEST
+02-May-2013 11:09:39 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_15.root
+02-May-2013 11:09:39 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_16.root
+02-May-2013 11:09:39 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_16.root
+Begin processing the 16001st record. Run 1, Event 43797371, LumiSection 44107 at 02-May-2013 11:09:41.397 CEST
+02-May-2013 11:09:43 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_16.root
+02-May-2013 11:09:43 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_17.root
+02-May-2013 11:09:43 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_17.root
+Begin processing the 17001st record. Run 1, Event 43807308, LumiSection 44117 at 02-May-2013 11:09:45.528 CEST
+02-May-2013 11:09:47 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_17.root
+02-May-2013 11:09:47 CEST  Initiating request to open file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_18.root
+02-May-2013 11:09:47 CEST  Successfully opened file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_18.root
+Begin processing the 18001st record. Run 1, Event 43811287, LumiSection 44121 at 02-May-2013 11:09:49.439 CEST
+02-May-2013 11:09:51 CEST  Closed file root://eoscms//eos/cms/store/caf/user/sandhya/Spikes/ValidateMC/MinBias_8TeV_Effective_withPileUp_run2012C_18.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                            19       19
+    2 fileAction           -s file_open                             38       38
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun       PostEndRun       PostEndRun
+    2 fileAction           pre-events       pre-events       PostEndRun
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                 57                  57
